@@ -1,6 +1,6 @@
 {
     "core": {
-      "test_url": "https://www.apple.com/library/test/success.html",
+      "test_url": "https://www.google.com/generate_204",
       "log_level": "warning",
       "domain_strategy": "IPIFNonMatch",
       "allow_insecure_tls": false,
@@ -41,6 +41,7 @@
       "config_url": ""
     }
   }
+
 
 
 
