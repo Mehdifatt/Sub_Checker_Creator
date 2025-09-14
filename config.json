@@ -1,11 +1,7 @@
 {
   "core": {
     "test_urls": [
-      "http://www.msftconnecttest.com/connecttest.txt",
-      "http://clients3.google.com/generate_204",
-      "http://captive.apple.com/hotspot-detect.html",
-      "http://detectportal.firefox.com/success.txt",
-      "https://1.1.1.1"
+      "http://www.msftconnecttest.com/connecttest.txt"
         
     ],
     "log_level": "warning",
@@ -51,5 +47,6 @@
     "config_url": ""
   }
 }
+
 
 
