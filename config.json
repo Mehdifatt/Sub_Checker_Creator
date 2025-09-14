@@ -1,16 +1,10 @@
 {
   "core": {
-    "test_url": [
-      "http://www.msftconnecttest.com/connecttest.txt"
-        
-    ],
+    "test_url": "http://www.msftconnecttest.com/connecttest.txt",
     "log_level": "warning",
-    "domain_strategy": "IPIfNonMatch",
+    "domain_strategy": "IPIFNonMatch",
     "allow_insecure_tls": false,
-    "sniffing": {
-      "enabled": true,
-      "destOverride": ["http", "tls"]
-    },
+    "sniffing_enabled": true,
     "inbound_ports": {
       "socks": 10808,
       "http": 10809
@@ -19,8 +13,8 @@
       "enabled": true,
       "fake_dns_enabled": true,
       "local_port": 10853,
-      "remote_server": "https://1.1.1.1/dns-query",
-      "domestic_server": "https://9.9.9.9/dns-query"
+      "remote_server": "https://cloudflare-dns.com/dns-query",
+      "domestic_server": "1.1.1.1"
     },
     "routing_rules": {
       "proxy": "",
@@ -47,7 +41,3 @@
     "config_url": ""
   }
 }
-
-
-
-
