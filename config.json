@@ -1,6 +1,6 @@
 {
     "core": {
-      "test_url": "http://www.msftconnecttest.com/connecttest.txt",
+      "test_url": "https://www.msftconnecttest.com/connecttest.txt",
       "log_level": "warning",
       "domain_strategy": "IPIFNonMatch",
       "allow_insecure_tls": false,
@@ -41,4 +41,5 @@
       "config_url": ""
     }
   }
+
 
