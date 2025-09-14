@@ -4,7 +4,7 @@
       "http://www.msftconnecttest.com/connecttest.txt",
       "http://clients3.google.com/generate_204",
       "http://captive.apple.com/hotspot-detect.html",
-      "http://detectportal.firefox.com/success.txt"
+      "http://detectportal.firefox.com/success.txt",
         
     ],
     "log_level": "warning",
@@ -50,3 +50,4 @@
     "config_url": ""
   }
 }
+
