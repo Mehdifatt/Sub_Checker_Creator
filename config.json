@@ -1,6 +1,6 @@
 {
   "core": {
-    "test_urls": [
+    "test_url": [
       "http://www.msftconnecttest.com/connecttest.txt"
         
     ],
@@ -47,6 +47,7 @@
     "config_url": ""
   }
 }
+
 
 
 
