@@ -1,44 +1,52 @@
 {
-    "core": {
-      "test_url": "https://www.google.com/generate_204",
-      "log_level": "warning",
-      "domain_strategy": "IPIFNonMatch",
-      "allow_insecure_tls": false,
-      "sniffing_enabled": true,
-      "inbound_ports": {
-        "socks": 10808,
-        "http": 10809
-      },
-      "dns": {
-        "enabled": true,
-        "fake_dns_enabled": true,
-        "local_port": 10853,
-        "remote_server": "https://8.8.8.8/dns-query",
-        "domestic_server": "1.1.1.2"
-      },
-      "routing_rules": {
-        "proxy": "",
-        "direct": "",
-        "block": ""
-      },
-      "fragment": {
-        "enabled": true,
-        "packets": "tlshello",
-        "length": "10-30",
-        "interval": "1-5"
-      },
-      "fake_host": {
-        "enabled": false,
-        "domain": "cloudflare.com"
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": 8
-      }
+  "core": {
+    "test_urls": [
+      "http://www.msftconnecttest.com/connecttest.txt",
+      "http://clients3.google.com/generate_204",
+      "http://captive.apple.com/hotspot-detect.html",
+      "http://detectportal.firefox.com/success.txt"
+        
+    ],
+    "log_level": "warning",
+    "domain_strategy": "IPIfNonMatch",
+    "allow_insecure_tls": false,
+    "sniffing": {
+      "enabled": true,
+      "destOverride": ["http", "tls"]
     },
-    "warp_on_warp": {
+    "inbound_ports": {
+      "socks": 10808,
+      "http": 10809
+    },
+    "dns": {
+      "enabled": true,
+      "fake_dns_enabled": true,
+      "local_port": 10853,
+      "remote_server": "https://1.1.1.1/dns-query",
+      "domestic_server": "https://9.9.9.9/dns-query"
+    },
+    "routing_rules": {
+      "proxy": "",
+      "direct": "",
+      "block": ""
+    },
+    "fragment": {
+      "enabled": true,
+      "packets": "tlshello",
+      "length": "20-50",
+      "interval": "5-15"
+    },
+    "fake_host": {
       "enabled": false,
-      "config_url": ""
+      "domain": "cloudflare.com"
+    },
+    "mux": {
+      "enabled": true,
+      "concurrency": 4
     }
+  },
+  "warp_on_warp": {
+    "enabled": false,
+    "config_url": ""
   }
-
+}
