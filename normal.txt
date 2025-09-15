@@ -482,8 +482,6 @@ hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=
 
 ss://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801/?encryption=none&host=varzesh3.ir&type=tcp&headerType=http#Blindvpn
 
-ss://10811461-dd47-46a7-8f6d-c34bbd8f9734@m77a.vip784.com:33801/?security=none&encryption=none&type=tcp&host=varzesh3.ir/&path=/&headerType=http#Blindvpn
-
 ss://12b9f991-3e67-46f5-938f-7430bfb1adc4@fi-node.buylano.com:47193?encryption=none&security=reality&sni=www.pcmag.com&fp=firefox&pbk=Q9KrxctP_L5fT1sL_sQLejDpNn7KdH1b-wZ_GR0UtX4&sid=f414e49bc35be542&type=tcp&headerType=none#Blindvpn
 
 ss://1efab776-c694-4652-f89e-45ffffe49ef6@104.21.80.1:8080?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=shad.ir.fin.test.digicyber.click.&type=ws#Blindvpn
@@ -504,6 +502,8 @@ ss://41032e76-519f-43d4-8768-603fc7afbb40@Evay_vpn.heloisfood.ir:8678?type=xhttp
 
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Blindvpn
 
+ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=raw&headertype=none#Blindvpn
+
 ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
 
 ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#Blindvpn
@@ -518,15 +518,11 @@ ss://636a7036-3875-4886-a32d-161bd65b1deb@evay_vpn.heloisfood.ir:1530/?type=xhtt
 
 ss://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?encryption=none&security=none&type=tcp&headerType=http#Blindvpn
 
-ss://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=&encryption=none&headerType=http&type=tcp#Blindvpn
-
 ss://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=none&encryption=none&headerType=http&type=tcp#Blindvpn
 
 ss://6804a4ea-a079-4b9f-8923-59757b91bd5b@167.99.83.204:28743?path=/&security=none&encryption=none&type=ws#Blindvpn
 
 ss://6a2e5e47-7ca3-4217-9e09-b31688e234ef@206.189.124.177:36063?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#Blindvpn
-
-ss://6b0896c0-e576-47a0-9213-3f300fdff59b@37.27.192.142:15388?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
 
 ss://6ea9f368-45fd-400e-bafa-32190bc4b0bc@65.109.204.177:443?note=---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---&encryption=none&security=none&type=ws&path=%2F#Blindvpn
 
@@ -538,9 +534,13 @@ ss://9%6555dc25-81b3-455c-898c-1fcdd90%6555f0@141.227.170.209:34219?mode=gun&sec
 
 ss://91af3d98-fb3c-40f9-8a69-21ff12ccaec4@65.21.132.249:443?mode=gun&security=reality&encryption=none&pbk=SH8hAIyzkC6kEHlxKPTItVv0hqQevBvNm_cGbaHU3g4&fp=random&spx=%2F&type=grpc&serviceName=%40UnlimitedDev&sni=ftp.debian.org&sid=c7cf5bc1#Blindvpn
 
+ss://93382dc3-a897-402f-8f6a-261f867f1e43@m45a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
+
 ss://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443/?type=grpc&encryption=none&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&sni=www.speedtest.net&alpn=h2&fp=chrome&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#Blindvpn
 
 ss://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111?mode=gun&security=&encryption=none&type=grpc#Blindvpn
+
+ss://9e55dc25-81b3-455c-898c-1fcdd90e55f0@141.227.170.209:34219?mode=gun&security=&encryption=none&type=grpc&serviceName=%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-bia-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E#Blindvpn
 
 ss://9e55dc25-81b3-455c-898c-1fcdd90e55f0@141.227.170.209:34219?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Blindvpn
 
@@ -558,6 +558,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@46.62.152.84:808#Blind
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#Blindvpn
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRY3N1a242cVNIbEtpVG5oMDhhOUNi@94.237.105.27:8443#Blindvpn
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRY3N1a242cVNIbEtpVG5oMDhhOUNi@94.237.105.27:8443?note=--Telegram--@NetifyVPN--#Blindvpn
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRY3N1a242cVNIbEtpVG5oMDhhOUNi@94.237.105.27:8443?note=--Telegram--NetifyVPN--#Blindvpn
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTGZhN0lsem1tcnd5QnRJNEJPSnMz@83.147.216.70:64519#Blindvpn
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTdXI1Tnk3NG5wRDM@185.242.247.249:443#Blindvpn
@@ -567,8 +573,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMjlCcGJ0a2hXWnI@185.204.1.253:443#Blindvpn
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#Blindvpn
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphRTVyRmR4ekc4R1FmNVRBUWhaaFJB@45.144.235.103:1080?note=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#Blindvpn
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTllzaFJiM216cDc@93.152.207.167:443#Blindvpn
 
@@ -584,9 +588,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaUY5OHhCTDJ2MWk=@135.181.114.242:8478#Blind
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#Blindvpn
 
-ss://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080/?type=tcp&encryption=none#Blindvpn
+ss://a2fef41a-8b8e-4b8c-8368-08d7c5de413c@storm.timholden.info:56420/?type=tcp&encryption=none&flow=#Blindvpn
 
-ss://aa650bee-b0c7-4ff0-a7d7-1c70fa13e678@95.216.154.179:45213?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
+ss://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080/?type=tcp&encryption=none#Blindvpn
 
 ss://ae-_vVpp77-9OO-_ve-_ve-_ve-_ve-_vTVv35t3fj7VrTfvv73vv70677-977-977-9@185.250.181.128:16106#Blindvpn
 
@@ -622,8 +626,6 @@ ss://telegram-ArV2ray@65.109.240.81:443?mode=gun&security=reality&encryption=non
 
 vless://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801/?encryption=none&host=varzesh3.ir&type=tcp&headerType=http#Blindvpn
 
-vless://10811461-dd47-46a7-8f6d-c34bbd8f9734@m77a.vip784.com:33801/?security=none&encryption=none&type=tcp&host=varzesh3.ir/&path=/&headerType=http#Blindvpn
-
 vless://12b9f991-3e67-46f5-938f-7430bfb1adc4@fi-node.buylano.com:47193?encryption=none&security=reality&sni=www.pcmag.com&fp=firefox&pbk=Q9KrxctP_L5fT1sL_sQLejDpNn7KdH1b-wZ_GR0UtX4&sid=f414e49bc35be542&type=tcp&headerType=none#Blindvpn
 
 vless://1efab776-c694-4652-f89e-45ffffe49ef6@104.21.80.1:8080?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=shad.ir.fin.test.digicyber.click.&type=ws#Blindvpn
@@ -644,6 +646,8 @@ vless://41032e76-519f-43d4-8768-603fc7afbb40@Evay_vpn.heloisfood.ir:8678?type=xh
 
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Blindvpn
 
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=raw&headertype=none#Blindvpn
+
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
 
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#Blindvpn
@@ -658,15 +662,11 @@ vless://636a7036-3875-4886-a32d-161bd65b1deb@evay_vpn.heloisfood.ir:1530/?type=x
 
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?encryption=none&security=none&type=tcp&headerType=http#Blindvpn
 
-vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=&encryption=none&headerType=http&type=tcp#Blindvpn
-
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=none&encryption=none&headerType=http&type=tcp#Blindvpn
 
 vless://6804a4ea-a079-4b9f-8923-59757b91bd5b@167.99.83.204:28743?path=/&security=none&encryption=none&type=ws#Blindvpn
 
 vless://6a2e5e47-7ca3-4217-9e09-b31688e234ef@206.189.124.177:36063?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#Blindvpn
-
-vless://6b0896c0-e576-47a0-9213-3f300fdff59b@37.27.192.142:15388?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
 
 vless://6ea9f368-45fd-400e-bafa-32190bc4b0bc@65.109.204.177:443?note=---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---&encryption=none&security=none&type=ws&path=%2F#Blindvpn
 
@@ -678,17 +678,21 @@ vless://9%6555dc25-81b3-455c-898c-1fcdd90%6555f0@141.227.170.209:34219?mode=gun&
 
 vless://91af3d98-fb3c-40f9-8a69-21ff12ccaec4@65.21.132.249:443?mode=gun&security=reality&encryption=none&pbk=SH8hAIyzkC6kEHlxKPTItVv0hqQevBvNm_cGbaHU3g4&fp=random&spx=%2F&type=grpc&serviceName=%40UnlimitedDev&sni=ftp.debian.org&sid=c7cf5bc1#Blindvpn
 
+vless://93382dc3-a897-402f-8f6a-261f867f1e43@m45a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
+
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443/?type=grpc&encryption=none&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&sni=www.speedtest.net&alpn=h2&fp=chrome&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#Blindvpn
 
 vless://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111?mode=gun&security=&encryption=none&type=grpc#Blindvpn
+
+vless://9e55dc25-81b3-455c-898c-1fcdd90e55f0@141.227.170.209:34219?mode=gun&security=&encryption=none&type=grpc&serviceName=%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-bia-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E#Blindvpn
 
 vless://9e55dc25-81b3-455c-898c-1fcdd90e55f0@141.227.170.209:34219?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Blindvpn
 
 vless://Parsashonam-Bot-21@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Blindvpn
 
-vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080/?type=tcp&encryption=none#Blindvpn
+vless://a2fef41a-8b8e-4b8c-8368-08d7c5de413c@storm.timholden.info:56420/?type=tcp&encryption=none&flow=#Blindvpn
 
-vless://aa650bee-b0c7-4ff0-a7d7-1c70fa13e678@95.216.154.179:45213?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
+vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080/?type=tcp&encryption=none#Blindvpn
 
 vless://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443?type=ws&path=%2F&host=&security=none#Blindvpn
 
