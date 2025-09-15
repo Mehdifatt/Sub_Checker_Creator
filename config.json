@@ -22,7 +22,7 @@
         "block": ""
       },
       "fragment": {
-        "enabled": true,
+        "enabled": false,
         "packets": "tlshello",
         "length": "10-30",
         "interval": "1-5"
@@ -32,7 +32,7 @@
         "domain": "cloudflare.com"
       },
       "mux": {
-        "enabled": false,
+        "enabled": true,
         "concurrency": 8
       }
     },
@@ -41,6 +41,7 @@
       "config_url": ""
     }
   }
+
 
 
 
