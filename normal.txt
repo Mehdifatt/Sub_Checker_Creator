@@ -480,9 +480,7 @@ hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=
 
 ss://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801/?encryption=none&host=varzesh3.ir&type=tcp&headerType=http#Blindvpn
 
-ss://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
-
-ss://0af150f1-63f1-46cb-8307-162f12249236@65.21.57.232:23327?security=&encryption=none&headerType=&type=tcp#Blindvpn
+ss://0e40ca6f-a279-446c-b339-898524fadb5a@finland.orbixa.ir:2096?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
 
 ss://1417a34f-a0d9-46c4-a2c7-9c7d56ac4b5d@Evay_vpn.heloisfood.ir:8678?type=xhttp&mode=auto&host=EVAY_VPN-EVAY_VPN-EVAY_VPN-EVAY_VPN.heloisfood.ir&path=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn%3Fed%3D2048&security=none#Blindvpn
 
@@ -501,6 +499,8 @@ ss://3bba9a08-157f-442b-b814-313e3ec7f350@54.36.117.130:25369?mode=gun&security=
 ss://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#Blindvpn
 
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Blindvpn
+
+ss://494d3397-6acc-1d8a-7956-5369368187a0@46.62.171.118:443?security=none&type=tcp#Blindvpn
 
 ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
 
@@ -628,9 +628,7 @@ ss://telegram-ArV2ray@65.109.240.81:443?mode=gun&security=reality&encryption=non
 
 vless://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801/?encryption=none&host=varzesh3.ir&type=tcp&headerType=http#Blindvpn
 
-vless://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
-
-vless://0af150f1-63f1-46cb-8307-162f12249236@65.21.57.232:23327?security=&encryption=none&headerType=&type=tcp#Blindvpn
+vless://0e40ca6f-a279-446c-b339-898524fadb5a@finland.orbixa.ir:2096?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
 
 vless://1417a34f-a0d9-46c4-a2c7-9c7d56ac4b5d@Evay_vpn.heloisfood.ir:8678?type=xhttp&mode=auto&host=EVAY_VPN-EVAY_VPN-EVAY_VPN-EVAY_VPN.heloisfood.ir&path=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn%3Fed%3D2048&security=none#Blindvpn
 
@@ -649,6 +647,8 @@ vless://3bba9a08-157f-442b-b814-313e3ec7f350@54.36.117.130:25369?mode=gun&securi
 vless://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#Blindvpn
 
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Blindvpn
+
+vless://494d3397-6acc-1d8a-7956-5369368187a0@46.62.171.118:443?security=none&type=tcp#Blindvpn
 
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
 
