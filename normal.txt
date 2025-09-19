@@ -518,15 +518,17 @@ ss://636a7036-3875-4886-a32d-161bd65b1deb@evay_vpn.heloisfood.ir:1530/?type=xhtt
 
 ss://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=none&encryption=none&headerType=http&type=tcp#Blindvpn
 
-ss://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=none&type=tcp&encryption=none&headerType=http#Blindvpn
-
 ss://6804a4ea-a079-4b9f-8923-59757b91bd5b@167.99.83.204:28743?path=/&security=none&encryption=none&type=ws#Blindvpn
 
 ss://6a2e5e47-7ca3-4217-9e09-b31688e234ef@206.189.124.177:36063?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#Blindvpn
 
 ss://855793d3-b604-4031-97c1-3f20d7a57b1e@c20f6d3f4b1883b1c20f6d3f4b1883b1c20f6d3f4b1883b1.jewelll.ir:17500?security=none&encryption=none&headerType=http&type=tcp#Blindvpn
 
+ss://8758b88e-dc19-44c0-8694-04f873cf0890@mci.itbookshop.dpdns.org:443?path=%2F&security=none&encryption=none&type=ws#Blindvpn
+
 ss://888a20e2-fc3f-4f52-973c-36a6386225b8@189.44.242.222:29500?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
+
+ss://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?encryption=none&security=tls&sni=dedic.app-browser.org&type=raw&headertype=none#Blindvpn
 
 ss://9%6555dc25-81b3-455c-898c-1fcdd90%6555f0@141.227.170.209:34219?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#Blindvpn
 
@@ -608,6 +610,8 @@ ss://db5b029f-250d-4f4b-9d3c-8ae166b5443b@free1.behnambani.blog:8880?mode=auto&p
 
 ss://dc2f2d7b-a250-4dad-a4ec-1a3308886ca2@54.36.117.130:25367?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Blindvpn
 
+ss://dcbaf118-31cf-4148-9670-2b5d6554f669@masterserver1.heloisfood.ir:1331?mode=auto&path=%2F%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&fp=chrome&type=xhttp&sni=stackoverflow.com&sid=077dc29a23d311f2#Blindvpn
+
 ss://edaae19a-8b97-4cff-ba39-7cf86aea8bf7@46.62.152.219:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&host=mci.ir&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#Blindvpn
 
 ss://f622987c-b7ee-407d-acfe-07f45978012f@161.35.175.165:55769?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#Blindvpn
@@ -662,15 +666,17 @@ vless://636a7036-3875-4886-a32d-161bd65b1deb@evay_vpn.heloisfood.ir:1530/?type=x
 
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=none&encryption=none&headerType=http&type=tcp#Blindvpn
 
-vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=none&type=tcp&encryption=none&headerType=http#Blindvpn
-
 vless://6804a4ea-a079-4b9f-8923-59757b91bd5b@167.99.83.204:28743?path=/&security=none&encryption=none&type=ws#Blindvpn
 
 vless://6a2e5e47-7ca3-4217-9e09-b31688e234ef@206.189.124.177:36063?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#Blindvpn
 
 vless://855793d3-b604-4031-97c1-3f20d7a57b1e@c20f6d3f4b1883b1c20f6d3f4b1883b1c20f6d3f4b1883b1.jewelll.ir:17500?security=none&encryption=none&headerType=http&type=tcp#Blindvpn
 
+vless://8758b88e-dc19-44c0-8694-04f873cf0890@mci.itbookshop.dpdns.org:443?path=%2F&security=none&encryption=none&type=ws#Blindvpn
+
 vless://888a20e2-fc3f-4f52-973c-36a6386225b8@189.44.242.222:29500?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
+
+vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?encryption=none&security=tls&sni=dedic.app-browser.org&type=raw&headertype=none#Blindvpn
 
 vless://9%6555dc25-81b3-455c-898c-1fcdd90%6555f0@141.227.170.209:34219?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#Blindvpn
 
@@ -716,6 +722,8 @@ vless://db5b029f-250d-4f4b-9d3c-8ae166b5443b@free1.behnambani.blog:8880?mode=aut
 
 vless://dc2f2d7b-a250-4dad-a4ec-1a3308886ca2@54.36.117.130:25367?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Blindvpn
 
+vless://dcbaf118-31cf-4148-9670-2b5d6554f669@masterserver1.heloisfood.ir:1331?mode=auto&path=%2F%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&fp=chrome&type=xhttp&sni=stackoverflow.com&sid=077dc29a23d311f2#Blindvpn
+
 vless://edaae19a-8b97-4cff-ba39-7cf86aea8bf7@46.62.152.219:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&host=mci.ir&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#Blindvpn
 
 vless://f622987c-b7ee-407d-acfe-07f45978012f@161.35.175.165:55769?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#Blindvpn
@@ -751,6 +759,4 @@ vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwMDNmMTI3OS1jNTVkLTQyN2MtODMyNy05ZjcxZjhiMWNjMGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0Ijo2NjE2LCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJCbGluZHZwbiJ9
 
 vmess://eyJhZGQiOiJtY2kueWVrdGFuZXQuaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5YzhmOGU4Ny0zMWUyLTRiN2ItOWEyOC1iNjcxZWZjNDI2YTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1NTU1IiwicHMiOiJCbGluZHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
-
-vmess://eyJhZGQiOiJzMy5pcHlhci5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzhiNGZiNTctMzlkNy00ZTlkLWRkMzgtYzlhMzgzMjJiY2IyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMjAyMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJCbGluZHZwbiJ9
 
