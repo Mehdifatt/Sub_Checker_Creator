@@ -516,7 +516,7 @@ ss://75ed210a-10f2-4819-ac89-e0ff93b52ec7@157.180.81.19:1530/?type=xhttp&encrypt
 
 ss://75ed210a-10f2-4819-ac89-e0ff93b52ec7@157.180.81.19:1530?type=xhttp&mode=auto&host=EVAY_VPN---EVAY_VPN---EVAY_VPN---EVAY_VPN&path=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=reality&fp=chrome&sni=stackoverflow.com&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#Blindvpn
 
-ss://847688a6-d453-489f-937c-10a604c17d46@157.180.81.19:8080?encryption=none&type=grpc&mode=gun&serviceName=%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=none#Blindvpn
+ss://847688a6-d453-489f-937c-10a604c17d46@157.180.81.19:8080?encryption=none&type=grpc&mode=gun&serviceName=t.me/entryNET&security=none#Blindvpn
 
 ss://855793d3-b604-4031-97c1-3f20d7a57b1e@c20f6d3f4b1883b1c20f6d3f4b1883b1c20f6d3f4b1883b1.jewelll.ir:17500?security=none&encryption=none&headerType=http&type=tcp#Blindvpn
 
@@ -635,8 +635,6 @@ vless://6a2e5e47-7ca3-4217-9e09-b31688e234ef@206.189.124.177:36063?path=/&securi
 vless://75ed210a-10f2-4819-ac89-e0ff93b52ec7@157.180.81.19:1530/?type=xhttp&encryption=none&sni=stackoverflow.com&fp=chrome&security=reality&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#Blindvpn
 
 vless://75ed210a-10f2-4819-ac89-e0ff93b52ec7@157.180.81.19:1530?type=xhttp&mode=auto&host=EVAY_VPN---EVAY_VPN---EVAY_VPN---EVAY_VPN&path=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=reality&fp=chrome&sni=stackoverflow.com&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#Blindvpn
-
-vless://847688a6-d453-489f-937c-10a604c17d46@157.180.81.19:8080?encryption=none&type=grpc&mode=gun&serviceName=%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=none#Blindvpn
 
 vless://855793d3-b604-4031-97c1-3f20d7a57b1e@c20f6d3f4b1883b1c20f6d3f4b1883b1c20f6d3f4b1883b1.jewelll.ir:17500?security=none&encryption=none&headerType=http&type=tcp#Blindvpn
 
