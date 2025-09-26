@@ -1,0 +1,7 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://84a20227-a400-4806-9c63-d4ca0f3b950b@hield.ru:8443?type=tcp&security=reality&pbk=c7pmEcOmq_DP_i2LVMrBi85FQ-ueco4teFc2IJb8zVE&fp=chrome&sni=yahoo.com&sid=4ddc&spx=%2F&flow=xtls-rprx-vision#Blindvpn%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930287805772573.helsinki-drc-dcrabj.info:8880?security=&encryption=none&type=grpc#Blindvpn%3A%3A%F0%9F%87%B1%F0%9F%87%B9
