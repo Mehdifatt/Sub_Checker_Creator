@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://6b3a7034-39ec-f057-377d-cf6af57b4db4@ovhpoland.ip-venzo.com:35588?security=reality&encryption=none&pbk=DFGsM_I2pY_5pHisx2CrD-RgI3UcTBmEOa0-wdW5ly4&host=----telegram----skypro_vpn----telegram--skypro_vpn----telegram----skypro_vpn----telegram----skypro_vpn----telegram----skypro_vpn----skypro_vpn----skypro_vpn----skypro_vpn----&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=5f4ab2905a60052e#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://6b3a7034-39ec-f057-377d-cf6af57b4db4@51.68.146.216:35588?security=reality&encryption=none&pbk=DFGsM_I2pY_5pHisx2CrD-RgI3UcTBmEOa0-wdW5ly4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=5f4ab2905a60052e#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vmess://eyJ2IjoiMiIsImFkZCI6IjE0Ni41OS41NS41MCIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsImhvc3QiOiJvLm1ldHVqaS5jb20iLCJwYXRoIjoiL2xpbmt2d3MiLCJwcyI6IkJsaW5kdnBuOjrwn4e18J+HsSJ9
+vless://6b3a7034-39ec-f057-377d-cf6af57b4db4@51.68.146.216:35588/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cloudflare.com&fp=firefox&security=reality&pbk=DFGsM_I2pY_5pHisx2CrD-RgI3UcTBmEOa0-wdW5ly4&sid=5f4ab2905a60052e#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
