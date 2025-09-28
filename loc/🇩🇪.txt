@@ -2,8 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://4e1f0fc6-a7f8-4642-bd35-6a3aa0bb2fc8@w3.org:443?encryption=none&security=tls&sni=hdfynpv2c1.farvaharforever.com&fp=chrome&type=ws&path=%2FIyq035lnud9R8ruNNrqGxZZ2&host=hdfynpv2c1.farvaharforever.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://4e1f0fc6-a7f8-4642-bd35-6a3aa0bb2fc8@autotrader.co.uk:443?encryption=none&security=tls&sni=hdfynpv2c1.farvaharforever.com&fp=chrome&type=ws&path=%2FIyq035lnud9R8ruNNrqGxZZ2&host=hdfynpv2c1.farvaharforever.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://4e1f0fc6-a7f8-4642-bd35-6a3aa0bb2fc8@braze.com:443?encryption=none&security=tls&sni=hdfynpv2c1.farvaharforever.com&fp=chrome&type=ws&path=%2FIyq035lnud9R8ruNNrqGxZZ2&host=hdfynpv2c1.farvaharforever.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://4e1f0fc6-a7f8-4642-bd35-6a3aa0bb2fc8@vinted.fr:443?encryption=none&security=tls&sni=hdfynpv2c1.farvaharforever.com&fp=chrome&type=ws&path=%2FIyq035lnud9R8ruNNrqGxZZ2&host=hdfynpv2c1.farvaharforever.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@81.200.158.206:8443/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560fp%3Dchrome&security=tls&sni=kejiland.freewarp.eu.org#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://807b0166-9e81-45fe-bac9-e14b7f67e8bf@91.99.185.197:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=91.99.185.197&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://SERVERNETT-SERVERNETT1@alo09.sernett.ir:80?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
