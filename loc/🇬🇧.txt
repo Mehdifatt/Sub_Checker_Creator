@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://e1d4dab2-bb0e-4d8c-b855-5909b800ec6e@51.77.110.218:443?security=reality&encryption=none&pbk=Z-ZdWpiqKV1nMbzLUl4E9nPISeM2HxE0ol2_lVjPkGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=bf36d61d757e#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 trojan://biOrJGlcfX@creativecommons.org:443?path=%2Fkos-madaret-khamneii&security=tls&alpn=h2%2Chttp%2F1.1&host=ghasem.kotlet.org&fp=firefox&type=ws&sni=ghasem.kotlet.org#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
