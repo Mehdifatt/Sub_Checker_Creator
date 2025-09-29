@@ -1,0 +1,7 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=dedic.app-browser.org#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://8f82acbe-f328-471a-8000-fbea349e6ce0@dedic.app-browser.org:443?security=tls&encryption=none&headerType=none&fp=random&type=tcp&sni=dedic.app-browser.org#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
