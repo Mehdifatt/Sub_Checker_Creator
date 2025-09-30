@@ -2,4 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://be7b6063-4a06-446c-b295-9a6fbec34e6d@vihan.vpnpremium.shop:443?type=tcp&security=tls&fp=&alpn=&allowInsecure=1&sni=aka.ms#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://be7b6063-4a06-446c-b295-9a6fbec34e6d@vihan.vpnpremium.shop:443?type=tcp&security=tls&fp=&alpn=&allowInsecure=1&sni=zoom.us#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://be7b6063-4a06-446c-b295-9a6fbec34e6d@vihan.vpnpremium.shop:443?type=tcp&security=tls&fp=&alpn=&allowInsecure=1&sni=netflix.com#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://be7b6063-4a06-446c-b295-9a6fbec34e6d@vihan.vpnpremium.shop:443?type=tcp&security=tls&fp=&alpn=&allowInsecure=1&sni=www.whatsapp.com#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://be7b6063-4a06-446c-b295-9a6fbec34e6d@vihan.vpnpremium.shop:443?type=tcp&security=tls&fp=&alpn=&allowInsecure=1&sni=mail.yahoo.com#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://be7b6063-4a06-446c-b295-9a6fbec34e6d@vihan.vpnpremium.shop:443?type=tcp&security=tls&fp=&alpn=&allowInsecure=1&sni=telegram.us#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://be7b6063-4a06-446c-b295-9a6fbec34e6d@vihan.vpnpremium.shop:443?type=tcp&security=tls&fp=&alpn=&allowInsecure=1&sni=partner.steampowered.com#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://be7b6063-4a06-446c-b295-9a6fbec34e6d@vihan.vpnpremium.shop:443?type=tcp&security=tls&fp=&alpn=&allowInsecure=1&sni=m.viber.com#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://be7b6063-4a06-446c-b295-9a6fbec34e6d@vihan.vpnpremium.shop:443?type=tcp&security=tls&fp=&alpn=&allowInsecure=1&sni=android.googleapis.com#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://9a6538ad-3050-42de-8dab-d0d84fe975b1@support.zoom.us:8443?type=ws&encryption=none&path=%2F&host=vihan.vpnpremium.shop&security=tls&fp=&alpn=&allowInsecure=1&sni=vihan.vpnpremium.shop#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp2.mangshe.xyz:2060/?insecure=1&sni=xjp2.mangshe.xyz#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
