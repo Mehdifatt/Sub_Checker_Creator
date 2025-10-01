@@ -2,4 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://6825b61d-e062-4725-bd63-ddb954f6a3b6@kiliyanmbappe10.vtuix.online:7033?mode=gun&security=reality&encryption=none&authority=---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=firefox&type=grpc&serviceName=7034vless&sni=telewebion.com&sid=16b6cda7ab793526#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://2715b5fc-a3a8-49dd-8c10-55f18f3030c5@141.94.213.115:25365?security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://713f6b9e-6200-405d-9ca8-77bc45be625b@51.178.253.133:22808?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://telegram-id-privatevpns@52.47.122.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://telegram-id-directvpn@52.47.122.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.122.22:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://telegram-id-directvpn@15.188.32.128:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.32.128:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://telegram-id-privatevpns@15.188.32.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
