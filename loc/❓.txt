@@ -2,5 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://6877b96c-a092-4f90-8e46-cbb4cad2bb9f@104.26.13.31:443?encryption=none&security=tls&sni=vless-10.webn.cc&type=ws&host=vless-10.webn.cc&path=%2Fsnippets%3Fip%3Dproxyip%3Aport%28443%29%26nat64%3D6to4#Blindvpn%3A%3A%E2%9D%93
-hy2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335/?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#Blindvpn%3A%3A%E2%9D%93
+vless://7a726307-4a2d-4b9b-abca-cf1e5dabd7b7@snipaste5.speedip.eu.org:8443?encryption=none&security=tls&sni=vless-10.webn.cc&type=ws&host=vless-10.webn.cc&path=%2Fsnippets%3Fip%3Dproxyip%3Aport%28443%29%26nat64%3D6to4#Blindvpn%3A%3A%E2%9D%93
+vless://7a726307-4a2d-4b9b-abca-cf1e5dabd7b7@104.26.12.31:443?encryption=none&security=tls&sni=vless-10.webn.cc&type=ws&host=vless-10.webn.cc&path=%2Fsnippets%3Fip%3Dproxyip%3Aport%28443%29%26nat64%3D6to4#Blindvpn%3A%3A%E2%9D%93
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@w3.org:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#Blindvpn%3A%3A%E2%9D%93
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@db-ip.com:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#Blindvpn%3A%3A%E2%9D%93
+hy2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335/?insecure=1&sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm#Blindvpn%3A%3A%E2%9D%93
+hy2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335/?insecure=1&sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm#Blindvpn%3A%3A%E2%9D%93
+hy2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205/?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#Blindvpn%3A%3A%E2%9D%93
