@@ -2,8 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://%40Geek_Spot@176.97.210.2:37589?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://3e18c700-a3a7-44b4-9775-c8ff625e150a@164.90.202.94:8880?security=reality&encryption=none&pbk=kzjg7NchgsTCS_Ba9H1YX6MX0HyqnYBtCF84jOQ-Sw0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=682b#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://36d42222-9eea-4489-bc55-91ba630dd29f@80.74.29.212:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA&sni=google.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://6b3a7034-39ec-f057-377d-cf6af57b4db4@panel-nl.turkcloud.ir:8081?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
