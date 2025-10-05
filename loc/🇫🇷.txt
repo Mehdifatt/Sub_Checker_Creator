@@ -2,5 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://5856ba11-25aa-4445-afe3-2aad99e3102b@141.227.132.245:8080?mode=multi&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://edd716ae-7d5a-44f7-a0ed-a615eab0c766@141.94.168.171:32647?mode=gun&security=none&encryption=none&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://2715b5fc-a3a8-49dd-8c10-55f18f3030c5@141.94.213.115:25365?encryption=none&type=grpc&mode=gun&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://telegram-id-directvpn@35.180.94.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://telegram-id-privatevpns@35.180.94.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.94.176:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://b889be29-ef7d-466d-905b-7496b886400c@realdom-fr.panelfreedom.com:20810?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://e82d672c-cfcd-4439-bd44-754c0756d663@51.178.253.222:5050/?type=tcp&encryption=none&security=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
