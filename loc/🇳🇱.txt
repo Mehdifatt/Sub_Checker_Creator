@@ -2,11 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@151.242.251.144:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.137:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNW9zWmcyNjl2NXpIcFlqcjF4WTlz@151.242.251.137:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.144:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@151.242.251.137:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNW9zWmcyNjl2NXpIcFlqcjF4WTlz@151.242.251.144:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.137:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@66.90.90.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@151.242.251.137:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://e07f158d-a5ee-44a5-8b75-10525fc4b06d@phpweb.aliyostd.com:2689?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&serviceName=nama&sni=tgju.org&sid=b6c24852f86067a6#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1

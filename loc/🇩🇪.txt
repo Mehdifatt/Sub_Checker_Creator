@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://37a2ec9e-c8d9-48c9-be0a-0922890089f4@87.120.216.14:56334?security=reality&encryption=none&pbk=BCSE3PP1V1kx4tZN4lPx3daoRFuLn4WMo8spczXpWG8&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=amazon.com&sid=b70f#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://d4803c0d-c9f3-4c9c-a034-342a71ef03a0@91.98.47.45:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=91.98.47.45&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@cc.cybsecguru.com:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&encryption=none&host=jnir-cdn.6006900.xyz&type=ws&sni=jnir-cdn.6006900.xyz#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://e4be8400-d45b-407c-9d1e-41399c85cbb1@91.99.109.36:43052?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
