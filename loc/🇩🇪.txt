@@ -2,17 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://8c9a7ef4-b692-41ee-90ca-669b04990ac5@at.pixvpn.app:8443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-jd&sni=jd.com&sid=41a4cee2c50c4fc3#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://9422b7fa-4192-4309-9875-0c1556a6e6f9@135.125.245.195:443?path=%2Flinkvkwss&security=tls&encryption=none&host=bLazE-de-195.mETiKAPpS.COm&type=ws&sni=bLazE-de-195.mETiKAPpS.COm#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://8c9a7ef4-b692-41ee-90ca-669b04990ac5@fr.pixvpn.app:8443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-jd&sni=jd.com&sid=41a4cee2c50c4fc3#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e0401812-e35f-4ab0-87d7-22ce1e617526@netcdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?encryption=none&security=none&type=ws&host=%2F---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&path=%2F#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e0401812-e35f-4ab0-87d7-22ce1e617526@netcdn.parsgit.com:4040?path=admin%3Fed%3D1024&security=none&encryption=none&host=webde2.parsgit.com.&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e0401812-e35f-4ab0-87d7-22ce1e617526@netcdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e0401812-e35f-4ab0-87d7-22ce1e617526@netcdn.parsgit.com:4040/?path=%2Fadmin%3Fed%3D1024&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://2e532561-7a61-4fdf-a534-706682c2e209@94.143.231.62:443?security=reality&encryption=none&pbk=V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2d46a79deebf50fd#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://bcc560e0-173b-4c49-a4ce-742c3fae0028@164.92.188.15:9696?security=reality&encryption=none&pbk=Y_GsfLRoTP6SXIyYQjrn8TM_nce7Y9RIoEfWTJ35sGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e0401812-e35f-4ab0-87d7-22ce1e617526@netcdn.parsgit.com:4040/?path=admin%3Fed%3D1024&security=none&encryption=none&host=webde2.parsgit.com.&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e0401812-e35f-4ab0-87d7-22ce1e617526@netcdn.parsgit.com:4040/?path=%2Fadmin%3Fed%3D1024&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://e0401812-e35f-4ab0-87d7-22ce1e617526@netcdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
