@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://645df003-baf6-4ac7-9429-f0b517d4c56b@151.101.1.91:80?path=%2Fdanuwa&security=none&encryption=none&host=danuwazero.lk&type=ws#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://35d1d15d-cfb6-471b-9252-af93bee7a637@170.114.52.22:443?path=%2Fdanuwa&security=tls&encryption=none&host=partner.lkzoom.space&fp=chrome&type=ws&sni=partner.lkzoom.space#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
