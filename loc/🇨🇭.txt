@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://5f2a8c6c-836e-4c15-b3bd-99709271b1c3@37.27.249.93:10000?security=&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vmess://eyJhZGQiOiIzNy4yNy4yNDkuOTMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzFhZjE4Y2EtMTI3YS00YjA0LTljZmItYzQ2MTZkNmFkYTYwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMDAwMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IkJsaW5kdnBuOjrwn4eo8J+HrSJ9
