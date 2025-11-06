@@ -1444,13 +1444,13 @@ ss://dc2f2d7b-a250-4dad-a4ec-1a3308886ca2@54.36.117.130:25367?mode=gun&security=
 
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.108:8880?encryption=none&security=none&type=grpc#Blindvpn
 
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.108:8880?mode=gun&security=none&encryption=none&authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&type=grpc#Blindvpn
-
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.108:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
 
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.108:8880?security=&encryption=none&type=grpc#Blindvpn
 
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.123:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#Blindvpn
+
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.123:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
 
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.132:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
 
@@ -1660,13 +1660,13 @@ vless://dc2f2d7b-a250-4dad-a4ec-1a3308886ca2@54.36.117.130:25367?mode=gun&securi
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.108:8880?encryption=none&security=none&type=grpc#Blindvpn
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.108:8880?mode=gun&security=none&encryption=none&authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&type=grpc#Blindvpn
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.108:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.108:8880?security=&encryption=none&type=grpc#Blindvpn
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.123:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#Blindvpn
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.123:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.132:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
 
@@ -1769,6 +1769,8 @@ vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0
 vmess://eyJhZGQiOiI5NS4yMTYuMTg2LjE5MSIsImFpZCI6MCwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjJhYWM3N2RlLWIzZTQtNDAxNy04NDVjLWNhMTM4MGYyZThkMCIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWxlZ3JhbS1pZC0iLCJwb3J0Ijo4MCwicHMiOiJCbGluZHZwbiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
 
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIzZjQtZGNmZC00ZmVmLTliYTMtZWYwYWQxMGZjMzM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjY2MTYsInBzIjoiQmxpbmR2cG4iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+
+vmess://eyJ2IjoiMiIsImFkZCI6IjM3LjE0My4xMjkuMjM4IiwicG9ydCI6IjY2MTYiLCJ0eXBlIjoiYXV0byIsImlkIjoiNDU5ZDIzZjQtZGNmZC00ZmVmLTliYTMtZWYwYWQxMGZjMzM2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIiwicHMiOiJCbGluZHZwbiJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoiQmxpbmR2cG4iLCJhZGQiOiIxMDQuMTcuMjIzLjE4IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImZmMmQxN2M2LTBkOTYtNDgwMS1hMjcwLTlkYmE4MzM0ZjhjNiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 
