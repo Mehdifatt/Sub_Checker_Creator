@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://21389e1d-e91f-4156-93ee-4ed2c321e37c@51.38.232.101:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/vless/&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=Join---azadiiivpn---Join---azadiiivpn---Join---azadiiivpn---Join---azadiiivpn&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@147.79.100.54:37096?security=tls&sni=vpn-srv-2.circlevpn.net&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@147.79.100.54:37096?security=tls&sni=vpn-srv-2.circlevpn.net&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
