@@ -2,10 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=local.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://29b6687e-0544-4749-b1b3-ad2e29e81cf6@65.109.184.82:8443?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://39904219-c070-4a8f-a820-07406ff07538@37.27.249.161:2083?mode=gun&security=reality&encryption=none&pbk=I5CKiks47aBxqcqrWOzHV-ejzg_6qTnjJsZMNBZ7UCY&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAY&sni=tgju.org&sid=50d6#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://38ced162-2eb3-4aee-998f-747961f02c01@helsinki.fonixapp.org:23747?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=lowes.com&fp=chrome&security=reality&pbk=u7gBBaokHefxp8JS3G_Nu1X5y6Rh5SsRBrVC1L-4ySY&sid=b7#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://38ced162-2eb3-4aee-998f-747961f02c01@helsinki.fonixapp.org:23747?security=reality&encryption=none&pbk=u7gBBaokHefxp8JS3G_Nu1X5y6Rh5SsRBrVC1L-4ySY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=b7#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://7a0b6c85-ce1f-4de0-acd4-9e368d74f415@85.239.149.76:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&pbk=4efItvVkLuH2AdiaNzDIzmyHT3yE4uWcql1L3xEPXko&sid=f0e1d8d8d83346e8&spx=%2F#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&type=ws&sni=fl-3-direct.djarbnet.ru#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443/?type=ws&encryption=none&flow=&host=private.besttotaldns.com&path=%2FJ5aKLOY1R7ONXYCM&ed=2747&eh=Sec-WebSocket-Protocol&security=tls&sni=private.besttotaldns.com&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@45.144.52.23:443?note=---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---&path=%2Fgetupdates&security=tls&encryption=none&type=ws&sni=fl-3-direct.djarbnet.ru#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=/getupdates&security=tls&encryption=none&type=ws&sni=fl-3-direct.djarbnet.ru#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?encryption=none&security=tls&sni=fl-3-direct.djarbnet.ru&type=ws&path=%2Fgetupdates#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?security=reality&encryption=none&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=9d36b8589fa524fd#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://f8633e30-f8d7-4e6a-9204-e7f512b7124e@135.181.62.183:443?type=tcp&encryption=none&flow=&security=tls&sni=service.rogsoftwaregroup.com&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443/?type=ws&encryption=none&flow=&host=private.besttotaldns.com&path=%2FJ5aKLOY1R7ONXYCM&ed=2747&eh=Sec-WebSocket-Protocol&security=tls&sni=private.besttotaldns.com&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
