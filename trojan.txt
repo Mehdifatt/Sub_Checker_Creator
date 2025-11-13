@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/65.109.227.138=2053&host=joss.dus.biz.id#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053/?type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F65.109.227.138%3D2053&security=tls&sni=joss.dus.biz.id#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#Blindvpn%3A%3A%E2%9D%93
+trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053?path=%2FFree-VPN-CF-Geo-Project%2F65.109.227.138%3D2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+trojan://76ed5507-80e9-4549-877c-f74c174c26b4@95.214.9.72:443?path=%2FFree-VPN-CF-Geo-Project%2F95.214.9.72%3D443&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
