@@ -2,8 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&sni=www.nintendogames.net#Blindvpn%3A%3A%E2%9D%93
 trojan://2274c52572e721086f8bd8f88984643c@58.152.110.216:443?allowInsecure=0&sni=www.nintendogames.net#Blindvpn%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:1334?allowInsecure=0&sni=www.nintendogames.net#Blindvpn%3A%3A%E2%9D%93
-trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://f8eb228a-58a8-430f-ae39-f2a0ebbf8460@94.142.138.97:8443?path=%2FFree-VPN-CF-Geo-Project%2F94.142.138.97%3D8443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:1334?allowInsecure=0&sni=www.nintendogames.net#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
