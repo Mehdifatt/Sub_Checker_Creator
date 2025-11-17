@@ -2,10 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=loCal.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=loCal.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng=@65.21.243.22:31348#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://Parsashonam-Bot-37@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443/?type=ws&encryption=none&flow=&host=fl-3-direct.djarbnet.ru&path=%2Fgetupdates&security=tls&sni=fl-3-direct.djarbnet.ru&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?security=reality&encryption=none&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=9d36b8589fa524fd#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&sid=9d36b8589fa524fd#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&fp=chrome&type=ws&sni=fl-3-direct.djarbnet.ru#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&sid=9d36b8589fa524fd&spx=%2F#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443/?type=ws&encryption=none&flow=&host=private.besttotaldns.com&path=%2FJ5aKLOY1R7ONXYCM&ed=2747&eh=Sec-WebSocket-Protocol&security=tls&sni=private.besttotaldns.com&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://f8633e30-f8d7-4e6a-9204-e7f512b7124e@135.181.62.183:443?type=tcp&encryption=none&flow=&security=tls&sni=service.rogsoftwaregroup.com&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://f8633e30-f8d7-4e6a-9204-e7f512b7124e@135.181.62.183:443?security=tls&encryption=none&headerType=none&type=tcp&sni=service.rogsoftwaregroup.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
