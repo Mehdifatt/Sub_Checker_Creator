@@ -3,12 +3,11 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.176:8880?encryption=none&security=none&type=grpc#Blindvpn%3A%3A%E2%9D%93
-vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?security=tls&sni=fast01.0860852.xyz&allowInsecure=1&fp=chrome&type=ws&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3&host=fast01.0860852.xyz&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%E2%9D%93
 vless://c8451b58-6337-4294-ba28-1a33731331a1@31.6.1.187:25607?security=reality&sni=store.steampowered.com&allowInsecure=1&fp=chrome&pbk=j5CgrKQgkDV5bC5Y4pB0lGNupDYxklIDgge4HL1X3zE&sid=84&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%E2%9D%93
-vless://c8451b58-6337-4294-ba28-1a33731331a1@31.6.1.187:25607?security=reality&sni=store.steampowered.com&fp=chrome&pbk=j5CgrKQgkDV5bC5Y4pB0lGNupDYxklIDgge4HL1X3zE&sid=84&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%E2%9D%93
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%E2%9D%93
-vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed%3D2560&security=none&encryption=none&host=157.180.123.25&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?security=reality&sni=dl.google.com&allowInsecure=1&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%BF
+vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?security=reality&sni=google.com&allowInsecure=1&fp=chrome&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%E2%9D%93
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed%3D2560&security=&encryption=none&host=157.180.123.25&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed%3D2560&security=none&encryption=none&host=157.180.123.25&type=ws#Blindvpn%3A%3A%E2%9D%93
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=157.180.123.25&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?security=reality&encryption=none&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=9d36b8589fa524fd#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&fp=chrome&type=ws&sni=fl-3-direct.djarbnet.ru#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&type=ws&sni=fl-3-direct.djarbnet.ru#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
