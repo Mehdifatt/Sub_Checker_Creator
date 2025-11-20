@@ -650,8 +650,6 @@ ss://1b1f88bf-e743-40e6-8a1b-24f8bbbcde5e@46.62.202.197:443?type=xhttp&encryptio
 
 ss://1ea570c2-8adb-4f6e-9eef-182c8a6076c2@m62a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
 
-ss://1ed8343f-ed7a-4753-80cf-08d6b7c650dc@hield.ru:3389?security=reality&encryption=none&pbk=brMfFpfxMeNeqGqG0ZmWdwlnvZBfBTY92Jjyfz8Qyz4&headerType=none&fp=ios&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0274c94d298e#Blindvpn
-
 ss://22948aee-4981-4ba1-b8df-7a2b494a8a28@65.21.240.236:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=advertisement.app-browser.org#Blindvpn
 
 ss://22948aee-4981-4ba1-b8df-7a2b494a8a28@advertisement.app-browser.org:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=advertisement.app-browser.org#Blindvpn
@@ -780,11 +778,7 @@ ss://id6856346113@s2.nodu11.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-visi
 
 ss://kanaleDailyConfigs@bia-kanalemoon.vigilante.ir:443?mode=multi&security=reality&encryption=none&pbk=0PUc6kHXBAUkpjN6Zm3KkdpnpMHDl45vl-yL_Oyg4wE&fp=firefox&spx=%2F&type=grpc&serviceName=%2FDaily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs%3Fed%3D2048&sni=tgju.com#Blindvpn
 
-trojan://3ea503c7-2e03-424a-812d-6f0d803e73dc@138.124.15.75:443?security=tls&sni=joss.gpj.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F138.124.15.75%3D443&Host=joss.gpj.web.id#Blindvpn
-
 trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F65.109.227.138%3D2053&security=tls&sni=joss.dus.biz.id#Blindvpn
-
-trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053?security=tls&sni=joss.dus.biz.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F65.109.227.138%3D2053&Host=joss.dus.biz.id#Blindvpn
 
 trojan://88939272-790a-441f-b12b-8ce531aca810@polo01.kctr2038.icu:443/?type=tcp&security=tls&sni=polo01.kctr2038.icu#Blindvpn
 
@@ -801,8 +795,6 @@ vless://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443?security=tls&encr
 vless://1b1f88bf-e743-40e6-8a1b-24f8bbbcde5e@46.62.202.197:443?type=xhttp&encryption=none&security=&host=&path=&sni=#Blindvpn
 
 vless://1ea570c2-8adb-4f6e-9eef-182c8a6076c2@m62a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
-
-vless://1ed8343f-ed7a-4753-80cf-08d6b7c650dc@hield.ru:3389?security=reality&encryption=none&pbk=brMfFpfxMeNeqGqG0ZmWdwlnvZBfBTY92Jjyfz8Qyz4&headerType=none&fp=ios&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0274c94d298e#Blindvpn
 
 vless://22948aee-4981-4ba1-b8df-7a2b494a8a28@65.21.240.236:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=advertisement.app-browser.org#Blindvpn
 
@@ -916,8 +908,6 @@ vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIz
 
 vmess://eyJ2IjoiMiIsInBzIjoiQmxpbmR2cG4iLCJhZGQiOiIxMDQuMTcuMjIzLjE4IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImZmMmQxN2M2LTBkOTYtNDgwMS1hMjcwLTlkYmE4MzM0ZjhjNiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 
-vmess://eyJhZGQiOiJmaW5sYW5kMi5tb2JpbGVzYWxpbWkuc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJKb2luLS0tUExBTkJfTkVULS0tSm9pbi0tLVBMQU5CX05FVC0tLUpvaW4tLS1QTEFOQl9ORVQtLS1Kb2luLS0tUExBTkJfTkVUIiwiaWQiOiI4MmU4ODYwMy1hM2QxLTRjNmYtYWNlOC0yYzVjYWYwMDQ2YjMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM3OTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiQmxpbmR2cG4ifQ
-
 vmess://eyJhZGQiOiI2NS4xMDkuMTg0LjE1MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1Y2Y4MzZjOC1iYjdkLTRlYWMtZjBlZS1iYzcyMWZiNzQ1M2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiQmxpbmR2cG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
 
 vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJCbGluZHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0
@@ -925,6 +915,8 @@ vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwMDNmMTI3OS1jNTVkLTQyN2MtODMyNy05ZjcxZjhiMWNjMGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0Ijo2NjE2LCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJCbGluZHZwbiJ9
 
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0OGEyOTRmNS1iZDMyLTdjYWYtNjg3OS05NTFkN2Q1NjlhZDEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiJCbGluZHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
+
+vmess://eyJhZGQiOiJmaW5sYW5kMi5tb2JpbGVzYWxpbWkuc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyZTg4NjAzLWEzZDEtNGM2Zi1hY2U4LTJjNWNhZjAwNDZiMyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzc5MiIsInBzIjoiQmxpbmR2cG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiJmaW5sYW5kMi5tb2JpbGVzYWxpbWkuc2JzIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjZiMzE5MDJjLWFjNjAtNDlkNy05NDFmLTM4ZDY2ZTE5Njg0YyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjozNzkyLCJwcyI6IkJsaW5kdnBuIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
 
