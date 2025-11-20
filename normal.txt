@@ -686,8 +686,6 @@ ss://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed
 
 ss://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=157.180.123.25&type=ws#Blindvpn
 
-ss://8acce190-9a6c-47c6-bf21-487466b6f521@65.109.208.42:443?security=reality&flow=xtls-rprx-vision&sni=tradingveiw.com&type=tcp&fp=chrome&pbk=EMa87NDtZ_IsnOFKYZAGKz6288Fuu2IKep_dGbK0iV4&sid=5263e31933d3451c&alpn=http/1.1#Blindvpn
-
 ss://91af3d98-fb3c-40f9-8a69-21ff12ccaec4@65.21.132.249:443?mode=gun&security=reality&encryption=none&pbk=SH8hAIyzkC6kEHlxKPTItVv0hqQevBvNm_cGbaHU3g4&fp=random&spx=%2F&type=grpc&serviceName=%40UnlimitedDev&sni=ftp.debian.org&sid=c7cf5bc1#Blindvpn
 
 ss://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443/?type=grpc&encryption=none&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&sni=www.speedtest.net&alpn=h2&fp=chrome&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#Blindvpn
@@ -819,8 +817,6 @@ vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed%3D2560&security=none&encryption=none&host=157.180.123.25&type=ws#Blindvpn
 
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=157.180.123.25&type=ws#Blindvpn
-
-vless://8acce190-9a6c-47c6-bf21-487466b6f521@65.109.208.42:443?security=reality&flow=xtls-rprx-vision&sni=tradingveiw.com&type=tcp&fp=chrome&pbk=EMa87NDtZ_IsnOFKYZAGKz6288Fuu2IKep_dGbK0iV4&sid=5263e31933d3451c&alpn=http/1.1#Blindvpn
 
 vless://91af3d98-fb3c-40f9-8a69-21ff12ccaec4@65.21.132.249:443?mode=gun&security=reality&encryption=none&pbk=SH8hAIyzkC6kEHlxKPTItVv0hqQevBvNm_cGbaHU3g4&fp=random&spx=%2F&type=grpc&serviceName=%40UnlimitedDev&sni=ftp.debian.org&sid=c7cf5bc1#Blindvpn
 
