@@ -668,8 +668,6 @@ ss://22948aee-4981-4ba1-b8df-7a2b494a8a28@65.21.240.236:443?security=tls&encrypt
 
 ss://22948aee-4981-4ba1-b8df-7a2b494a8a28@advertisement.app-browser.org:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=advertisement.app-browser.org#Blindvpn
 
-ss://33954f32-9f4b-4449-a56c-b7a79ec13702@Abmive.abmivenaser-18.ir:1520?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Blindvpn
-
 ss://466cdb16-8d8a-46f8-b61d-fcd226a820fd@fin01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#Blindvpn
 
 ss://4ee43b46-94e8-4639-b4e1-7e9485c4dfbe@hield.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=JPm5aPILktbakyQ21Q3p4ABm3NHBIVMmaumDveRBGws&sid=06c6eb7423f24de5&spx=%2F&type=tcp&headerType=none#Blindvpn
@@ -707,8 +705,6 @@ ss://Parsashonam-Bot-36@104.17.147.22:8080?type=ws&encryption=none&flow=&host=Fi
 ss://Parsashonam-Bot-37@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Blindvpn
 
 ss://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443/?type=tcp&encryption=none&flow=#Blindvpn
-
-ss://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=none&encryption=none&host=--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12&headerType=none&type=tcp#Blindvpn
 
 ss://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?type=tcp&encryption=none&flow=#Blindvpn
 
@@ -828,8 +824,6 @@ vless://22948aee-4981-4ba1-b8df-7a2b494a8a28@65.21.240.236:443?security=tls&encr
 
 vless://22948aee-4981-4ba1-b8df-7a2b494a8a28@advertisement.app-browser.org:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=advertisement.app-browser.org#Blindvpn
 
-vless://33954f32-9f4b-4449-a56c-b7a79ec13702@Abmive.abmivenaser-18.ir:1520?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Blindvpn
-
 vless://466cdb16-8d8a-46f8-b61d-fcd226a820fd@fin01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#Blindvpn
 
 vless://4ee43b46-94e8-4639-b4e1-7e9485c4dfbe@hield.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=JPm5aPILktbakyQ21Q3p4ABm3NHBIVMmaumDveRBGws&sid=06c6eb7423f24de5&spx=%2F&type=tcp&headerType=none#Blindvpn
@@ -865,8 +859,6 @@ vless://Parsashonam-Bot-36@104.17.147.22:8080?type=ws&encryption=none&flow=&host
 vless://Parsashonam-Bot-37@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Blindvpn
 
 vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443/?type=tcp&encryption=none&flow=#Blindvpn
-
-vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=none&encryption=none&host=--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12&headerType=none&type=tcp#Blindvpn
 
 vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?type=tcp&encryption=none&flow=#Blindvpn
 
