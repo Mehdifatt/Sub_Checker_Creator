@@ -698,13 +698,19 @@ ss://Parsashonam-Bot-36@104.17.147.22:8080?type=ws&encryption=none&flow=&host=Fi
 
 ss://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443/?type=tcp&encryption=none&flow=#Blindvpn
 
+ss://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=none&encryption=none&host=--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12&headerType=none&type=tcp#Blindvpn
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#Blindvpn
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904#Blindvpn
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc%3D@64.137.109.212:44884#Blindvpn
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc=@64.137.109.212:44884?prefix=%16%03%01%00%C2%A8%01%01#Blindvpn
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc@64.137.109.212:44884#Blindvpn
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@141.98.4.67:52952#Blindvpn
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTdXI1Tnk3NG5wRDM@185.242.247.249:443#Blindvpn
 
@@ -759,8 +765,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&security=n
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.47:8880/?type=grpc&encryption=none#Blindvpn
 
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.88:8880/?type=grpc&encryption=none#Blindvpn
-
-ss://e5c68a8e-7ace-41e0-b97c-307889e1706c@37.27.40.194:10138?type=grpc&encryption=none&serviceName=t.me/entryNET&authority=&security=none#Blindvpn
 
 ss://e7b6c6fa-1039-444b-a177-67432b78086f@service.besttotaldns.com:8443?encryption=none&security=tls&sni=service.besttotaldns.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&type=ws&host=service.besttotaldns.com&path=%2FJ6aKLOY1R6ONWYCM%3Fed%3D2546#Blindvpn
 
@@ -840,6 +844,8 @@ vless://Parsashonam-Bot-36@104.17.147.22:8080?type=ws&encryption=none&flow=&host
 
 vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443/?type=tcp&encryption=none&flow=#Blindvpn
 
+vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=none&encryption=none&host=--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12&headerType=none&type=tcp#Blindvpn
+
 vless://a3e72e43-3dc0-4988-a7d2-185508031b91@65.109.208.46:443?security=tls&encryption=none&headerType=none&type=tcp&sni=active.app-browser.org#Blindvpn
 
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#Blindvpn
@@ -874,8 +880,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.47:8880/?type=grpc&encry
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.88:8880/?type=grpc&encryption=none#Blindvpn
 
-vless://e5c68a8e-7ace-41e0-b97c-307889e1706c@37.27.40.194:10138?type=grpc&encryption=none&serviceName=t.me/entryNET&authority=&security=none#Blindvpn
-
 vless://e7b6c6fa-1039-444b-a177-67432b78086f@service.besttotaldns.com:8443?encryption=none&security=tls&sni=service.besttotaldns.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&type=ws&host=service.besttotaldns.com&path=%2FJ6aKLOY1R6ONWYCM%3Fed%3D2546#Blindvpn
 
 vless://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443?security=tls&encryption=none&headerType=none&type=tcp&sni=dmt.app-browser.org#Blindvpn
@@ -908,8 +912,6 @@ vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIz
 
 vmess://eyJ2IjoiMiIsInBzIjoiQmxpbmR2cG4iLCJhZGQiOiIxMDQuMTcuMjIzLjE4IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImZmMmQxN2M2LTBkOTYtNDgwMS1hMjcwLTlkYmE4MzM0ZjhjNiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 
-vmess://eyJhZGQiOiJmaW5sYW5kMi5tb2JpbGVzYWxpbWkuc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyZTg4NjAzLWEzZDEtNGM2Zi1hY2U4LTJjNWNhZjAwNDZiMyIsIm5ldCI6InRjcCIsInBhdGgiOiJKb2luLS0tUExBTkJfTkVULS0tSm9pbi0tLVBMQU5CX05FVC0tLUpvaW4tLS1QTEFOQl9ORVQtLS1Kb2luLS0tUExBTkJfTkVUIiwicG9ydCI6IjM3OTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiQmxpbmR2cG4ifQ
-
 vmess://eyJhZGQiOiI2NS4xMDkuMTg0LjE1MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1Y2Y4MzZjOC1iYjdkLTRlYWMtZjBlZS1iYzcyMWZiNzQ1M2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiQmxpbmR2cG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
 
 vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJCbGluZHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0
@@ -917,6 +919,8 @@ vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwMDNmMTI3OS1jNTVkLTQyN2MtODMyNy05ZjcxZjhiMWNjMGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0Ijo2NjE2LCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJCbGluZHZwbiJ9
 
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0OGEyOTRmNS1iZDMyLTdjYWYtNjg3OS05NTFkN2Q1NjlhZDEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiJCbGluZHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
+
+vmess://eyJhZGQiOiJmaW5sYW5kMi5tb2JpbGVzYWxpbWkuc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyZTg4NjAzLWEzZDEtNGM2Zi1hY2U4LTJjNWNhZjAwNDZiMyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzc5MiIsInBzIjoiQmxpbmR2cG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiJmaW5sYW5kMi5tb2JpbGVzYWxpbWkuc2JzIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjZiMzE5MDJjLWFjNjAtNDlkNy05NDFmLTM4ZDY2ZTE5Njg0YyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjozNzkyLCJwcyI6IkJsaW5kdnBuIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
 
