@@ -2,9 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443/?type=tcp&encryption=none&flow=#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?type=tcp&encryption=none&flow=#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://d42c146e-2ded-4b4a-8592-6459ac636910@fi4.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://63720775-3e50-4e69-87b4-eb0b7aa7d9ad@65.109.220.140:2087?security=&encryption=none&headerType=none&type=tcp&note=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://63720775-3e50-4e69-87b4-eb0b7aa7d9ad@65.109.220.140:2087?security=&encryption=none&headerType=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://ea451191-c5fe-4edc-a510-9f9a279aa808@31.58.171.21:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.ok.ru&security=reality&pbk=66SvgWy5eXUDXUdgZZbwbHcgH3KCJUAi-pHXQlLW6GQ&sid=#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vmess://eyJhZGQiOiJmaW5sYW5kMi5tb2JpbGVzYWxpbWkuc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhkMTM5ODQ4LTQ4OGUtNDU0MS1iYzJkLTc4MDhmNDZlNDFkYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzc5MiIsInBzIjoiQmxpbmR2cG46OvCfh6vwn4euIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
