@@ -644,6 +644,8 @@ ss://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryp
 
 ss://05c0a076-9ebc-42e5-8d9b-22074d5036a6@m85a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
 
+ss://14a2972c-8cc6-4c11-bc35-050007c35d43@31.57.93.221:49319?type=tcp&encryption=none&security=reality&pbk=eUAS6KbB8liWK32rSzozOl9XkSjzBFcio6DgeI8yMzo&fp=chrome&sni=google.com&sid=99ee5a8b25f35c&spx=/#Blindvpn
+
 ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#Blindvpn
 
 ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn.chandplus.com#Blindvpn
@@ -663,8 +665,6 @@ ss://22948aee-4981-4ba1-b8df-7a2b494a8a28@65.21.240.236:443?security=tls&encrypt
 ss://22948aee-4981-4ba1-b8df-7a2b494a8a28@65.21.240.236:443?security=tls&encryption=none&headerType=none&type=tcp&sni=advertisement.app-browser.org#Blindvpn
 
 ss://22948aee-4981-4ba1-b8df-7a2b494a8a28@advertisement.app-browser.org:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=advertisement.app-browser.org#Blindvpn
-
-ss://27c35c32-b9a8-405f-bd1f-66137da840f1@31.57.93.221:49319?security=reality&encryption=none&pbk=eUAS6KbB8liWK32rSzozOl9XkSjzBFcio6DgeI8yMzo&headerType=&fp=chrome&spx=/&type=tcp&sni=google.com&sid=99ee5a8b25f35c&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#Blindvpn
 
 ss://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@xhttp-gr.hardwarenew.ir:80?encryption=none&security=none&type=ws&host=&path=%2Fnews#Blindvpn
 
@@ -698,6 +698,8 @@ ss://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed
 
 ss://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=157.180.123.25&type=ws#Blindvpn
 
+ss://8a49b57a-d02e-4965-a24f-b7f189cbb98d@m22a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Blindvpn
+
 ss://8cf7c1d8-3933-4f6d-a171-b38d9fc7ea47@lg.tehdrantolidi.ir:2095?path=%2F%3Fed%3D2095&security=none&encryption=none&host=hiifof.parsvpskm.fun&type=httpupgrade#Blindvpn
 
 ss://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443/?type=grpc&encryption=none&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&sni=www.speedtest.net&alpn=h2&fp=chrome&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#Blindvpn
@@ -713,6 +715,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904#Blindvpn
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc%3D@64.137.109.212:44884#Blindvpn
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc=@64.137.109.212:44884#Blindvpn
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc=@64.137.109.212:44884?prefix=%16%03%01%00%C2%A8%01%01#Blindvpn
 
@@ -733,8 +737,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaUY5OHhCTDJ2MWk=@135.181.114.242:8478#Blind
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#Blindvpn
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#Blindvpn
-
-ss://a04f1f54-0958-41cc-b76f-03338cf79ca3@141.98.169.24:8443?encryption=none&security=tls&sni=cold-snow-07fa.mokhinmokhini.workers.dev&fp=chrome&type=ws&host=cold-snow-07fa.mokhinmokhini.workers.dev&path=/#Blindvpn
 
 ss://a3e72e43-3dc0-4988-a7d2-185508031b91@65.109.208.46:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=active.app-browser.org#Blindvpn
 
@@ -778,11 +780,9 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.47:8880/?type=grpc&encrypti
 
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.88:8880/?type=grpc&encryption=none#Blindvpn
 
-ss://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?path=%2FNT_Safe&security=none&encryption=none&host=%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2&type=ws#Blindvpn
-
 ss://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?path=%2FNT_Safe&security=none&encryption=none&type=ws#Blindvpn
 
-ss://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?path=/NT_Safe&security=none&encryption=none&type=ws#Blindvpn
+ss://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?path=/NT_Safe&security=&encryption=none&type=ws#Blindvpn
 
 ss://ea451191-c5fe-4edc-a510-9f9a279aa808@31.58.171.21:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.ok.ru&security=reality&pbk=66SvgWy5eXUDXUdgZZbwbHcgH3KCJUAi-pHXQlLW6GQ&sid=#Blindvpn
 
@@ -814,6 +814,8 @@ vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&enc
 
 vless://05c0a076-9ebc-42e5-8d9b-22074d5036a6@m85a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
 
+vless://14a2972c-8cc6-4c11-bc35-050007c35d43@31.57.93.221:49319?type=tcp&encryption=none&security=reality&pbk=eUAS6KbB8liWK32rSzozOl9XkSjzBFcio6DgeI8yMzo&fp=chrome&sni=google.com&sid=99ee5a8b25f35c&spx=/#Blindvpn
+
 vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#Blindvpn
 
 vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn.chandplus.com#Blindvpn
@@ -833,8 +835,6 @@ vless://22948aee-4981-4ba1-b8df-7a2b494a8a28@65.21.240.236:443?security=tls&encr
 vless://22948aee-4981-4ba1-b8df-7a2b494a8a28@65.21.240.236:443?security=tls&encryption=none&headerType=none&type=tcp&sni=advertisement.app-browser.org#Blindvpn
 
 vless://22948aee-4981-4ba1-b8df-7a2b494a8a28@advertisement.app-browser.org:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=advertisement.app-browser.org#Blindvpn
-
-vless://27c35c32-b9a8-405f-bd1f-66137da840f1@31.57.93.221:49319?security=reality&encryption=none&pbk=eUAS6KbB8liWK32rSzozOl9XkSjzBFcio6DgeI8yMzo&headerType=&fp=chrome&spx=/&type=tcp&sni=google.com&sid=99ee5a8b25f35c&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#Blindvpn
 
 vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@xhttp-gr.hardwarenew.ir:80?encryption=none&security=none&type=ws&host=&path=%2Fnews#Blindvpn
 
@@ -868,6 +868,8 @@ vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3
 
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=157.180.123.25&type=ws#Blindvpn
 
+vless://8a49b57a-d02e-4965-a24f-b7f189cbb98d@m22a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Blindvpn
+
 vless://8cf7c1d8-3933-4f6d-a171-b38d9fc7ea47@lg.tehdrantolidi.ir:2095?path=%2F%3Fed%3D2095&security=none&encryption=none&host=hiifof.parsvpskm.fun&type=httpupgrade#Blindvpn
 
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443/?type=grpc&encryption=none&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&sni=www.speedtest.net&alpn=h2&fp=chrome&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#Blindvpn
@@ -877,8 +879,6 @@ vless://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111?mode=gun&securit
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:8443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#Blindvpn
 
 vless://Parsashonam-Bot-37@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Blindvpn
-
-vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@141.98.169.24:8443?encryption=none&security=tls&sni=cold-snow-07fa.mokhinmokhini.workers.dev&fp=chrome&type=ws&host=cold-snow-07fa.mokhinmokhini.workers.dev&path=/#Blindvpn
 
 vless://a3e72e43-3dc0-4988-a7d2-185508031b91@65.109.208.46:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=active.app-browser.org#Blindvpn
 
@@ -922,11 +922,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.47:8880/?type=grpc&encry
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.88:8880/?type=grpc&encryption=none#Blindvpn
 
-vless://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?path=%2FNT_Safe&security=none&encryption=none&host=%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2&type=ws#Blindvpn
-
 vless://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?path=%2FNT_Safe&security=none&encryption=none&type=ws#Blindvpn
 
-vless://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?path=/NT_Safe&security=none&encryption=none&type=ws#Blindvpn
+vless://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?path=/NT_Safe&security=&encryption=none&type=ws#Blindvpn
 
 vless://ea451191-c5fe-4edc-a510-9f9a279aa808@31.58.171.21:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.ok.ru&security=reality&pbk=66SvgWy5eXUDXUdgZZbwbHcgH3KCJUAi-pHXQlLW6GQ&sid=#Blindvpn
 
@@ -971,6 +969,4 @@ vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vmess://eyJhZGQiOiJmaW5sYW5kMi5tb2JpbGVzYWxpbWkuc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyZTg4NjAzLWEzZDEtNGM2Zi1hY2U4LTJjNWNhZjAwNDZiMyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzc5MiIsInBzIjoiQmxpbmR2cG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiJmcmVlLmJlc3QtYW50aWFnaW5nLXJldmlld3MuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMWNiMmIyMjUtMTYwNC00OWIyLTg4OTctZWVmODZmZDZkY2Y1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDgzIiwicHMiOiJCbGluZHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiJmcmVlLmJlc3QtYW50aWFnaW5nLXJldmlld3MuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
-
-vmess://eyJhZGQiOiJzMy5pcHlhci5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ii9KS1ZQTl9qb2luX1RFTEVHUkFNX0pLVlBOIiwiaWQiOiI3OGI0ZmI1Ny0zOWQ3LTRlOWQtZGQzOC1jOWEzODMyMmJjYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMyMDIwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IkJsaW5kdnBuIn0
 
