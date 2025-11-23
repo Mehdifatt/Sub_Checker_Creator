@@ -642,6 +642,8 @@ ss://%50%61%72%73%61%73%68%6F%6E%61%6D-%42%6F%74-36@104.17.147.22:8880?path=%2FP
 
 ss://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#Blindvpn
 
+ss://05c0a076-9ebc-42e5-8d9b-22074d5036a6@m85a.vip784.com:33801?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.ir#Blindvpn
+
 ss://05c0a076-9ebc-42e5-8d9b-22074d5036a6@m85a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
 
 ss://14a2972c-8cc6-4c11-bc35-050007c35d43@31.57.93.221:49319?type=tcp&encryption=none&security=reality&pbk=eUAS6KbB8liWK32rSzozOl9XkSjzBFcio6DgeI8yMzo&fp=chrome&sni=google.com&sid=99ee5a8b25f35c&spx=/#Blindvpn
@@ -811,6 +813,8 @@ vless://%50%61%72%73%61%73%68%6F%6E%61%6D-%42%6F%74-35@104.16.246.132:8080?path=
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-%42%6F%74-36@104.17.147.22:8880?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Blindvpn
 
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#Blindvpn
+
+vless://05c0a076-9ebc-42e5-8d9b-22074d5036a6@m85a.vip784.com:33801?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.ir#Blindvpn
 
 vless://05c0a076-9ebc-42e5-8d9b-22074d5036a6@m85a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
 
