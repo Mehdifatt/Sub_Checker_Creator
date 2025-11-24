@@ -700,6 +700,10 @@ ss://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed
 
 ss://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=157.180.123.25&type=ws#Blindvpn
 
+ss://727295b6-0d34-45c6-a703-bcc90dc960fe@m21a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir%2F%3F%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2&headerType=http&type=tcp#Blindvpn
+
+ss://727295b6-0d34-45c6-a703-bcc90dc960fe@m21a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Blindvpn
+
 ss://8cf7c1d8-3933-4f6d-a171-b38d9fc7ea47@lg.tehdrantolidi.ir:2095?path=%2F%3Fed%3D2095&security=none&encryption=none&host=hiifof.parsvpskm.fun&type=httpupgrade#Blindvpn
 
 ss://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443/?type=grpc&encryption=none&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&sni=www.speedtest.net&alpn=h2&fp=chrome&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#Blindvpn
@@ -869,6 +873,10 @@ vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&security=&encryption=none&host=157.180.123.25&type=ws#Blindvpn
 
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=157.180.123.25&type=ws#Blindvpn
+
+vless://727295b6-0d34-45c6-a703-bcc90dc960fe@m21a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir%2F%3F%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2&headerType=http&type=tcp#Blindvpn
+
+vless://727295b6-0d34-45c6-a703-bcc90dc960fe@m21a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Blindvpn
 
 vless://8cf7c1d8-3933-4f6d-a171-b38d9fc7ea47@lg.tehdrantolidi.ir:2095?path=%2F%3Fed%3D2095&security=none&encryption=none&host=hiifof.parsvpskm.fun&type=httpupgrade#Blindvpn
 
