@@ -650,8 +650,6 @@ ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@cdn.chandplus.com:443?security=tls&alp
 
 ss://15c2abe2-09b3-4a0a-90e4-87d59c497a66@bia-kanalemoon.vigilante.ir:443?mode=multi&security=reality&encryption=none&pbk=KXBh7V6rrtLLnRtUB1SgVGgsw4paoBddG07kW9wa0VY&fp=firefox&spx=%2F&type=grpc&serviceName=%2FDaily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs%3Fed%3D2048&sni=tgju.com#Blindvpn
 
-ss://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443/?type=tcp&encryption=none&flow=&security=tls&sni=node.chandplus.com&allowInsecure=1&note=@freeOnlineVPN#Blindvpn
-
 ss://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443?security=tls&encryption=none&headerType=none&type=tcp&sni=node.chandplus.com#Blindvpn
 
 ss://1ea570c2-8adb-4f6e-9eef-182c8a6076c2@m62a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
@@ -667,6 +665,8 @@ ss://22948aee-4981-4ba1-b8df-7a2b494a8a28@advertisement.app-browser.org:443?secu
 ss://346a072d-36d8-427f-912c-8756c1c53e1b@m86a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
 
 ss://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&host=%2F%3FBIA_CHANEL%40JOKERRVPN&headerType=none&fp=random&spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&type=tcp&sni=www.speedtest.net&sid=cbfe#Blindvpn
+
+ss://3a6b4cd9-8270-45ac-8101-64d3c6903319@45.159.249.242:8443?security=reality&encryption=none&pbk=oy7HvK2b2f44HoOwTcx-v-mIySy690bIUbbI9DnCq0k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=isharing.us&sid=a4eed13ebbf2f9d2#Blindvpn
 
 ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#Blindvpn
 
@@ -754,6 +754,8 @@ ss://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@auto.happvpn.com:443?security=reality&
 
 ss://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@fi.srv.happvpn.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#Blindvpn
 
+ss://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?path=%2FNT_Safe&security=&encryption=none&type=ws#Blindvpn
+
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880/?type=grpc&encryption=none#Blindvpn
 
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880/?type=grpc&encryption=none#Blindvpn
@@ -772,11 +774,7 @@ ss://ea451191-c5fe-4edc-a510-9f9a279aa808@31.58.171.21:443/?type=tcp&encryption=
 
 ss://ea451191-c5fe-4edc-a510-9f9a279aa808@31.58.171.21:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.ok.ru&security=reality&pbk=66SvgWy5eXUDXUdgZZbwbHcgH3KCJUAi-pHXQlLW6GQ&sid=#Blindvpn
 
-ss://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-fi4-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-fi4-cdn.fastfilecdn.org&fp=firefox&type=ws#Blindvpn
-
 ss://f8633e30-f8d7-4e6a-9204-e7f512b7124e@135.181.62.183:443?security=tls&encryption=none&headerType=none&type=tcp&sni=service.rogsoftwaregroup.com#Blindvpn
-
-ss://f98de51b-3a8d-4d99-b688-2e42f053f18f@31.57.93.221:49319?type=tcp&encryption=none&security=reality&pbk=eUAS6KbB8liWK32rSzozOl9XkSjzBFcio6DgeI8yMzo&fp=chrome&sni=google.com&sid=99ee5a8b25f35c&spx=%2F#Blindvpn
 
 ss://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#Blindvpn
 
@@ -808,8 +806,6 @@ vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@cdn.chandplus.com:443?security=tls&
 
 vless://15c2abe2-09b3-4a0a-90e4-87d59c497a66@bia-kanalemoon.vigilante.ir:443?mode=multi&security=reality&encryption=none&pbk=KXBh7V6rrtLLnRtUB1SgVGgsw4paoBddG07kW9wa0VY&fp=firefox&spx=%2F&type=grpc&serviceName=%2FDaily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs%3Fed%3D2048&sni=tgju.com#Blindvpn
 
-vless://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443/?type=tcp&encryption=none&flow=&security=tls&sni=node.chandplus.com&allowInsecure=1&note=@freeOnlineVPN#Blindvpn
-
 vless://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443?security=tls&encryption=none&headerType=none&type=tcp&sni=node.chandplus.com#Blindvpn
 
 vless://1ea570c2-8adb-4f6e-9eef-182c8a6076c2@m62a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
@@ -825,6 +821,8 @@ vless://22948aee-4981-4ba1-b8df-7a2b494a8a28@advertisement.app-browser.org:443?s
 vless://346a072d-36d8-427f-912c-8756c1c53e1b@m86a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
 
 vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&host=%2F%3FBIA_CHANEL%40JOKERRVPN&headerType=none&fp=random&spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&type=tcp&sni=www.speedtest.net&sid=cbfe#Blindvpn
+
+vless://3a6b4cd9-8270-45ac-8101-64d3c6903319@45.159.249.242:8443?security=reality&encryption=none&pbk=oy7HvK2b2f44HoOwTcx-v-mIySy690bIUbbI9DnCq0k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=isharing.us&sid=a4eed13ebbf2f9d2#Blindvpn
 
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#Blindvpn
 
@@ -884,6 +882,8 @@ vless://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@auto.happvpn.com:443?security=reali
 
 vless://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@fi.srv.happvpn.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#Blindvpn
 
+vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?path=%2FNT_Safe&security=&encryption=none&type=ws#Blindvpn
+
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880/?type=grpc&encryption=none#Blindvpn
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880/?type=grpc&encryption=none#Blindvpn
@@ -902,11 +902,7 @@ vless://ea451191-c5fe-4edc-a510-9f9a279aa808@31.58.171.21:443/?type=tcp&encrypti
 
 vless://ea451191-c5fe-4edc-a510-9f9a279aa808@31.58.171.21:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.ok.ru&security=reality&pbk=66SvgWy5eXUDXUdgZZbwbHcgH3KCJUAi-pHXQlLW6GQ&sid=#Blindvpn
 
-vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-fi4-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-fi4-cdn.fastfilecdn.org&fp=firefox&type=ws#Blindvpn
-
 vless://f8633e30-f8d7-4e6a-9204-e7f512b7124e@135.181.62.183:443?security=tls&encryption=none&headerType=none&type=tcp&sni=service.rogsoftwaregroup.com#Blindvpn
-
-vless://f98de51b-3a8d-4d99-b688-2e42f053f18f@31.57.93.221:49319?type=tcp&encryption=none&security=reality&pbk=eUAS6KbB8liWK32rSzozOl9XkSjzBFcio6DgeI8yMzo&fp=chrome&sni=google.com&sid=99ee5a8b25f35c&spx=%2F#Blindvpn
 
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#Blindvpn
 
