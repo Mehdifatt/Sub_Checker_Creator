@@ -656,6 +656,10 @@ ss://22948aee-4981-4ba1-b8df-7a2b494a8a28@advertisement.app-browser.org:443?secu
 
 ss://22948aee-4981-4ba1-b8df-7a2b494a8a28@advertisement.app-browser.org:443?security=tls&encryption=none&host=telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----&headerType=none&fp=chrome&type=tcp&sni=advertisement.app-browser.org#Blindvpn
 
+ss://2aa90e97-39d6-44aa-8eac-8816e9e82ddb@hield.ru:4425?type=tcp&encryption=none&security=reality&pbk=I8C10gt92B_XeMMSsCIaePHYu2O1IE5hz0x2VKS7tzo&fp=chrome&sni=google.com&sid=e8&spx=%2F&flow=xtls-rprx-vision#Blindvpn
+
+ss://2aa90e97-39d6-44aa-8eac-8816e9e82ddb@hield.ru:4425?type=tcp&encryption=none&security=reality&pbk=I8C10gt92B_XeMMSsCIaePHYu2O1IE5hz0x2VKS7tzo&fp=chrome&sni=google.com&sid=e8&spx=/&flow=xtls-rprx-vision#Blindvpn
+
 ss://346a072d-36d8-427f-912c-8756c1c53e1b@m86a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
 
 ss://3ca79de7-3eca-436d-9ef3-7112cd56506d@141.227.170.6:46354?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Blindvpn
@@ -714,10 +718,6 @@ ss://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=
 
 ss://a8eb189d-d9ce-4c63-be64-64251dab11fe@46.62.246.226:443?type=xhttp&encryption=none&security=&host=&path=&sni=#Blindvpn
 
-ss://a8ef99ba-872f-4a3a-87d8-6cc29c63521c@157.180.29.25:18423?path=%2F&security=none&encryption=none&type=ws#Blindvpn
-
-ss://a8ef99ba-872f-4a3a-87d8-6cc29c63521c@157.180.29.25:18423?path=/&security=none&encryption=none&type=ws#Blindvpn
-
 ss://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443?type=ws&path=%2F&host=&security=none#Blindvpn
 
 ss://b35e1a7b-1248-406c-a35c-d417cd6c830e@fl.mizbanandata.com:443?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=firefox&spx=%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=tcp&sni=docker.com&sid=fd1dff03520d8f56#Blindvpn
@@ -747,8 +747,6 @@ ss://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?path=%2FNT_Safe&se
 ss://dfb01e06-7538-424b-8e83-b24d9760ef55@fi.crynasty.ru:443?security=reality&encryption=none&pbk=ai_1ENFq0NM-XYkfQjRp-6J8jytZpFrc9QZusUKVgTg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi.crynasty.ru&sid=c92c#Blindvpn
 
 ss://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443?security=tls&encryption=none&headerType=none&type=tcp&sni=dmt.app-browser.org#Blindvpn
-
-ss://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-fi4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-fi4-cdn.fastfilecdn.org&fp=chrome&type=ws#Blindvpn
 
 ss://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#Blindvpn
 
@@ -784,6 +782,10 @@ vless://22948aee-4981-4ba1-b8df-7a2b494a8a28@advertisement.app-browser.org:443?s
 
 vless://22948aee-4981-4ba1-b8df-7a2b494a8a28@advertisement.app-browser.org:443?security=tls&encryption=none&host=telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----&headerType=none&fp=chrome&type=tcp&sni=advertisement.app-browser.org#Blindvpn
 
+vless://2aa90e97-39d6-44aa-8eac-8816e9e82ddb@hield.ru:4425?type=tcp&encryption=none&security=reality&pbk=I8C10gt92B_XeMMSsCIaePHYu2O1IE5hz0x2VKS7tzo&fp=chrome&sni=google.com&sid=e8&spx=%2F&flow=xtls-rprx-vision#Blindvpn
+
+vless://2aa90e97-39d6-44aa-8eac-8816e9e82ddb@hield.ru:4425?type=tcp&encryption=none&security=reality&pbk=I8C10gt92B_XeMMSsCIaePHYu2O1IE5hz0x2VKS7tzo&fp=chrome&sni=google.com&sid=e8&spx=/&flow=xtls-rprx-vision#Blindvpn
+
 vless://346a072d-36d8-427f-912c-8756c1c53e1b@m86a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
 
 vless://3ca79de7-3eca-436d-9ef3-7112cd56506d@141.227.170.6:46354?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Blindvpn
@@ -816,10 +818,6 @@ vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&securi
 
 vless://a8eb189d-d9ce-4c63-be64-64251dab11fe@46.62.246.226:443?type=xhttp&encryption=none&security=&host=&path=&sni=#Blindvpn
 
-vless://a8ef99ba-872f-4a3a-87d8-6cc29c63521c@157.180.29.25:18423?path=%2F&security=none&encryption=none&type=ws#Blindvpn
-
-vless://a8ef99ba-872f-4a3a-87d8-6cc29c63521c@157.180.29.25:18423?path=/&security=none&encryption=none&type=ws#Blindvpn
-
 vless://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443?type=ws&path=%2F&host=&security=none#Blindvpn
 
 vless://b35e1a7b-1248-406c-a35c-d417cd6c830e@fl.mizbanandata.com:443?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=firefox&spx=%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=tcp&sni=docker.com&sid=fd1dff03520d8f56#Blindvpn
@@ -849,8 +847,6 @@ vless://df5f02f1-d501-43b8-8f77-4acb917418aa@157.180.29.25:42671?path=%2FNT_Safe
 vless://dfb01e06-7538-424b-8e83-b24d9760ef55@fi.crynasty.ru:443?security=reality&encryption=none&pbk=ai_1ENFq0NM-XYkfQjRp-6J8jytZpFrc9QZusUKVgTg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi.crynasty.ru&sid=c92c#Blindvpn
 
 vless://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443?security=tls&encryption=none&headerType=none&type=tcp&sni=dmt.app-browser.org#Blindvpn
-
-vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-fi4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-fi4-cdn.fastfilecdn.org&fp=chrome&type=ws#Blindvpn
 
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#Blindvpn
 
