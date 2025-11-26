@@ -694,8 +694,6 @@ ss://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed
 
 ss://7a0b6c85-ce1f-4de0-acd4-9e368d74f415@85.239.149.76:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=4efItvVkLuH2AdiaNzDIzmyHT3yE4uWcql1L3xEPXko&sid=f0e1d8d8d83346e8#Blindvpn
 
-ss://7d747497-c51a-4c1f-9ca1-6693683febb9@37.27.220.218:10138?type=ws&encryption=none&path=%2F@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&host=&security=none#Blindvpn
-
 ss://8cf7c1d8-3933-4f6d-a171-b38d9fc7ea47@lg.tehdrantolidi.ir:2095?path=%2F%3Fed%3D2095&security=none&encryption=none&host=hiifof.parsvpskm.fun&type=httpupgrade#Blindvpn
 
 ss://91af3d98-fb3c-40f9-8a69-21ff12ccaec4@65.21.132.249:443?mode=gun&security=reality&encryption=none&pbk=SH8hAIyzkC6kEHlxKPTItVv0hqQevBvNm_cGbaHU3g4&fp=random&spx=%2F&type=grpc&serviceName=%40UnlimitedDev&sni=ftp.debian.org&sid=c7cf5bc1#Blindvpn
@@ -703,8 +701,6 @@ ss://91af3d98-fb3c-40f9-8a69-21ff12ccaec4@65.21.132.249:443?mode=gun&security=re
 ss://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443/?type=grpc&encryption=none&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&sni=www.speedtest.net&alpn=h2&fp=chrome&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#Blindvpn
 
 ss://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111?mode=gun&security=&encryption=none&type=grpc#Blindvpn
-
-ss://9c346f20-432d-4c2b-9167-f94dace57425@37.27.220.218:18423?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&path=/&security=none&encryption=none&type=ws#Blindvpn
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#Blindvpn
 
@@ -753,6 +749,8 @@ ss://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?type=ws&en
 ss://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@fi.srv.happvpn.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#Blindvpn
 
 ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@185.200.190.159:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Blindvpn
+
+ss://da040e80-8704-4393-8720-5527637a8d6d@fis.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#Blindvpn
 
 ss://da040e80-8704-4393-8720-5527637a8d6d@fis.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#Blindvpn
 
@@ -844,8 +842,6 @@ vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3
 
 vless://7a0b6c85-ce1f-4de0-acd4-9e368d74f415@85.239.149.76:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=4efItvVkLuH2AdiaNzDIzmyHT3yE4uWcql1L3xEPXko&sid=f0e1d8d8d83346e8#Blindvpn
 
-vless://7d747497-c51a-4c1f-9ca1-6693683febb9@37.27.220.218:10138?type=ws&encryption=none&path=%2F@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&host=&security=none#Blindvpn
-
 vless://8cf7c1d8-3933-4f6d-a171-b38d9fc7ea47@lg.tehdrantolidi.ir:2095?path=%2F%3Fed%3D2095&security=none&encryption=none&host=hiifof.parsvpskm.fun&type=httpupgrade#Blindvpn
 
 vless://91af3d98-fb3c-40f9-8a69-21ff12ccaec4@65.21.132.249:443?mode=gun&security=reality&encryption=none&pbk=SH8hAIyzkC6kEHlxKPTItVv0hqQevBvNm_cGbaHU3g4&fp=random&spx=%2F&type=grpc&serviceName=%40UnlimitedDev&sni=ftp.debian.org&sid=c7cf5bc1#Blindvpn
@@ -875,6 +871,8 @@ vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?type=ws
 vless://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@fi.srv.happvpn.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#Blindvpn
 
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@185.200.190.159:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#Blindvpn
+
+vless://da040e80-8704-4393-8720-5527637a8d6d@fis.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#Blindvpn
 
 vless://da040e80-8704-4393-8720-5527637a8d6d@fis.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#Blindvpn
 
