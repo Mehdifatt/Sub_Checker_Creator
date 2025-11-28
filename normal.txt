@@ -676,6 +676,8 @@ ss://5713fee0-2f51-4453-9502-b7fd38a657b6@194.34.236.240:443?security=reality&en
 
 ss://5713fee0-2f51-4453-9502-b7fd38a657b6@194.34.236.240:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#Blindvpn
 
+ss://572b80b3-fa69-4e90-af39-045ff26e5ff1@31.56.197.29:49438?security=reality&amp;encryption=none&amp;pbk=dqw4hiO-MC-OnDuox_7m0tEu5x8o8bDnDU6kXREz8QE&amp;headerType=none&amp;fp=chrome&amp;spx=%2FDarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%3Fed%3D8880&amp;type=tcp&amp;sni=refersion.com#Blindvpn
+
 ss://5d3bffc3-20f6-41ae-9fe7-bb12a122c3a3@fi.podpiska.vip:443?security=reality&encryption=none&pbk=L-7MZ5IB5uSmLn34BQsBOF8XaDN3B2as4ye-nWkJEzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uspehudacha.com&sid=4a6c2577ce53af9e#Blindvpn
 
 ss://5d71b518-9f52-414a-abf2-b806684233be@157.180.82.171:2087/?type=grpc&encryption=none&security=tls&sni=pic2.zarashop0.ir&alpn=h2&fp=chrome#Blindvpn
@@ -786,8 +788,6 @@ ss://fc363de7-5d11-42e0-b9c0-79d59274882a@fi.podpiska.vip:443?security=reality&e
 
 ss://id6856346113@s2.nodu11.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=random&security=reality&pbk=yDwHL93MSZMTVyDy0OhZu-NIlgNA9amsi_t1P8Sla0Q&sid=122455#Blindvpn
 
-ss://v2ray_fa3t@bm.boulvarmoein.shop:80?path=%2FTelegram%40v2ray_fa3t%3D%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bm.boulvarmoein.shop&fp=chrome&type=ws&sni=bm.boulvarmoein.shop#Blindvpn
-
 trojan://3ea503c7-2e03-424a-812d-6f0d803e73dc@138.124.15.75:443?sni=joss.gpj.web.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F138.124.15.75%3D443&host=joss.gpj.web.id#Blindvpn
 
 trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F65.109.227.138%3D2053&security=tls&sni=joss.dus.biz.id#Blindvpn
@@ -835,6 +835,8 @@ vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@fis.jykvpn.com:443?security=reality
 vless://5713fee0-2f51-4453-9502-b7fd38a657b6@194.34.236.240:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#Blindvpn
 
 vless://5713fee0-2f51-4453-9502-b7fd38a657b6@194.34.236.240:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#Blindvpn
+
+vless://572b80b3-fa69-4e90-af39-045ff26e5ff1@31.56.197.29:49438?security=reality&amp;encryption=none&amp;pbk=dqw4hiO-MC-OnDuox_7m0tEu5x8o8bDnDU6kXREz8QE&amp;headerType=none&amp;fp=chrome&amp;spx=%2FDarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%3Fed%3D8880&amp;type=tcp&amp;sni=refersion.com#Blindvpn
 
 vless://5d3bffc3-20f6-41ae-9fe7-bb12a122c3a3@fi.podpiska.vip:443?security=reality&encryption=none&pbk=L-7MZ5IB5uSmLn34BQsBOF8XaDN3B2as4ye-nWkJEzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uspehudacha.com&sid=4a6c2577ce53af9e#Blindvpn
 
