@@ -640,9 +640,9 @@ ss://%50%61%72%73%61%73%68%6F%6E%61%6D-Bot-37@104.17.147.22:8080?path=%2FParsash
 
 ss://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#Blindvpn
 
-ss://05c0a076-9ebc-42e5-8d9b-22074d5036a6@65.109.215.133:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp&sni=varzesh3.ir#Blindvpn
-
 ss://05c0a076-9ebc-42e5-8d9b-22074d5036a6@m85a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
+
+ss://0f3c5d1e-21e7-4f5d-b57e-a308686e22f3@inst.faceppm.ru:1888?security=reality&encryption=none&pbk=GaVpyGU5Xqyd5SYmchrCIajjTiXF69bmCnUdftmrwTM&headerType=none&spx=%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=tcp&flow=xtls-rprx-vision&sni=www.kernel.org&sid=16b7f8a207cda6e3#Blindvpn
 
 ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#Blindvpn
 
@@ -712,8 +712,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTdXI1Tnk3NG5wRDM@185.242.247.249:443#Blindvp
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMjlCcGJ0a2hXWnI@185.204.1.253:443#Blindvpn
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443?note=@freeOnlineVPN#Blindvpn
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#Blindvpn
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng3@65.21.243.22:31348#Blindvpn
@@ -762,6 +760,8 @@ ss://f8633e30-f8d7-4e6a-9204-e7f512b7124e@135.181.62.183:443?security=tls&encryp
 
 ss://f8d8b893-12cc-431d-bad2-3ef70f4b1131@fn.sephost.de:8023?security=reality&encryption=none&pbk=QHg_sq-uc2VPgb4qOTORPT2WFwnsEBmAdmFfywhBhVs&headerType=none&fp=firefox&type=tcp&sni=www.stackoverflow.com&sid=0ae86db71378173b#Blindvpn
 
+ss://f9e387cf-1da1-441a-a748-33c5b24ca965@65.109.206.116:2021?path=%2FFree-VPN-CF-Geo-Project%2F65.109.206.116%3D2021&security=tls&encryption=none&host=joss.gpj4.web.id&fp=randomized&type=ws&sni=joss.gpj4.web.id#Blindvpn
+
 ss://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#Blindvpn
 
 ss://id6856346113@s2.nodu11.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=random&security=reality&pbk=yDwHL93MSZMTVyDy0OhZu-NIlgNA9amsi_t1P8Sla0Q&sid=122455#Blindvpn
@@ -773,8 +773,6 @@ trojan://88939272-790a-441f-b12b-8ce531aca810@polo01.kctr2038.icu:443/?type=tcp&
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-Bot-37@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Blindvpn
 
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#Blindvpn
-
-vless://05c0a076-9ebc-42e5-8d9b-22074d5036a6@65.109.215.133:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp&sni=varzesh3.ir#Blindvpn
 
 vless://05c0a076-9ebc-42e5-8d9b-22074d5036a6@m85a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Blindvpn
 
@@ -868,6 +866,8 @@ vless://f8633e30-f8d7-4e6a-9204-e7f512b7124e@135.181.62.183:443?security=tls&enc
 
 vless://f8d8b893-12cc-431d-bad2-3ef70f4b1131@fn.sephost.de:8023?security=reality&encryption=none&pbk=QHg_sq-uc2VPgb4qOTORPT2WFwnsEBmAdmFfywhBhVs&headerType=none&fp=firefox&type=tcp&sni=www.stackoverflow.com&sid=0ae86db71378173b#Blindvpn
 
+vless://f9e387cf-1da1-441a-a748-33c5b24ca965@65.109.206.116:2021?path=%2FFree-VPN-CF-Geo-Project%2F65.109.206.116%3D2021&security=tls&encryption=none&host=joss.gpj4.web.id&fp=randomized&type=ws&sni=joss.gpj4.web.id#Blindvpn
+
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#Blindvpn
 
 vless://id6856346113@s2.nodu11.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=random&security=reality&pbk=yDwHL93MSZMTVyDy0OhZu-NIlgNA9amsi_t1P8Sla0Q&sid=122455#Blindvpn
@@ -888,17 +888,13 @@ vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIz
 
 vmess://eyJ2IjoiMiIsInBzIjoiQmxpbmR2cG4iLCJhZGQiOiIxMDQuMTcuMjIzLjE4IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImZmMmQxN2M2LTBkOTYtNDgwMS1hMjcwLTlkYmE4MzM0ZjhjNiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 
-vmess://eyJhZGQiOiI2NS4xMDkuOC43NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxMDViNzE1OC0yOTc3LTRiNWMtOTNlYS0xZmNmMzNjNzJjNTYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM4MDAwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IkJsaW5kdnBuIn0
-
-vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyNDE1NDQxNy1lMzhiLTJiMWQtYTA3NS00NDFkY2M0MTc0NjMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IkJsaW5kdnBuIn0
-
 vmess://eyJhZGQiOiI2NS4xMDkuMTg0LjE1MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1Y2Y4MzZjOC1iYjdkLTRlYWMtZjBlZS1iYzcyMWZiNzQ1M2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiQmxpbmR2cG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
 
 vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJCbGluZHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0
 
-vmess://eyJhZGQiOiIxNTcuMTgwLjExMy42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk3NTNlYjQ3LTcxZmItNGU3OS04ODNmLTY1MDQwODQyMDFhOCIsIm5ldCI6InRjcCIsInBhdGgiOiIvdjJyYXlOcGx1cyIsInBvcnQiOiIyOTMwMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJCbGluZHZwbiJ9
-
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwMDNmMTI3OS1jNTVkLTQyN2MtODMyNy05ZjcxZjhiMWNjMGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0Ijo2NjE2LCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJCbGluZHZwbiJ9
+
+vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyNDE1NDQxNy1lMzhiLTJiMWQtYTA3NS00NDFkY2M0MTc0NjMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiJCbGluZHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
 
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMTcwNDNiZi1jZjk2LTcwYzgtNTk1MC03NWYxZGNhNDA5YzIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiJCbGluZHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
 
