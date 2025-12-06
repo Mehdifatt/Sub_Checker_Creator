@@ -2,26 +2,19 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoRG84M3BvMXBUSmZxY2JiblV4bE04@78.153.139.98:1792#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ==@45.15.127.49:443#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://YWVzLTEyOC1nY206MXo2ZzA3ZHNnaTJqdjhzOGpzczQ%3D@185.103.110.67:18282#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://YWVzLTEyOC1nY206MXo2ZzA3ZHNnaTJqdjhzOGpzczQ=@185.103.110.67:18282#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng=@65.21.243.22:31348#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://22948aee-4981-4ba1-b8df-7a2b494a8a28@65.21.240.236:443/?type=tcp&encryption=none&security=tls&sni=advertisement.app-browser.org#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://22948aee-4981-4ba1-b8df-7a2b494a8a28@65.21.240.236:443?security=tls&encryption=none&headerType=none&type=tcp&sni=advertisement.app-browser.org#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://270b7522-bda3-4381-bffb-6156076e271e@172.64.33.91:443?path=%2Famglzgws&security=tls&encryption=none&host=639004042094803957.legacy-amsit.info&type=ws&sni=639004042094803957.legacy-amsit.info#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443?security=tls&encryption=none&headerType=none&type=tcp&sni=node.chandplus.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://270b7522-bda3-4381-bffb-6156076e271e@172.64.33.91:443?path=%2Famglzgws&security=tls&encryption=none&host=639004042094803957.legacy-amsit.info&type=ws&sni=639004042094803957.legacy-amsit.info#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://270b7522-bda3-4381-bffb-6156076e271e@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=639004042094803957.legacy-amsit.info&type=ws&host=639004042094803957.legacy-amsit.info&path=/amglzgws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://504f4add-e233-454c-a45d-daffaeaa6081@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003600953613625.insight-amsit.info&type=ws&host=639003600953613625.insight-amsit.info&path=/fxywhnws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@212.192.212.74:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://a3e72e43-3dc0-4988-a7d2-185508031b91@65.109.208.46:443?security=tls&encryption=none&headerType=none&type=tcp&sni=active.app-browser.org#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://a91e64f0-9295-499d-bf4a-661ad99d4938@217.16.24.170:8443?security=reality&type=tcp&sni=api-maps.yandex.ru&fp=edge&flow=xtls-rprx-vision&sid=5540e44a53c3d01c&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@212.192.212.74:443?security=tls&type=ws&path=%2Fproxyip%3Dsjc.o00o.ooo&host=ak.suoni.nyc.mn&sni=ak.suoni.nyc.mn&fp=chrome&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://c70919b3-a54f-4293-a781-05ded7a6f2a4@free.best-antiaging-reviews.com:2087?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=f312&pbk=apWDV3PACWUfkz4vHSEhoJrTQvO3deytV1n1nWwmzXo&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://9659546a-a74b-44c6-af35-ec3fdaf9bcef@212.87.222.158:47726?security=reality&encryption=none&pbk=tC0WnU-Ft3uvA4K55un9DtN5C_kYsAoxNZqSM5850xE&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=8ad866effedb2362#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@212.192.212.74:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://c70919b3-a54f-4293-a781-05ded7a6f2a4@free.best-antiaging-reviews.com:2087?security=reality&encryption=none&pbk=apWDV3PACWUfkz4vHSEhoJrTQvO3deytV1n1nWwmzXo&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&sni=yahoo.com&sid=f312#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://d350b8d9-e7cb-4e81-a189-73b15ee487a3@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003456253078972.defender-amsis.info&type=ws&host=639003456253078972.defender-amsis.info&path=/oypliwws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&sid=9d36b8589fa524fd#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?security=reality&encryption=none&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=9d36b8589fa524fd#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443?security=tls&encryption=none&headerType=none&type=tcp&sni=dmt.app-browser.org#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&sid=9d36b8589fa524fd#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
