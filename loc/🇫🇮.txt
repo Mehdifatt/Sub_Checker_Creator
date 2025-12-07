@@ -2,6 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://0c687a22-ad7f-49d3-92ce-ce42c54150d6@37.27.217.185:52186?mode=gun&security=reality&encryption=none&authority=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&pbk=qbnOCNfgeXJh8ovE6FfFNKt4em77iI-oxsQLhuiYqGI&fp=chrome&spx=%2F&type=grpc&sni=google.com&sid=ef1866c1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://4dfbf9a5-391b-4a4a-986f-bbb1585116b4@hield.ru:4425?type=tcp&encryption=none&security=reality&pbk=I8C10gt92B_XeMMSsCIaePHYu2O1IE5hz0x2VKS7tzo&fp=chrome&sni=google.com&sid=e8&spx=%2F&flow=xtls-rprx-vision#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+ss://YWVzLTEyOC1nY206MXo2ZzA3ZHNnaTJqdjhzOGpzczQ%3D@185.103.110.67:18282#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+ss://YWVzLTEyOC1nY206MXo2ZzA3ZHNnaTJqdjhzOGpzczQ=@185.103.110.67:18282#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng=@65.21.243.22:31348#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://48c06be0-91da-4eec-aae3-9e099aa79d5e@soft95.fastzeronet.fun:31059?&security=reality&flow=xtls-rprx-vision&pbk=E3mBvyOYAP-ZbRGTMq4zEIqjjvs-kmoKE0IHNOivxXU&sid=dcdc0de6347dfe07&fp=chrome&sni=sw.fastzero.ir&type=tcp&headerType=none&host=soft95.fastzeronet.fun&path=%2F#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://55ac52fd-4937-4e15-a37b-7d6ed383d2a1@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=639005817910603942.renegade-amsit.info&type=ws&host=639005817910603942.renegade-amsit.info&path=/emrqyfws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@212.192.212.74:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
