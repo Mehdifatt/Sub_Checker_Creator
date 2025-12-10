@@ -3,6 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng=@65.21.243.22:31348#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://d3e684e2-1b3a-41a2-ba19-5a84a8ca2122@217.16.18.50:443?security=reality&type=tcp&sni=ozon.ru&fp=chrome&flow=xtls-rprx-vision&sid=c050b3628fab&pbk=l7cLIMrQQPS1LCyzgqCqP9O1rvoIanR9Npa3lYrz2xI&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@45.131.185.234:443?security=tls&type=ws&path=%2Fproxyip%3Dsjc.o00o.ooo&host=ak.suoni.nyc.mn&sni=ak.suoni.nyc.mn&fp=random#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@212.192.212.74:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fee1a05c-20c5-4940-a0b2-6d7f4445c0c8@hield.ru:4425?type=tcp&encryption=none&security=reality&pbk=I8C10gt92B_XeMMSsCIaePHYu2O1IE5hz0x2VKS7tzo&fp=chrome&sni=google.com&sid=e8&spx=%2F&flow=xtls-rprx-vision#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
