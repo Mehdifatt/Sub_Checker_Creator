@@ -2,10 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng=@65.21.243.22:31348#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://1859f2db-e6e8-4dc4-b21e-99da517e2e62@45.15.127.139:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://2825bed8-db26-4722-81db-0f572f19dac5@helsinki.fonixapp.org:2083?security=reality&type=tcp&sni=clients4.google.com&fp=chrome&flow=xtls-rprx-vision&sid=8c&pbk=0ynmhxgUxTCCEhdgYsH1-_90sX5jztkAwUrarbruPS8&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.tradingview.com&fp=chrome&security=reality&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&sid=9917d2350096#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@212.192.212.74:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
