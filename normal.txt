@@ -656,6 +656,8 @@ ss://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@fis.jykvpn.com:443?security=reality&en
 
 ss://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&security=&encryption=none&host=157.180.123.25&type=ws#Blindvpn
 
+ss://6639c4b9-a776-4f89-b402-7ebfe14fa388@46.62.168.178:39411?security=reality&type=tcp&sni=google.com&fp=chrome&sid=e3e4740b584aeb&pbk=nXgUEoaBeYXNre6foY-3IEIy9cPSCLJzOSCEnlvJ0lE&encryption=none#Blindvpn
+
 ss://669be00c-67b4-4b87-b08f-311c45abced2@178.17.53.248:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#Blindvpn
 
 ss://778b3f35-b216-45f2-ba06-904215154cda@65.109.205.214:443?type=ws&encryption=none&path=%2F&host=&security=none#Blindvpn
@@ -681,8 +683,6 @@ ss://8cf7c1d8-3933-4f6d-a171-b38d9fc7ea47@lg.tehdrantolidi.ir:2095?path=%2F%3Fed
 ss://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443/?type=grpc&encryption=none&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&sni=www.speedtest.net&alpn=h2&fp=chrome&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#Blindvpn
 
 ss://969695f5-6a06-4297-86a8-2d464e4cb356@vv.vipirvcip.sbs:2082?mode=auto&security=none&encryption=none&type=xhttp#Blindvpn
-
-ss://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111?mode=gun&security=&encryption=none&type=grpc#Blindvpn
 
 ss://Parsashonam-Bot-40@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Blindvpn
 
@@ -712,15 +712,11 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#Blindvpn
 
 ss://YWVzLTI1Ni1nY206M2MwNjQ3ZjQtYjJhNC00NGVlLWFkOWQtYzQ4OTRhMDgxYzZi@38.244.209.215:443#Blindvpn
 
-ss://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443?type=ws&path=%2F&host=&security=none#Blindvpn
-
 ss://b7437f7a-783f-4e6f-a555-a2a589f42b5a@64.188.74.120:443?security=reality&encryption=none&pbk=UKUZheV6-Ddtby0JfuazU4kb5swl2w6yoBEloV6k1Wc&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=baeddc986348#Blindvpn
 
 ss://bf92bdef-ab8d-4481-8798-2d39023357b2@ac-rez.intfreed.ru:443?mode=auto&security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&fp=qq&spx=%2F&type=xhttp&sni=video.intfreed.ru&sid=7755e972daf8eec8#Blindvpn
 
 ss://bf92bdef-ab8d-4481-8798-2d39023357b2@fin.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#Blindvpn
-
-ss://bf92bdef-ab8d-4481-8798-2d39023357b2@test-pc.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#Blindvpn
 
 ss://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?security=reality&encryption=none&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=9d36b8589fa524fd#Blindvpn
 
@@ -764,6 +760,8 @@ vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@fis.jykvpn.com:443?security=reality
 
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&security=&encryption=none&host=157.180.123.25&type=ws#Blindvpn
 
+vless://6639c4b9-a776-4f89-b402-7ebfe14fa388@46.62.168.178:39411?security=reality&type=tcp&sni=google.com&fp=chrome&sid=e3e4740b584aeb&pbk=nXgUEoaBeYXNre6foY-3IEIy9cPSCLJzOSCEnlvJ0lE&encryption=none#Blindvpn
+
 vless://669be00c-67b4-4b87-b08f-311c45abced2@178.17.53.248:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#Blindvpn
 
 vless://778b3f35-b216-45f2-ba06-904215154cda@65.109.205.214:443?type=ws&encryption=none&path=%2F&host=&security=none#Blindvpn
@@ -790,19 +788,13 @@ vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-se
 
 vless://969695f5-6a06-4297-86a8-2d464e4cb356@vv.vipirvcip.sbs:2082?mode=auto&security=none&encryption=none&type=xhttp#Blindvpn
 
-vless://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111?mode=gun&security=&encryption=none&type=grpc#Blindvpn
-
 vless://Parsashonam-Bot-40@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Blindvpn
-
-vless://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443?type=ws&path=%2F&host=&security=none#Blindvpn
 
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@64.188.74.120:443?security=reality&encryption=none&pbk=UKUZheV6-Ddtby0JfuazU4kb5swl2w6yoBEloV6k1Wc&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=baeddc986348#Blindvpn
 
 vless://bf92bdef-ab8d-4481-8798-2d39023357b2@ac-rez.intfreed.ru:443?mode=auto&security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&fp=qq&spx=%2F&type=xhttp&sni=video.intfreed.ru&sid=7755e972daf8eec8#Blindvpn
 
 vless://bf92bdef-ab8d-4481-8798-2d39023357b2@fin.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#Blindvpn
-
-vless://bf92bdef-ab8d-4481-8798-2d39023357b2@test-pc.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#Blindvpn
 
 vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?security=reality&encryption=none&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=9d36b8589fa524fd#Blindvpn
 
@@ -834,17 +826,11 @@ vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0
 
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIzZjQtZGNmZC00ZmVmLTliYTMtZWYwYWQxMGZjMzM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjY2MTYsInBzIjoiQmxpbmR2cG4iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 
-vmess://eyJ2IjoiMiIsInBzIjoiQmxpbmR2cG4iLCJhZGQiOiJhLmNvbmZpZ25vci5zaXRlIiwicG9ydCI6Ijc0NDMiLCJpZCI6IjMyMTE5NzAwLTQzMzctNDQxMS1iZDc2LWIyMGEzYjZiMzdhZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
-
-vmess://eyJ2IjoiMiIsInBzIjoiQmxpbmR2cG4iLCJhZGQiOiJhLmNvbmZpZ25vci5zaXRlIiwicG9ydCI6Ijc0NDMiLCJpZCI6ImYzOTU3NzIwLTI3OTUtNGE1NC04ZTBiLWVjNTU4MDEyNjUwOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
-
 vmess://eyJhZGQiOiI2NS4xMDkuMTg0LjE1MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1Y2Y4MzZjOC1iYjdkLTRlYWMtZjBlZS1iYzcyMWZiNzQ1M2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiQmxpbmR2cG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
 
 vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJCbGluZHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0
 
 vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uMGRpZ2ltZW50by5pci4iLCJpZCI6IjE3NTViNzg2LWFhMWMtNGQzMS04NmE1LTY2ODUwNzhjZjYxZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkJsaW5kdnBuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
-
-vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwMDNmMTI3OS1jNTVkLTQyN2MtODMyNy05ZjcxZjhiMWNjMGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0Ijo2NjE2LCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJCbGluZHZwbiJ9
 
 vmess://eyJhZGQiOiJhLmNvbmZpZ25vci5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU3NzM1OTBhLWNmZTctNDc1Yi1iYjFhLWMzYTMxYWY1NGNjZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNzQ0MyIsInBzIjoiQmxpbmR2cG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
