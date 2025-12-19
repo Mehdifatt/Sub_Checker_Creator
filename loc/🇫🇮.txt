@@ -2,11 +2,16 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.129.98:990#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ==@45.15.127.49:443#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://3a066455-22e9-45e7-804e-f1aaaa280e02@144.31.169.4:6443?security=reality&type=tcp&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=eg81n6lQc3AyTJJyYbQFTYuaKWQBGJ9tSpAWWow1zno&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?security=none&type=ws&path=%2F&host=cloudflare.com&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?sni=ya.ru&allowInsecure=1&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://0a0d846f-8f54-4db4-940b-b373b1b02e4c@94.131.100.173:443?path=%2Fcoxzfsws&security=tls&encryption=none&insecure=1&host=639010645287857140.accord-lmnxa.info&type=ws&allowInsecure=1&sni=www.vk.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&sid=c2fa#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://33f4ca29-6404-42de-8ca7-18846dbf5dcc@141.98.169.94:443?path=%2Fpuzoscws&security=tls&encryption=none&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.avito.ru#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://a91e64f0-9295-499d-bf4a-661ad99d4938@217.16.24.170:8443?security=reality&type=tcp&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&sid=5540e44a53c3d01c&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://f4e6e061-2a5b-41c4-b244-2f9202f05b43@141.98.169.102:443?path=/tmvocqws&security=tls&encryption=none&type=ws&sni=www.vk.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://telegram%3Av2ray_fa3t@bm.boulvarmoein.shop:80?path=%2FTelegram%40v2ray_fa3t%3D%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bm.boulvarmoein.shop&fp=chrome&type=ws&allowInsecure=0&sni=bm.boulvarmoein.shop#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://ca14b15a-50d5-4e2c-9ebd-85b2d0dd1651@dedi.netbazchanell.ir:2087/?type=grpc&encryption=none&flow=&security=tls&sni=api-yandex.maps.ru&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087/?type=grpc&encryption=none&flow=&security=tls&sni=api-maps.yandex.ru&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=%2Fiixmriws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=api.avito.ru#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://cf691676-f3e8-4e83-ad05-399638e0e010@94.131.100.167:443?path=%2Fczoxqsws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
