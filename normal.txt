@@ -682,6 +682,10 @@ ss://6a35ac5c-12cb-4719-86f8-3334cb5970e4@77.42.16.205:443?mode=auto&path=%2Ffar
 
 ss://7137559d-f4e4-4457-a33b-dc2cec61ef79@hy6awiaa3c2e.dopweed.com:2053?type=grpc&encryption=none&serviceName=Tel%3A%40%40vpnclashfa+-+1376#Blindvpn
 
+ss://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
+
+ss://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Blindvpn
+
 ss://875d9d7a-ddba-48b2-bcb5-0324da0b93b2@65.109.198.23:53330?path=%2F&security=none&encryption=none&type=ws#Blindvpn
 
 ss://875d9d7a-ddba-48b2-bcb5-0324da0b93b2@65.109.198.23:53330?type=ws&encryption=none&path=%2F&host=&security=none#Blindvpn
@@ -689,8 +693,6 @@ ss://875d9d7a-ddba-48b2-bcb5-0324da0b93b2@65.109.198.23:53330?type=ws&encryption
 ss://8a6d643c-39bf-4d11-998a-62e3bc9a7ba4@94.131.100.169:443?path=/eclbanws&security=tls&encryption=none&type=ws&sni=www.vk.com#Blindvpn
 
 ss://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443/?type=grpc&encryption=none&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&sni=www.speedtest.net&alpn=h2&fp=chrome&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#Blindvpn
-
-ss://969695f5-6a06-4297-86a8-2d464e4cb356@vv.vipirvcip.sbs:2082?mode=auto&security=none&encryption=none&type=xhttp#Blindvpn
 
 ss://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111/?type=grpc&encryption=none#Blindvpn
 
@@ -750,7 +752,7 @@ trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053/?type=ws&path=
 
 trojan://88939272-790a-441f-b12b-8ce531aca810@polo01.kctr2038.icu:443/?type=tcp&security=tls&sni=polo01.kctr2038.icu#Blindvpn
 
-trojan://trojan@46.62.232.242:1500?sni=tianjiu.pages.dev&allowInsecure=1&type=ws&path=%2F&host=tianjiu.pages.dev#Blindvpn
+trojan://trojan@65.109.210.183:9999?sni=doufeng.pages.dev&allowInsecure=1&type=ws&path=%2F&host=doufeng.pages.dev#Blindvpn
 
 vless://0a0d846f-8f54-4db4-940b-b373b1b02e4c@94.131.100.173:443?path=/coxzfsws&security=tls&encryption=none&host=639010645287857140.accord-lmnxa.info&type=ws&sni=www.vk.com#Blindvpn
 
@@ -798,6 +800,10 @@ vless://6a35ac5c-12cb-4719-86f8-3334cb5970e4@77.42.16.205:443?mode=auto&path=%2F
 
 vless://7137559d-f4e4-4457-a33b-dc2cec61ef79@hy6awiaa3c2e.dopweed.com:2053?type=grpc&encryption=none&serviceName=Tel%3A%40%40vpnclashfa+-+1376#Blindvpn
 
+vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
+
+vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Blindvpn
+
 vless://875d9d7a-ddba-48b2-bcb5-0324da0b93b2@65.109.198.23:53330?path=%2F&security=none&encryption=none&type=ws#Blindvpn
 
 vless://875d9d7a-ddba-48b2-bcb5-0324da0b93b2@65.109.198.23:53330?type=ws&encryption=none&path=%2F&host=&security=none#Blindvpn
@@ -805,8 +811,6 @@ vless://875d9d7a-ddba-48b2-bcb5-0324da0b93b2@65.109.198.23:53330?type=ws&encrypt
 vless://8a6d643c-39bf-4d11-998a-62e3bc9a7ba4@94.131.100.169:443?path=/eclbanws&security=tls&encryption=none&type=ws&sni=www.vk.com#Blindvpn
 
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443/?type=grpc&encryption=none&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&sni=www.speedtest.net&alpn=h2&fp=chrome&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#Blindvpn
-
-vless://969695f5-6a06-4297-86a8-2d464e4cb356@vv.vipirvcip.sbs:2082?mode=auto&security=none&encryption=none&type=xhttp#Blindvpn
 
 vless://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111/?type=grpc&encryption=none#Blindvpn
 
@@ -853,8 +857,6 @@ vmess://eyJhZGQiOiI2NS4xMDkuMTg0LjE1MiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNWNmODM2
 vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOjQ0MywicHMiOiJCbGluZHZwbiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
 
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIzZjQtZGNmZC00ZmVmLTliYTMtZWYwYWQxMGZjMzM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjY2MTYsInBzIjoiQmxpbmR2cG4iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-
-vmess://eyJ2IjoiMiIsInBzIjoiQmxpbmR2cG4iLCJhZGQiOiIxNTcuMTgwLjEyMC4xOTQiLCJwb3J0Ijo0MDEwMCwiaWQiOiI3M2ZlZWVkNi05YTQwLTQ1YjAtYTI2ZC04NDc3MGY1ZjA1ZmQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
 
 vmess://eyJhZGQiOiI0Ni42Mi4yMTQuMjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiI5OWMzYTcwNy1kMWYxLTRhN2QtYTUzNy03MTZhNzU0MjU2MWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgxIiwicHMiOiJCbGluZHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0
 
