@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://e681c501-18d6-4a14-963e-a88234c68a94@go1.nnvpn.io:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=go1.nnvpn.io&fp=chrome&type=grpc&serviceName=%2Fxhttppath%2F&sni=go1.nnvpn.io#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?security=reality&encryption=none&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=9d36b8589fa524fd#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
