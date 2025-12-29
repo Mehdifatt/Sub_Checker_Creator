@@ -2,10 +2,16 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#Blindvpn%3A%3A%E2%9D%93
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#Blindvpn%3A%3A%E2%9D%93
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?security=reality&sni=dl.google.com&allowInsecure=1&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%BF
+vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?security=reality&sni=google.com&allowInsecure=1&fp=chrome&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%E2%9D%93
+hy2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
+hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
 vless://23d94ce7-81fe-4a37-935d-0fa980485c51@fi1.jugploer.icu:443?security=reality&encryption=none&pbk=awb21BMYndRuIsrKKJVlv22-l4Rs-EvEULcaOf5ERTw&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi1.jugploer.icu#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=&encryption=none&host=cloudflare.com&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://a41550c8-daee-4f2c-b5a8-e66b314c99b1@45.144.53.166:443?type=grpc&encryption=none&flow=&sni=hel1.hitori.cloud&fp=chrome&security=reality&pbk=XnSTGadTQ3R3qGd5lk7l8gZMuZUQH7fu1tItRmH6CEY&sid=e9d19fd1ca5ca23c#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://98bdfa8a-bcc7-4dc9-b6fd-a5e5b3076435@194.180.189.36:443?path=%2FFree-VPN-CF-Geo-Project%2F194.180.189.36%3D443&security=tls&encryption=none&host=joss.gvpn2.web.id&fp=randomized&type=ws&sni=joss.gvpn2.web.id#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@vkru.outlinekeys.net:443?security=reality&encryption=none&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
