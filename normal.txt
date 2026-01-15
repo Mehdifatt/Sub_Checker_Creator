@@ -650,8 +650,6 @@ ss://0d93b787-b66b-4696-a036-a0f549764f69@fi.fasti.win:443?type=tcp&encryption=n
 
 ss://1c83fafe-8107-46ed-a94c-1252de4ceba6@beast-masters.fonixapp.org:443?security=reality&encryption=none&pbk=Y7WW7er4kSFYTxwTw8Lv7Iu-cPH0_Vt3kimM7vD9GHM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=xp.apple.com&sid=640054#Blindvpn
 
-ss://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@ficdn16.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn16.suio.me&allowInsecure=1#Blindvpn
-
 ss://23914cf2-2d38-4402-8862-4b02c60b84d9@earthshaker.fonixapp.org:443?security=reality&encryption=none&pbk=dqzabPbB3PzzynPZdUe6AtyKH0FIdi0eIyQBvn9azE0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mtalk.google.com&sid=23#Blindvpn
 
 ss://2556a8ce-bd8b-4a86-91e7-b95f5e81144e@finland.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#Blindvpn
@@ -672,8 +670,6 @@ ss://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=none
 
 ss://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#Blindvpn
 
-ss://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=api.avito.ru#Blindvpn
-
 ss://4685d838-99e1-4dc7-bc26-d8589d41f2a1@fi9.tunnely.ru:443?security=reality&encryption=none&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi9.tunnely.ru&sid=2e40144ddc07e8e1#Blindvpn
 
 ss://4d7a559b-6379-41a7-9e51-41ef759846aa@85.192.48.101:443?path=%2F&security=tls&encryption=none&type=httpupgrade&sni=fin1.nfnpx.online#Blindvpn
@@ -683,6 +679,8 @@ ss://4d94fa33-9462-48b4-b7de-8a2863560d19@144.31.27.190:443?type=tcp&encryption=
 ss://4f6efecc-5747-41a0-8fc3-c41271ee8c50@NeW.PvNoCo.Ir:558?security=reality&encryption=none&pbk=15ZlM5p8DB5Fp4mtva2pvtC4IBtcxSxqeuZ0R7ffkRk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=4b8f669536c45c2b#Blindvpn
 
 ss://50122bf3-218b-4182-b2e0-6a28b24459a6@invoker.fonixapp.org:443?security=reality&encryption=none&pbk=ZNKJSYo6NIxLxFtgo3IjNmDqEjtuGpLZYs_sLAOkNks&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cdn.steamstatic.com&sid=1c#Blindvpn
+
+ss://552ec06f-7cd9-4c5e-ae5a-e00944e397fc@37.27.89.117:13212/?type=tcp&encryption=none&flow=#Blindvpn
 
 ss://57a5f6b3-ea58-4d4e-ad9c-a9830f148184@93.152.207.254:45884?security=reality&encryption=none&pbk=_GoR9cR6JOUmQ1PM-s2GsHiy6OuIo1Ek1a7lhNKkvj4&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=9a#Blindvpn
 
@@ -732,6 +730,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjE
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ==@45.15.127.49:443#Blindvpn
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@141.98.4.67:52952#Blindvpn
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMjlCcGJ0a2hXWnI@185.204.1.253:443#Blindvpn
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYMzZUSWk0QzNOSDZPbG4zVGRHeWpn@fl3.cowjuice.me:9443#Blindvpn
@@ -750,17 +750,27 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#Blindvpn
 
 ss://YWVzLTI1Ni1nY206M2MwNjQ3ZjQtYjJhNC00NGVlLWFkOWQtYzQ4OTRhMDgxYzZi@38.244.209.215:443#Blindvpn
 
+ss://a1e8c629-e805-4878-a91d-3505f01a5ea2@hield.ru:3389?type=tcp&encryption=none&security=reality&pbk=brMfFpfxMeNeqGqG0ZmWdwlnvZBfBTY92Jjyfz8Qyz4&fp=ios&sni=google.com&sid=0274c94d298e&spx=%2F#Blindvpn
+
 ss://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443/?type=ws&encryption=none&path=%2F#Blindvpn
 
 ss://b58d778d-f393-4280-940f-61230dbdd491@butcher.fonixapp.org:443?security=reality&encryption=none&pbk=frSr5idN1FqLyEdsujtTf-BnCDx35Eji65qIsXuqNCo&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=3938#Blindvpn
-
-ss://bcf31ced-07e7-4bd3-ae6d-9280d9a47834@84.201.162.47:4249?security=reality&type=tcp&sni=sun6-22.userapi.com&fp=chrome&flow=xtls-rprx-vision&sid=a20d3ed244c76426&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&encryption=none#Blindvpn
 
 ss://cbabe86a-40a5-46af-898f-d6eaac66e141@sandking.fonixapp.org:443?security=reality&encryption=none&pbk=7a-5DF4-Xk8h1Ex0zG-0CcSBgdhAnLrofVQ0rRdiSD8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=0990c9#Blindvpn
 
 ss://cd1091f1-8deb-4080-bf0d-19cc1ee0da02@clinkz.fonixapp.org:443?security=reality&encryption=none&pbk=uh_HksISuPiZ-j3DG6m8MNhPBEEu__J-ILHQVv3pnRE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mesu.apple.com&sid=f08d17de7d6380#Blindvpn
 
+ss://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@193.124.47.218:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.reality.tv123.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Blindvpn
+
+ss://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@217.198.13.50:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.reality.tv123.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Blindvpn
+
+ss://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@45.139.78.132:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.reality.tv123.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Blindvpn
+
 ss://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@45.144.52.37:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.reality.tv123.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Blindvpn
+
+ss://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@bridge2.pool.sssrvpn.pro:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.reality.tv123.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Blindvpn
+
+ss://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@fi4.node.sssrvpn.pro:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.reality.tv123.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Blindvpn
 
 ss://e23b2103-c1c2-4035-858c-d5c7080e541f@tormentedsoul.fonixapp.org:443?security=reality&encryption=none&pbk=Cj72nKei-IJbaEG4olVgyKMmNUQn3NqpyHtHxGyqn2k&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=configuration.apple.com&sid=7ce392#Blindvpn
 
@@ -770,17 +780,13 @@ ss://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?path=%2F%3Fed
 
 ss://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?path=%2F%3Fed&security=none&encryption=none&host=hiifof.parsvpskm.fun&type=httpupgrade#Blindvpn
 
-ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@185.92.183.112:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net&security=reality&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&sid=#Blindvpn
-
 ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@185.92.183.112:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net&security=reality&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&sid=#Blindvpn
-
-ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@vkru.outlinekeys.net:443?security=reality&encryption=none&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net#Blindvpn
 
 ss://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443?path=/gfvfgzws&security=tls&encryption=none&type=ws&sni=www.vk.com#Blindvpn
 
-ss://ef4637fb-b2a8-4eab-bfc4-b1ec957c6cfb@fi-h2-01.com:8104?security=reality&encryption=none&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=9f4ca836ca270ef8#Blindvpn
-
 ss://ef4637fb-b2a8-4eab-bfc4-b1ec957c6cfb@fi-h2-01.com:8104?security=reality&encryption=none&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=9f4ca836ca270ef8#Blindvpn
+
+ss://f0025d65-f31f-451a-835d-6f00b4b82c6a@yoyo-fl.bing-net.com:9031?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Blindvpn
 
 ss://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#Blindvpn
 
@@ -791,6 +797,8 @@ ss://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?security=reality&ty
 ss://id6856346113@s2.nodu11.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=random&security=reality&pbk=yDwHL93MSZMTVyDy0OhZu-NIlgNA9amsi_t1P8Sla0Q&sid=122455#Blindvpn
 
 trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F65.109.227.138%3D2053&security=tls&sni=joss.dus.biz.id#Blindvpn
+
+trojan://88939272-790a-441f-b12b-8ce531aca810@65.108.205.61:443/?type=tcp&security=tls&sni=polo01.kctr2038.icu&allowInsecure=1#Blindvpn
 
 trojan://88939272-790a-441f-b12b-8ce531aca810@polo01.kctr2038.icu:443/?type=tcp&security=tls&sni=polo01.kctr2038.icu#Blindvpn
 
@@ -809,8 +817,6 @@ vless://0d93b787-b66b-4696-a036-a0f549764f69@196.244.194.114:443?type=tcp&encryp
 vless://0d93b787-b66b-4696-a036-a0f549764f69@fi.fasti.win:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.fasti.win&fp=chrome&security=reality&pbk=F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc&sid=2a8a7bb6036e8461#Blindvpn
 
 vless://1c83fafe-8107-46ed-a94c-1252de4ceba6@beast-masters.fonixapp.org:443?security=reality&encryption=none&pbk=Y7WW7er4kSFYTxwTw8Lv7Iu-cPH0_Vt3kimM7vD9GHM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=xp.apple.com&sid=640054#Blindvpn
-
-vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@ficdn16.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn16.suio.me&allowInsecure=1#Blindvpn
 
 vless://23914cf2-2d38-4402-8862-4b02c60b84d9@earthshaker.fonixapp.org:443?security=reality&encryption=none&pbk=dqzabPbB3PzzynPZdUe6AtyKH0FIdi0eIyQBvn9azE0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mtalk.google.com&sid=23#Blindvpn
 
@@ -832,8 +838,6 @@ vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.speedtest.net:8880?encryption=n
 
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.fan1.www.speedtest.net.blue99shop.ir&path=/#Blindvpn
 
-vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=api.avito.ru#Blindvpn
-
 vless://4685d838-99e1-4dc7-bc26-d8589d41f2a1@fi9.tunnely.ru:443?security=reality&encryption=none&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi9.tunnely.ru&sid=2e40144ddc07e8e1#Blindvpn
 
 vless://4d7a559b-6379-41a7-9e51-41ef759846aa@85.192.48.101:443?path=%2F&security=tls&encryption=none&type=httpupgrade&sni=fin1.nfnpx.online#Blindvpn
@@ -843,6 +847,8 @@ vless://4d94fa33-9462-48b4-b7de-8a2863560d19@144.31.27.190:443?type=tcp&encrypti
 vless://4f6efecc-5747-41a0-8fc3-c41271ee8c50@NeW.PvNoCo.Ir:558?security=reality&encryption=none&pbk=15ZlM5p8DB5Fp4mtva2pvtC4IBtcxSxqeuZ0R7ffkRk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=4b8f669536c45c2b#Blindvpn
 
 vless://50122bf3-218b-4182-b2e0-6a28b24459a6@invoker.fonixapp.org:443?security=reality&encryption=none&pbk=ZNKJSYo6NIxLxFtgo3IjNmDqEjtuGpLZYs_sLAOkNks&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cdn.steamstatic.com&sid=1c#Blindvpn
+
+vless://552ec06f-7cd9-4c5e-ae5a-e00944e397fc@37.27.89.117:13212/?type=tcp&encryption=none&flow=#Blindvpn
 
 vless://57a5f6b3-ea58-4d4e-ad9c-a9830f148184@93.152.207.254:45884?security=reality&encryption=none&pbk=_GoR9cR6JOUmQ1PM-s2GsHiy6OuIo1Ek1a7lhNKkvj4&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=9a#Blindvpn
 
@@ -886,17 +892,27 @@ vless://Parsashonam-Bot-40@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Pa
 
 vless://Parsashonam-Bot-42@104.17.147.22:8880?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Blindvpn
 
+vless://a1e8c629-e805-4878-a91d-3505f01a5ea2@hield.ru:3389?type=tcp&encryption=none&security=reality&pbk=brMfFpfxMeNeqGqG0ZmWdwlnvZBfBTY92Jjyfz8Qyz4&fp=ios&sni=google.com&sid=0274c94d298e&spx=%2F#Blindvpn
+
 vless://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443/?type=ws&encryption=none&path=%2F#Blindvpn
 
 vless://b58d778d-f393-4280-940f-61230dbdd491@butcher.fonixapp.org:443?security=reality&encryption=none&pbk=frSr5idN1FqLyEdsujtTf-BnCDx35Eji65qIsXuqNCo&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=3938#Blindvpn
-
-vless://bcf31ced-07e7-4bd3-ae6d-9280d9a47834@84.201.162.47:4249?security=reality&type=tcp&sni=sun6-22.userapi.com&fp=chrome&flow=xtls-rprx-vision&sid=a20d3ed244c76426&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&encryption=none#Blindvpn
 
 vless://cbabe86a-40a5-46af-898f-d6eaac66e141@sandking.fonixapp.org:443?security=reality&encryption=none&pbk=7a-5DF4-Xk8h1Ex0zG-0CcSBgdhAnLrofVQ0rRdiSD8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=0990c9#Blindvpn
 
 vless://cd1091f1-8deb-4080-bf0d-19cc1ee0da02@clinkz.fonixapp.org:443?security=reality&encryption=none&pbk=uh_HksISuPiZ-j3DG6m8MNhPBEEu__J-ILHQVv3pnRE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mesu.apple.com&sid=f08d17de7d6380#Blindvpn
 
+vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@193.124.47.218:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.reality.tv123.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Blindvpn
+
+vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@217.198.13.50:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.reality.tv123.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Blindvpn
+
+vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@45.139.78.132:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.reality.tv123.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Blindvpn
+
 vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@45.144.52.37:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.reality.tv123.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Blindvpn
+
+vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@bridge2.pool.sssrvpn.pro:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.reality.tv123.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Blindvpn
+
+vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@fi4.node.sssrvpn.pro:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.reality.tv123.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Blindvpn
 
 vless://e23b2103-c1c2-4035-858c-d5c7080e541f@tormentedsoul.fonixapp.org:443?security=reality&encryption=none&pbk=Cj72nKei-IJbaEG4olVgyKMmNUQn3NqpyHtHxGyqn2k&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=configuration.apple.com&sid=7ce392#Blindvpn
 
@@ -906,17 +922,13 @@ vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?path=%2F%3
 
 vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?path=%2F%3Fed&security=none&encryption=none&host=hiifof.parsvpskm.fun&type=httpupgrade#Blindvpn
 
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@185.92.183.112:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net&security=reality&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&sid=#Blindvpn
-
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@185.92.183.112:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net&security=reality&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&sid=#Blindvpn
-
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@vkru.outlinekeys.net:443?security=reality&encryption=none&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net#Blindvpn
 
 vless://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443?path=/gfvfgzws&security=tls&encryption=none&type=ws&sni=www.vk.com#Blindvpn
 
-vless://ef4637fb-b2a8-4eab-bfc4-b1ec957c6cfb@fi-h2-01.com:8104?security=reality&encryption=none&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=9f4ca836ca270ef8#Blindvpn
-
 vless://ef4637fb-b2a8-4eab-bfc4-b1ec957c6cfb@fi-h2-01.com:8104?security=reality&encryption=none&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=9f4ca836ca270ef8#Blindvpn
+
+vless://f0025d65-f31f-451a-835d-6f00b4b82c6a@yoyo-fl.bing-net.com:9031?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Blindvpn
 
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#Blindvpn
 
@@ -937,6 +949,8 @@ vmess://eyJhZGQiOiI2NS4xMDkuMTg0LjE1MiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNWNmODM2
 vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOjQ0MywicHMiOiJCbGluZHZwbiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
 
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIzZjQtZGNmZC00ZmVmLTliYTMtZWYwYWQxMGZjMzM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjY2MTYsInBzIjoiQmxpbmR2cG4iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+
+vmess://eyJhZGQiOiIxMzUuMTgxLjI1LjEzMiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwicHMiOiJCbGluZHZwbiJ9
 
 vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJCbGluZHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0
 
