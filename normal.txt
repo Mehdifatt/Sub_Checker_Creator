@@ -646,8 +646,6 @@ ss://0a0d846f-8f54-4db4-940b-b373b1b02e4c@94.131.100.173:443?path=/coxzfsws&secu
 
 ss://0d93b787-b66b-4696-a036-a0f549764f69@196.196.203.90:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.fasti.win&fp=chrome&security=reality&pbk=F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc&sid=2a8a7bb6036e8461#Blindvpn
 
-ss://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#Blindvpn
-
 ss://2556a8ce-bd8b-4a86-91e7-b95f5e81144e@finland.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#Blindvpn
 
 ss://309fa273-6579-4cb2-9143-7cad50401eba@37.27.254.251:443?&security=reality&flow=xtls-rprx-vision&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&path=%2F#Blindvpn
@@ -742,11 +740,13 @@ ss://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?path=%2F%3Fed
 
 ss://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?path=%2F%3Fed%3D2095TELEGRAM-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-&security=none&encryption=none&host=hiifof.parsvpskm.fun&type=httpupgrade#Blindvpn
 
+ss://ecd373ac-8cc8-407d-9600-896d6296320c@45.159.249.242:8443?security=reality&%3Bencryption=none&%3Bpbk=oy7HvK2b2f44HoOwTcx-v-mIySy690bIUbbI9DnCq0k&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3Bflow=xtls-rprx-vision&%3Bsni=isharing.us&%3Bsid=a4eed13ebbf2f9d2#Blindvpn
+
 ss://ecd373ac-8cc8-407d-9600-896d6296320c@45.159.249.242:8443?security=reality&encryption=none&pbk=oy7HvK2b2f44HoOwTcx-v-mIySy690bIUbbI9DnCq0k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=isharing.us&sid=a4eed13ebbf2f9d2#Blindvpn
 
 ss://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443?path=/gfvfgzws&security=tls&encryption=none&type=ws&sni=www.vk.com#Blindvpn
 
-ss://f3b47775-edd2-42f8-94ac-9d315ae5463d@83.219.97.166:30297?security=reality&type=tcp&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=626617b8f5c8&pbk=j07H9kYduVQkwjQw-7PW0um-0FUeCNe9J70oLv8I03I&encryption=none#Blindvpn
+ss://f0025d65-f31f-451a-835d-6f00b4b82c6a@yoyo-fl.bing-net.com:9031?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Blindvpn
 
 ss://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#Blindvpn
 
@@ -773,8 +773,6 @@ vless://0771a171-7eea-4272-a6b1-3e29478e4473@helsinki.fonixapp.org:443?security=
 vless://0a0d846f-8f54-4db4-940b-b373b1b02e4c@94.131.100.173:443?path=/coxzfsws&security=tls&encryption=none&host=639010645287857140.accord-lmnxa.info&type=ws&sni=www.vk.com#Blindvpn
 
 vless://0d93b787-b66b-4696-a036-a0f549764f69@196.196.203.90:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.fasti.win&fp=chrome&security=reality&pbk=F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc&sid=2a8a7bb6036e8461#Blindvpn
-
-vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#Blindvpn
 
 vless://2556a8ce-bd8b-4a86-91e7-b95f5e81144e@finland.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#Blindvpn
 
@@ -848,11 +846,13 @@ vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?path=%2F%3
 
 vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?path=%2F%3Fed%3D2095TELEGRAM-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-&security=none&encryption=none&host=hiifof.parsvpskm.fun&type=httpupgrade#Blindvpn
 
+vless://ecd373ac-8cc8-407d-9600-896d6296320c@45.159.249.242:8443?security=reality&%3Bencryption=none&%3Bpbk=oy7HvK2b2f44HoOwTcx-v-mIySy690bIUbbI9DnCq0k&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3Bflow=xtls-rprx-vision&%3Bsni=isharing.us&%3Bsid=a4eed13ebbf2f9d2#Blindvpn
+
 vless://ecd373ac-8cc8-407d-9600-896d6296320c@45.159.249.242:8443?security=reality&encryption=none&pbk=oy7HvK2b2f44HoOwTcx-v-mIySy690bIUbbI9DnCq0k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=isharing.us&sid=a4eed13ebbf2f9d2#Blindvpn
 
 vless://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443?path=/gfvfgzws&security=tls&encryption=none&type=ws&sni=www.vk.com#Blindvpn
 
-vless://f3b47775-edd2-42f8-94ac-9d315ae5463d@83.219.97.166:30297?security=reality&type=tcp&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=626617b8f5c8&pbk=j07H9kYduVQkwjQw-7PW0um-0FUeCNe9J70oLv8I03I&encryption=none#Blindvpn
+vless://f0025d65-f31f-451a-835d-6f00b4b82c6a@yoyo-fl.bing-net.com:9031?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Blindvpn
 
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#Blindvpn
 
@@ -875,6 +875,8 @@ vmess://eyJhZGQiOiI2NS4xMDkuMTg0LjE1MiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNWNmODM2
 vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOjQ0MywicHMiOiJCbGluZHZwbiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
 
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIzZjQtZGNmZC00ZmVmLTliYTMtZWYwYWQxMGZjMzM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjY2MTYsInBzIjoiQmxpbmR2cG4iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+
+vmess://eyJhZGQiOiI5NS4yMTYuMTgwLjE1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYm1pLmlyIiwiaWQiOiJlYjA1ZGRjZi0zOWM5LTQ1YWMtZGY1ZC1mMGM0NTVmOTA4NDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInBzIjoiQmxpbmR2cG4ifQ
 
 vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJCbGluZHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0
 
