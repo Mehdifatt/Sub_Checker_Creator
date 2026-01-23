@@ -744,7 +744,11 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#Blindvpn
 
 ss://YWVzLTI1Ni1nY206M2MwNjQ3ZjQtYjJhNC00NGVlLWFkOWQtYzQ4OTRhMDgxYzZi@38.244.209.215:443#Blindvpn
 
+ss://a383e547-97ee-4948-a74e-b2634f38642e@hield.ru:3443?type=tcp&encryption=none&security=reality&pbk=GxR12dtq_m0q2_Kx1PF7GD9du6zKkCtrVgmaR7ATckY&fp=chrome&sni=google.com&sid=cb938a1c&spx=%2F&flow=xtls-rprx-vision#Blindvpn
+
 ss://a888c6da-33b0-480c-a40a-0e94f4eb9c48@85.192.49.156:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=findmypackets.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34&spx=%2F#Blindvpn
+
+ss://ab3b841d-cb52-4475-8e44-80b08c19f879@finland.aparat-movies-download.ir:42538?security=none&type=tcp&headerType=http&path=%2F&host=excoino.com#Blindvpn
 
 ss://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443/?type=ws&encryption=none&path=%2F#Blindvpn
 
@@ -896,7 +900,11 @@ vless://95abaefc-7861-417a-81b7-166cb788ce1a@144.31.19.193:443?type=tcp&encrypti
 
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443/?type=grpc&encryption=none&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&sni=www.speedtest.net&alpn=h2&fp=chrome&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#Blindvpn
 
+vless://a383e547-97ee-4948-a74e-b2634f38642e@hield.ru:3443?type=tcp&encryption=none&security=reality&pbk=GxR12dtq_m0q2_Kx1PF7GD9du6zKkCtrVgmaR7ATckY&fp=chrome&sni=google.com&sid=cb938a1c&spx=%2F&flow=xtls-rprx-vision#Blindvpn
+
 vless://a888c6da-33b0-480c-a40a-0e94f4eb9c48@85.192.49.156:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=findmypackets.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34&spx=%2F#Blindvpn
+
+vless://ab3b841d-cb52-4475-8e44-80b08c19f879@finland.aparat-movies-download.ir:42538?security=none&type=tcp&headerType=http&path=%2F&host=excoino.com#Blindvpn
 
 vless://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443/?type=ws&encryption=none&path=%2F#Blindvpn
 
