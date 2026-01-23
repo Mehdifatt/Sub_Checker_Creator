@@ -3,8 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://Pe_dQrCQ4QbnntuVrqHN3dsKhCBpqvxr@fi2.nnvpn.io:443/?type=tcp&security=tls&sni=fi2.nnvpn.io&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-trojan://Pe_dQrCQ4QbnntuVrqHN3dsKhCBpqvxr@fi2.nnvpn.io:443?sni=fi2.nnvpn.io&allowInsecure=1&alpn=h2%2Chttp%2F1.1&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20&allowInsecure=1&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20%7C%20361%20&allowInsecure=1&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?sni=ya.ru&allowInsecure=1&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20%7C%20141%20&allowInsecure=1&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
