@@ -2,7 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@Chatgpt.com:443?security=tls&type=ws&path=%2F130.162.193.183%3A15401&host=market.chepschasb.shop&alpn=http%2F1.1&sni=market.chepschasb.shop&fp=chrome&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@chatgpt.com:443?path=%2F130.162.193.183%3A15401&security=tls&alpn=http%2F1.1&encryption=none&host=market.chepschasb.shop&fp=chrome&type=ws&sni=market.chepschasb.shop#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@chatgpt.com:443?alpn=http%2F1.1&encryption=none&flow=&fp=chrome&host=market.chepschasb.shop&path=%2F130.162.193.183%3A15401&security=tls&sni=market.chepschasb.shop&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@chatgpt.com:443?security=tls&type=ws&path=%2F130.162.193.183%3A15401&host=market.chepschasb.shop&alpn=http%2F1.1&sni=market.chepschasb.shop&fp=chrome&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@chatgpt.com:443?path=%2F130.162.193.183%3A15401&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=market.chepschasb.shop&fp=chrome&type=ws&allowInsecure=0&sni=market.chepschasb.shop#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?security=tls&type=ws&path=%2F&host=dev.twistsparrow.xyz&sni=dev.twistsparrow.xyz&fp=chrome&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://999a10d2-60c6-4169-8300-1a1f4f033b2e@realr5.mediafilm.media:8080?encryption=none&type=ws&path=/#Blindvpn%3A%3A%E2%9D%93
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
