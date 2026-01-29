@@ -738,7 +738,9 @@ ss://be66c8de-41f5-465b-a417-37d56547d0c3@fi4.srv.oplcdn.link:8443?security=real
 
 ss://c68a1a4c-7dbd-4a19-bf2e-e00e131373bf@216.24.57.1:443?path=%2FWS%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ceo.nexun.ir&fp=chrome&type=ws&sni=ceo.nexun.ir#Blindvpn
 
-ss://c8e0cef7-b3fc-4f4c-c31f-15e38f5cf124@89.167.0.99:7070?security=&encryption=none&headerType=http&type=tcp#Blindvpn
+ss://c8e0cef7-b3fc-4f4c-c31f-15e38f5cf124@89.167.0.99:7070?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#Blindvpn
+
+ss://c8e0cef7-b3fc-4f4c-c31f-15e38f5cf124@89.167.0.99:7070?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#Blindvpn
 
 ss://ccbc334b-de33-4431-89b4-35b756230f51@94.237.93.9:59421?security=none&type=http&path=%2F&host=soft98.ir&sni=soft98.ir&fp=chrome#Blindvpn
 
@@ -864,7 +866,9 @@ vless://be66c8de-41f5-465b-a417-37d56547d0c3@fi4.srv.oplcdn.link:8443?security=r
 
 vless://c68a1a4c-7dbd-4a19-bf2e-e00e131373bf@216.24.57.1:443?path=%2FWS%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ceo.nexun.ir&fp=chrome&type=ws&sni=ceo.nexun.ir#Blindvpn
 
-vless://c8e0cef7-b3fc-4f4c-c31f-15e38f5cf124@89.167.0.99:7070?security=&encryption=none&headerType=http&type=tcp#Blindvpn
+vless://c8e0cef7-b3fc-4f4c-c31f-15e38f5cf124@89.167.0.99:7070?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#Blindvpn
+
+vless://c8e0cef7-b3fc-4f4c-c31f-15e38f5cf124@89.167.0.99:7070?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#Blindvpn
 
 vless://ccbc334b-de33-4431-89b4-35b756230f51@94.237.93.9:59421?security=none&type=http&path=%2F&host=soft98.ir&sni=soft98.ir&fp=chrome#Blindvpn
 
