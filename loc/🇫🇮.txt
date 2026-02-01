@@ -2,16 +2,15 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@144.31.128.36:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn19.suio.me&allowInsecure=1&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.94:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn3.suio.me&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn3.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn3.suio.me&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn4.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn4.suio.me&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://b16e18a9-6363-4af5-9144-7fba011c1f25@65.109.219.76:19854?type=tcp&encryption=none&security=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@45.144.52.229:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn2.suio.me&allowInsecure=1&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://f3f6f19f-c68a-462c-a534-9b388663fffa@fl.mcqueenconnection.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fl.mcqueenconnection.ru&fp=chrome&security=reality&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&sid=3396f304f579d51f#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://db52eb6e-2cc6-4075-bc26-76e3ca718a6a@fi.fasti.win:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.fasti.win&fp=chrome&security=reality&pbk=F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc&sid=2a8a7bb6036e8461#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=images.apple.com&fp=chrome&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517&type=tcp&headerType=none&path=%2F#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?security=reality&type=tcp&sni=images.apple.com&fp=random&flow=xtls-rprx-vision&sid=58c512b4422e2517&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@65.108.108.151:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3&fp=chrome&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?security=reality&type=tcp&sni=images.apple.com&fp=random&flow=xtls-rprx-vision&sid=58c512b4422e2517&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@65.108.108.151:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
