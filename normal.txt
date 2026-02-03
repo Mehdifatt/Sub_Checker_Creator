@@ -664,6 +664,8 @@ ss://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&s
 
 ss://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4&sid=#Blindvpn
 
+ss://42bb7b94-1d53-4c57-82bd-ce259b0d4634@digikala.fl.rustx.ir:1500?encryption=none&security=reality&type=tcp&headerType=none&sni=cdn.cloudflare.com&fp=qq&pbk=IN1sHxrfPWkOexSbINTm-cRjXyg3znO88RNloCLjiAQ&sid=680c73c032582b87#Blindvpn
+
 ss://447c45cd-ade0-4bfe-90a0-3e581829f741@178.17.53.28:47539?security=reality&type=tcp&sni=yandex.ru&fp=chrome&sid=82a55f31981ea6be&pbk=uapzi5mhLkADHuak0eXEKq9vIl2A8IGrMhjdIG-tn3U#Blindvpn
 
 ss://4d7a559b-6379-41a7-9e51-41ef759846aa@85.192.48.101:443?path=%2F&security=tls&encryption=none&type=httpupgrade&sni=fin1.nfnpx.online#Blindvpn
@@ -695,8 +697,6 @@ ss://95abaefc-7861-417a-81b7-166cb788ce1a@144.31.119.84:443?security=reality&typ
 ss://95abaefc-7861-417a-81b7-166cb788ce1a@144.31.19.193:443?security=reality&type=tcp&sni=st.ozone.ru&fp=chrome&flow=xtls-rprx-vision&sid=00684d2eae2cdd16&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU#Blindvpn
 
 ss://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443/?type=grpc&encryption=none&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&sni=www.speedtest.net&alpn=h2&fp=chrome&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#Blindvpn
-
-ss://977fb128-1361-4b1e-9ae1-26e0687d6008@70.apollo99.shop:3070?security=none&type=tcp&headerType=none&path=&host=#Blindvpn
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2ZYZjF1TUtiSUtreG9OWUdRTXR0@38.244.137.202:45380#Blindvpn
 
@@ -814,6 +814,8 @@ vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=non
 
 vless://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4&sid=#Blindvpn
 
+vless://42bb7b94-1d53-4c57-82bd-ce259b0d4634@digikala.fl.rustx.ir:1500?encryption=none&security=reality&type=tcp&headerType=none&sni=cdn.cloudflare.com&fp=qq&pbk=IN1sHxrfPWkOexSbINTm-cRjXyg3znO88RNloCLjiAQ&sid=680c73c032582b87#Blindvpn
+
 vless://447c45cd-ade0-4bfe-90a0-3e581829f741@178.17.53.28:47539?security=reality&type=tcp&sni=yandex.ru&fp=chrome&sid=82a55f31981ea6be&pbk=uapzi5mhLkADHuak0eXEKq9vIl2A8IGrMhjdIG-tn3U#Blindvpn
 
 vless://4d7a559b-6379-41a7-9e51-41ef759846aa@85.192.48.101:443?path=%2F&security=tls&encryption=none&type=httpupgrade&sni=fin1.nfnpx.online#Blindvpn
@@ -845,8 +847,6 @@ vless://95abaefc-7861-417a-81b7-166cb788ce1a@144.31.119.84:443?security=reality&
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@144.31.19.193:443?security=reality&type=tcp&sni=st.ozone.ru&fp=chrome&flow=xtls-rprx-vision&sid=00684d2eae2cdd16&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU#Blindvpn
 
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443/?type=grpc&encryption=none&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&sni=www.speedtest.net&alpn=h2&fp=chrome&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#Blindvpn
-
-vless://977fb128-1361-4b1e-9ae1-26e0687d6008@70.apollo99.shop:3070?security=none&type=tcp&headerType=none&path=&host=#Blindvpn
 
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.68:443?type=tcp&encryption=none&flow=&security=tls&sni=ficdn13.suio.me&allowInsecure=1#Blindvpn
 
