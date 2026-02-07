@@ -2,12 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.129.98:990#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2ZYZjF1TUtiSUtreG9OWUdRTXR0@38.244.137.202:45380#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@vkru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&security=reality&sni=vkru.outlinekeys.net&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@vkru.outlinekeys.net:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net&fp=chrome&security=reality&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&sid=#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://ee603510-52e4-29f9-00b0-9a051ad424fb@65.109.179.221:26261/?type=tcp&encryption=none&flow=#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://ee603510-52e4-29f9-00b0-9a051ad424fb@65.109.179.221:2053?security=reality&encryption=none&pbk=dDzlhCAu0FtY4P7bzv8QiJGA0C-qoEUGKeVhXdpSdFg&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=a1b2c3d4#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?security=reality&type=tcp&sni=images.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=58c512b4422e2517&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
