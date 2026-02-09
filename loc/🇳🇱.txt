@@ -2,19 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://8ae40bd9-f769-4b1b-bf89-fde9d5afc4c5@fa.gamingserverstream.ir:443?path=%2F&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=pmeli.express-servers.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
