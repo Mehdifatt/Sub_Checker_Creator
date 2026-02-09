@@ -2,22 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.11:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&insecure=0&allowInsecure=0&type=ws&path=%2F#Blindvpn%3A%3A%E2%9D%93
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.9:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&insecure=0&allowInsecure=0&type=ws&path=%2F#Blindvpn%3A%3A%E2%9D%93
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.2:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&insecure=0&allowInsecure=0&type=ws&path=%2F#Blindvpn%3A%3A%E2%9D%93
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.18:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&insecure=0&allowInsecure=0&type=ws&path=%2F#Blindvpn%3A%3A%E2%9D%93
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.17:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&insecure=0&allowInsecure=0&type=ws&path=%2F#Blindvpn%3A%3A%E2%9D%93
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.3:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&insecure=0&allowInsecure=0&type=ws&path=%2F#Blindvpn%3A%3A%E2%9D%93
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#Blindvpn%3A%3A%E2%9D%93
