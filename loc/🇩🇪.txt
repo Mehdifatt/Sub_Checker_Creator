@@ -2,8 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://acadd87c-c8b4-4b6b-989b-64263e4d0329@chatgpt.com:443?path=%2FC7Uxy5S9pAi1VhW5NThds106&security=tls&alpn=http%2F1.1&insecure=0&host=de2c.buzzon.shop&fp=chrome&type=ws&allowInsecure=0&sni=de2c.buzzon.shop#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://acadd87c-c8b4-4b6b-989b-64263e4d0329@chatgpt.com:443?path=%2FaRzHt7ShW5NThds106&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=de2c.buzzon.shop&fp=chrome&type=ws&allowInsecure=0&sni=de2c.buzzon.shop#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vmess://eyJhZGQiOiJjaGF0Z3B0LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJkZTJjLmJ1enpvbi5zaG9wIiwiaWQiOiJhY2FkZDg3Yy1jOGI0LTRiNmItOTg5Yi02NDI2M2U0ZDAzMjkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcTRzbUtRbGowOGhXNU5UaGRzMTA2IiwicG9ydCI6IjQ0MyIsInBzIjoiQmxpbmR2cG46OvCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6ImRlMmMuYnV6em9uLnNob3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.158.2:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.70.204:8443?path=%2F%3Fed%3D2560%26Telegram%2B%40app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
