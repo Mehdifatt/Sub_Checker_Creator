@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://fee95190-fa52-4178-bcb6-03e74b560102@172.64.152.23:8443?path=%2F&security=tls&encryption=none&host=hm3.hamrahconf.ir&fp=chrome&type=ws&sni=hm3.hamrahconf.ir#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.27.24.143:443?security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
