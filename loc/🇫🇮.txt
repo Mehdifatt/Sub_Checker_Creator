@@ -2,16 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.129.98:990#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFNkdialczSVo0V29rdno0VllMajRv@38.244.137.202:45380#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&sid=365c07ed&spx=%2F&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://204fae2e-ab13-4ba8-a59b-ec37bbcf0e68@89.125.39.127:32354?encryption=none&security=none&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=365c07ed#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&type=tcp&sni=google.com&fp=chrome&sid=365c07ed&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://57a5f6b3-ea58-4d4e-ad9c-a9830f148184@93.152.207.254:45884?security=reality&encryption=none&pbk=_GoR9cR6JOUmQ1PM-s2GsHiy6OuIo1Ek1a7lhNKkvj4&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=9a#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://57a5f6b3-ea58-4d4e-ad9c-a9830f148184@93.152.207.254:45884?security=reality&type=tcp&sni=yahoo.com&fp=firefox&sid=9a&pbk=_GoR9cR6JOUmQ1PM-s2GsHiy6OuIo1Ek1a7lhNKkvj4&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://57a5f6b3-ea58-4d4e-ad9c-a9830f148184@93.152.207.254:45884?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=firefox&security=reality&pbk=_GoR9cR6JOUmQ1PM-s2GsHiy6OuIo1Ek1a7lhNKkvj4&sid=9a#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://8df8d701-38b4-5175-89ef-7447a1250e67@45.15.127.107:443?security=reality&encryption=none&pbk=3Q2wyMPpUbyfw7rmNxL25nnsNDmK9mHqcumAxYIGKVk&headerType=none&fp=chrome&spx=%2F4DG4AavkhI8my2L&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=e3#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://id8114764549@45.15.127.107:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=3Q2wyMPpUbyfw7rmNxL25nnsNDmK9mHqcumAxYIGKVk&sid=e3#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
