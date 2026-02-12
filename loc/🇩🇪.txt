@@ -2,6 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://713e0e8a-884d-42d2-8649-fdba1e1f669a@104.18.32.47:443?path=%2Fprv&security=tls&encryption=none&host=nl.prvprt.com&type=ws&sni=nl.prvprt.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://dbc8b845-5441-4a43-98cb-2e33ecb06f59@162.159.198.189:443?encryption=none&security=tls&sni=hotchoclate.graphapp.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=hotchoclate.graphapp.ir&path=%2Fv2rayroad#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.72.188.159:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.57.198.97:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
