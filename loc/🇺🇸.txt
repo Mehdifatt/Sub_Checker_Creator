@@ -3,7 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@ChatGPT.com:443?path=/156.244.1.250=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://d85ea913-7dfa-44b0-bd66-33414e897991@afrcloud22.mmv.kr:443?&security=tls&fp=chrome&sni=afrcloud22.mmv.kr&type=ws&headerType=none&host=afrcloud22.mmv.kr&path=%2F35.230.79.26%3D443#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=%2F130.185.164.213%3D8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
