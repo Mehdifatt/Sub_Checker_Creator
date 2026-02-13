@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://e35dd2de-7a4c-4af4-b671-1592e286a040@fr01.keyinvest.org:443/?type=grpc&encryption=none&flow=&sni=yandex.net&fp=chrome&security=reality&pbk=XhE3hZ6SyGoK0SEsCWUiLGDFPmS6B477zUVnm61eFgw&sid=#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.88.193:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
