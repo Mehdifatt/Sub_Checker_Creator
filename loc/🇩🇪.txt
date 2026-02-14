@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.254.52:2053?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e550f63f-7975-455d-a5d8-e11a120a519d@s31588.asancall.cloud:8443?type=ws&path=/ws/apps/zoomit#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.84.84:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@172.67.173.29:443/?type=ws&encryption=none&flow=&host=cdn-nodes.maviks.eu&path=%2FpLmdwS3fSrE9WwdgE3LdG2&security=tls&sni=cdn-nodes.maviks.eu&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
