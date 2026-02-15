@@ -18,3 +18,4 @@ hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-passw
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@kiramshadhendi.global.ssl.fastly.net:443?security=tls&type=ws&path=%2Fsite&alpn=http%2F1.1&sni=kiramshadhendi.global.ssl.fastly.net&fp=chrome&encryption=none#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
