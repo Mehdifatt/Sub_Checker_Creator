@@ -2,9 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@ficdn21.suio.me:443?security=tls&type=tcp&sni=ficdn21.suio.me&fp=chrome&encryption=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@ficdn21.suio.me:443?type=tcp&security=tls&encryption=none&sni=ficdn21.suio.me#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@vip3.kaixincloud.top:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.213.255:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://f92f1657-f560-466d-9b75-c784d5d52912@vpnazadie.voicesofiran.org:80?encryption=none&security=none&type=ws&host=voicesofiran.org&path=%2Fvless-ntls#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.245.168:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?security=tls&type=ws&path=%2F%3Fed%3D2560&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?security=tls&type=ws&path=%2F&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://a7b278a4-5ed7-4406-85dd-86668419ea23@f1.springpaatogh8.store:2087?security=tls&type=ws&path=%2F%3Fed%3D2560&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
