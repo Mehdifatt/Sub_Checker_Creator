@@ -2,5 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?security=tls&type=ws&path=%2Fukspeed&host=snapfood.org&alpn=http%2F1.1&sni=snapfood.org&fp=chrome&encryption=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkJsaW5kdnBuOjrwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.193.217:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.68.225:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.9.6.32:48484?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.35.45:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.194.176:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?security=tls&type=ws&path=%2F%3Fed&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
