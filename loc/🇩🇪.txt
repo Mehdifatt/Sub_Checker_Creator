@@ -2,4 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@ficdn21.suio.me:443?&security=tls&fp=chrome&sni=ficdn21.suio.me&type=tcp&headerType=none&host=ficdn21.suio.me&path=%2F#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@ficdn21.suio.me:443?type=tcp&security=tls&encryption=none&sni=ficdn21.suio.me#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://9f582467-6af2-4bdd-848e-93fdd84486ad@chatgpt.com:2087?path=%2Fdarkstrange&security=tls&encryption=none&insecure=0&host=ce.xo-connection.ir&type=ws&allowInsecure=0&sni=ce.xo-connection.ir#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.112.209:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://ff9fef0b-b3cd-4583-8841-b7ef1843880f@1234.wordpresscrt.ir:2087?path=%2Fpath&security=tls&encryption=none&host=mehdi-cd.wordpresscrt.ir&type=ws&sni=mehdi-cd.wordpresscrt.ir#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://7a7aa0d2-5311-45fc-80b0-9f46f3546793@83.166.255.72:443/?type=grpc&encryption=none&flow=&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&sid=#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
