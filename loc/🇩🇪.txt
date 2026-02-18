@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083/?type=ws&encryption=none&flow=&host=ipv4.yasharteam.com&path=%2F&security=tls&sni=ipv4.yasharteam.com&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://a992c7a6-832b-4243-a294-d34783d0294c@chatgpt.com:443?security=tls&type=ws&path=%2Fv2rayroad&host=hotchoclate.graphapp.ir&sni=hotchoclate.graphapp.ir&fp=chrome&encryption=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.220.38:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://a992c7a6-832b-4243-a294-d34783d0294c@185.238.228.46:443/?type=ws&encryption=none&flow=&host=hotchoclate.graphapp.ir&path=%2Fv2rayroad&security=tls&sni=hotchoclate.graphapp.ir&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@45.130.125.160:2083/?type=ws&encryption=none&flow=&host=ipv4.yasharteam.com&path=%2F&security=tls&sni=ipv4.yasharteam.com&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
