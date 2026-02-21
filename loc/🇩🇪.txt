@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.75.76:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@hd.pelatiposi.info:2087?security=tls&encryption=none&type=grpc&sni=splash.VaRtAlReX.iNfO#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://be016e95-d119-44d7-8a79-677740d5116d@188.114.97.3:443?flow=&host=nnet.online&packetEncoding=xudp&path=%2Fvless-tls&security=tls&sni=vpn.nnet.online&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://cc9f7840-757a-430b-bddc-a73478bea434@deu469.unboundworld.org:8443?security=tls&type=grpc&mode=gun&serviceName=grpc-vless&alpn=h2&sni=deu469.unboundworld.org&fp=chrome&encryption=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
