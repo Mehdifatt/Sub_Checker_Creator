@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://be016e95-d119-44d7-8a79-677740d5116d@188.114.97.3:443?flow=&host=nnet.online&packetEncoding=xudp&path=%2Fvless-tls&security=tls&sni=vpn.nnet.online&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://cc9f7840-757a-430b-bddc-a73478bea434@deu469.unboundworld.org:8443?security=tls&type=grpc&mode=gun&serviceName=grpc-vless&alpn=h2&sni=deu469.unboundworld.org&fp=chrome&encryption=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://cf95b75d-69fc-4a32-a0f8-8fc21c66a6e4@83.166.255.72:443/?type=grpc&encryption=none&flow=&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&sid=#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
