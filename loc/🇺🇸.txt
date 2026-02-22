@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@170.114.45.1:443/?type=ws&encryption=none&flow=&host=afrcloud22.mmv.kr&path=%2F138.2.5.136%3D443&security=tls&sni=afrcloud22.mmv.kr&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=%2F64.181.218.67%3D443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
