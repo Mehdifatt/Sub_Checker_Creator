@@ -2,5 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://cc9f7840-757a-430b-bddc-a73478bea434@deu469.unboundworld.org:8443?security=tls&type=grpc&mode=gun&serviceName=grpc-vless&alpn=h2&sni=deu469.unboundworld.org&fp=chrome&encryption=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://cf95b75d-69fc-4a32-a0f8-8fc21c66a6e4@83.166.255.72:443/?type=grpc&encryption=none&flow=&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&sid=#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.192.75:2096?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.35.45:2096?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.193.217:2096?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
