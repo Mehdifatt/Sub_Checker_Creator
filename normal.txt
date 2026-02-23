@@ -746,6 +746,8 @@ ss://b823aaa4-7b6f-49cb-98e4-ffc0a1fb19ee@92.63.224.18:443?type=tcp&headerType=n
 
 ss://b823aaa47b6f49cb98e4ffc0a1fb19eeOg==@92.63.224.18:443#Blindvpn
 
+ss://bd3649eb-1f72-4629-8d20-ee640b03f0e1@45.12.135.99:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=tMbRR1FTvBecmMv3GLv50T21hXHqHxulqWBKwNEW50Q&sid=822d&spx=/&type=tcp&headerType=none#Blindvpn
+
 ss://bd4270ac-93d4-42e0-af4f-c48a948705ac@144.31.7.199:6443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=debug.resolvertest.doh.umbrella.com&type=tcp#Blindvpn
 
 ss://bd4270ac-93d4-42e0-af4f-c48a948705ac@167.17.40.237:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.dev&type=tcp#Blindvpn
@@ -855,6 +857,8 @@ vless://b823aaa4-7b6f-49cb-98e4-ffc0a1fb19ee@92.63.224.18:443?security=reality&e
 vless://b823aaa4-7b6f-49cb-98e4-ffc0a1fb19ee@92.63.224.18:443?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=N7QOAJAui59pdM3FtsS9Ey-KFpr36OuhincNGnkm_E4&sid=f6ae0c7beb#Blindvpn
 
 vless://b823aaa4-7b6f-49cb-98e4-ffc0a1fb19ee@92.63.224.18:443?type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=N7QOAJAui59pdM3FtsS9Ey-KFpr36OuhincNGnkm_E4&sid=f6ae0c7beb&spx=%2F#Blindvpn
+
+vless://bd3649eb-1f72-4629-8d20-ee640b03f0e1@45.12.135.99:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=tMbRR1FTvBecmMv3GLv50T21hXHqHxulqWBKwNEW50Q&sid=822d&spx=/&type=tcp&headerType=none#Blindvpn
 
 vless://bd4270ac-93d4-42e0-af4f-c48a948705ac@144.31.7.199:6443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=debug.resolvertest.doh.umbrella.com&type=tcp#Blindvpn
 
