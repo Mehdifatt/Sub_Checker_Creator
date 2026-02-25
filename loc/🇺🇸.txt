@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://a6430e91-38ad-4254-b7db-d1fba6efd9e3@nodejs.org:443?path=%2F129.146.254.25%3A443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://cee4ee46-7856-4d3e-a579-f08269b26f77@162.159.153.247:443/?type=ws&encryption=none&flow=&host=jop-6z6.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=jop-6z6.pages.dev&fp=chrome#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
