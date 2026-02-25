@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@jmkg.818185.xyz:443?security=tls&sni=jmkg.818185.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=jmkg.818185.xyz&path=%2F8uSIAS1cIyvZXFAbvQEN#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://5f6c3f92-7220-4275-b34d-57c04db3f967@ujk.003330333.xyz:443?encryption=none&security=tls&sni=ujk.003330333.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ujk.003330333.xyz&path=%2FF24D1rlC85bVBOSONBms#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://5f6c3f92-7220-4275-b34d-57c04db3f967@hju8.003330333.xyz:443?encryption=none&security=tls&sni=hju8.003330333.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hju8.003330333.xyz&path=%2FF24D1rlC85bVBOSONBms#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=%2F107.174.121.122%3D443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=%2F64.181.218.67%3D443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443?path=%2F167.179.110.68%3D8443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
