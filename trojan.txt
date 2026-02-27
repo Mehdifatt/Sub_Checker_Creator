@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#Blindvpn%3A%3A%E2%9D%93
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#Blindvpn%3A%3A%E2%9D%93
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@mk8.huangzi.eu.cc:443?security=tls&sni=mk8.huangzi.eu.cc&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mk8.huangzi.eu.cc&path=%2FpdfbAl1zmvpSIH8OSONBms#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://eed4a583-b20e-4787-bbdb-09018156e53f@ggggs.7no.ccwu.cc:443?type=ws&security=tls&sni=ggggs.7no.ccwu.cc&host=ggggs.7no.ccwu.cc&path=%2F8uSIAS1cIyvZXFAbvQEN#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@mki.huangzi.eu.cc:443?type=ws&security=tls&sni=mki.huangzi.eu.cc&host=mki.huangzi.eu.cc&path=%2FpdfbAl1zmvpSIH8OSONBms#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8

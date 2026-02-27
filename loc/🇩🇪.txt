@@ -2,6 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.57.206.229:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.27.4.187:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🎖@alixtso#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vmess://eyJhZGQiOiJpcDMucGhvbm9tYS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiY2RuLm9sYWYuc3BhY2UiLCJpZCI6IjliZDNiMjQ2LTIxMmQtNDk5NC1iMWMzLWNkYThlZDAyZmNlNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWQ9MjU2MCIsInBvcnQiOiI0NDMiLCJwcyI6IkJsaW5kdnBuOjrwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiJjZG4ub2xhZi5zcGFjZSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087/?type=ws&encryption=none&flow=&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&security=tls&sni=digikala.sorza.ir&fp=chrome#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@104.16.250.22:443/?type=ws&encryption=none&flow=&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&allowInsecure=1&fp=chrome#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://5859e7c5-c61a-4d16-b56e-8fc6321ba59a@188.114.96.66:2082?type=ws&host=war.does.not.determine.who.is.right_only.who.is.left.2.0.2.6.cEphAlon.BeauTy&path=%2F%40cephalon_ala-%40cephalon_ala-%40cephalon_ala-%40cephalon_ala-%40cephalon_ala-%40cephalon_ala-%40cephalon_ala-%40cephalon_ala-%40cephalon_ala-%40cephalon_ala%3Fed%3D1024#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
