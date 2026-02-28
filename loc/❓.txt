@@ -3,22 +3,25 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Blindvpn%3A%3A%E2%9D%93
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Blindvpn%3A%3A%E2%9D%93
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Blindvpn%3A%3A%E2%9D%93
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
 hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
 hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%E2%9D%93
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%E2%9D%93
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-vless://64aafe63-ef36-4da5-8bf9-838d767bfe74@51.250.90.103:443?security=reality&type=tcp&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&sid=3f200574d011010f&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&encryption=none#Blindvpn%3A%3A%E2%9D%93
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?encryption=none&security=tls&sni=hetz.x-smm.com&fp=chrome&insecure=1&type=ws&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292#Blindvpn%3A%3A%E2%9D%93
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&type=ws#Blindvpn%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#Blindvpn%3A%3A%E2%9D%93
+vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=365c07ed#Blindvpn%3A%3A%E2%9D%93
+vless://Telegram@193.124.225.148:443?security=tls&type=ws&path=%2Fsg-lnd&host=tn1rr.qzz.io&sni=tn1rr.qzz.io&fp=chrome&encryption=none#Blindvpn%3A%3A%E2%9D%93
+vless://a51b3f1b-2a10-5e91-aa9d-c9c52b4825d6@5.10.215.8:2096?allowInsecure=1&encryption=none&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://47702dbb-6607-4d76-80e9-cd75327be3e7@172.64.52.166:443?allowInsecure=1&encryption=none&host=zrf-623.pages.dev&path=%2Fproxyip%3Dsjc.o00o.ooo%3A443&security=tls&sni=zrf-623.pages.dev&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://47702dbb-6607-4d76-80e9-cd75327be3e7@8.35.211.150:443?allowInsecure=1&encryption=none&host=zrf-623.pages.dev&path=%2Fproxyip%3Dsjc.o00o.ooo%3A443&security=tls&sni=zrf-623.pages.dev&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://506e4a91-1d05-5683-b84c-2113f673cb19@37.153.171.28:2096?allowInsecure=1&encryption=none&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io&type=ws#Blindvpn%3A%3A%E2%9D%93
