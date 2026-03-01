@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.5.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://9fb4f918-d297-4750-96fa-217ae44b3102@104.16.121.70:2083?allowInsecure=1&encryption=none&host=52yunwang.dpdns.org&path=%2F&security=tls&sni=52yunwang.dpdns.org&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@vvvbnj.taipei102.indevs.in:443?path=%2F2cO5FH0xUmT9oqnbBhmKb8nOkg&security=tls&alpn=http/1.1&host=vvvbnj.taipei102.indevs.in&type=ws&sni=vvvbnj.taipei102.indevs.in#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
