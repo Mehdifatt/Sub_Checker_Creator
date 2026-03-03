@@ -652,8 +652,6 @@ ss://17b16eb9-c1d0-4c12-8520-0b400567d8e4@sr4.laptopstock7.com:3030?encryption=n
 
 ss://17b16eb9-c1d0-4c12-8520-0b400567d8e4@sr4.laptopstock7.com:3030?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=tgju.org&sid=42c0b628ba6a42a9&fp=firefox&pbk=wVG0SzD_MnGA_q_DtgzirtOY8bGIeZwxrHd7aoK8Uwk&headerType=none#Blindvpn
 
-ss://17b16eb9-c1d0-4c12-8520-0b400567d8e4@sr4.laptopstock7.com:3030?security=reality&encryption=none&pbk=wVG0SzD_MnGA_q_DtgzirtOY8bGIeZwxrHd7aoK8Uwk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=42c0b628ba6a42a9#Blindvpn
-
 ss://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@109.120.189.142:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#Blindvpn
 
 ss://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@45.144.53.229:443?encryption=none&security=tls&sni=ficdn16.suio.me&type=tcp#Blindvpn
@@ -792,8 +790,6 @@ vless://17b16eb9-c1d0-4c12-8520-0b400567d8e4@sr4.laptopstock7.com:3030?encryptio
 
 vless://17b16eb9-c1d0-4c12-8520-0b400567d8e4@sr4.laptopstock7.com:3030?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=tgju.org&sid=42c0b628ba6a42a9&fp=firefox&pbk=wVG0SzD_MnGA_q_DtgzirtOY8bGIeZwxrHd7aoK8Uwk&headerType=none#Blindvpn
 
-vless://17b16eb9-c1d0-4c12-8520-0b400567d8e4@sr4.laptopstock7.com:3030?security=reality&encryption=none&pbk=wVG0SzD_MnGA_q_DtgzirtOY8bGIeZwxrHd7aoK8Uwk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=42c0b628ba6a42a9#Blindvpn
-
 vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@109.120.189.142:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#Blindvpn
 
 vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@45.144.53.229:443?encryption=none&security=tls&sni=ficdn16.suio.me&type=tcp#Blindvpn
@@ -884,55 +880,37 @@ vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIz
 
 vmess://eyJhZGQiOiI4MS4xMi44My4yNTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiI4MWZmZThmMC1jZjlkLTVhOTQtOTVjZC1mMjdkOWI1ZjhmMjEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1MSIsInBzIjoiQmxpbmR2cG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
-vless://44de73bc-eb6d-429d-9c2f-ec0a6e4a6681@my.configfast.site:4013?security=none&encryption=none&host=bale.ai%2Cweb.splus.ir%2Cigap.net&headerType=http&type=tcp#Blindvpn
+vless://cfb6d9ad-7a14-4061-b159-8902fd73bb57@104.17.147.22:2095?Telegram=@V2RayTz,@V2RayTz&path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#Blindvpn
 
-vless://2fb9335d-6a89-4eed-8246-0d5076fd556e@vip-meli2.nightgemshop.com:443?security=none&encryption=none&host=alef.ir&headerType=http&type=tcp#Blindvpn
+vless://1893673b-0802-445a-9b0e-7de8d9991359@khaneh.berozsho.click:443?encryption=none&type=tcp&headerType=http&host=filmnet.com&security=none#Blindvpn
 
-vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@v3.dabache.top:2052?security=none&allowInsecure=0&encryption=none&type=ws&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&path=/#Blindvpn
+vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-81.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Blindvpn
 
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F%3FV_P_N_Ahmad&security=tls&encryption=none&host=p1.thisiswe.uno&fp=chrome&type=ws&sni=p1.thisiswe.uno#Blindvpn
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mmkk.www890604.dpdns.org:443?path=%2FhV829BTVzg35A6ueyyZnWd&security=tls&alpn=http%2F1.1&insecure=0&host=mMKK.WwW890604.DpdNS.OrG&type=ws&allowInsecure=0&sni=mMKK.WwW890604.DpdNS.OrG#Blindvpn
 
-vless://8d228ecc-8e96-4395-aad5-7fb11b0720d5@185.146.173.37:2095?Telegram=@V2RayTz,@V2RayTz&path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#Blindvpn
+vmess://eyJhZGQiOiI1Ny4xMjkuNTkuMTk1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkJsaW5kdnBuIiwic2N5IjoiYXV0byIsInNuaSI6ImthbXBvbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0
 
-vless://cfb6d9ad-7a14-4061-b159-8902fd73bb57@188.114.98.223:2095?Telegram=@V2RayTz,@V2RayTz&path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=DigiV2ray---_-_---DIGIq.radioTehran.org.&type=ws#Blindvpn
+vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=%2Fdownloader&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=matoride.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=matoride.adaspoloandco.com#Blindvpn
 
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.123.255.18:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=hkd.ylks.link#Blindvpn
+vless://312fc303-f529-4283-8acb-a1db2aace2e3@185.215.229.66:2037?security=none&encryption=none&headerType=http&type=tcp#Blindvpn
 
-vless://b14647af-9936-41dd-b9fb-d108d7e3e405@172.67.171.43:80?path=/vless&security=none&encryption=none&host=Be1.vless.site.&type=ws#Blindvpn
+vless://4c2a61d3-2b8d-e0a1-5195-53ac103c5396@porttt4.webchipro2.ir:3040?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#Blindvpn
 
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@168.100.6.1:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#Blindvpn
+vless://22539a4e-2975-4586-99a4-2bfaeb9ccd2b@PaN1.taNuplOad.top:61443?encryption=none&type=tcp&headerType=http&host=isna.ir&security=none#Blindvpn
 
-vless://cfb6d9ad-7a14-4061-b159-8902fd73bb58@188.114.98.223:2095?Telegram=@V2RayTz,@V2RayTz&path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=DigiV2ray---_-_---DIGIq.radioTehran.org.&type=ws#Blindvpn
+vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjIyNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkJsaW5kdnBuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-vless://83b8e95b-df6e-4a80-b897-273cd4524caf@81.12.33.100:7710?mode=gun&security=none&encryption=none&type=grpc&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#Blindvpn
+vmess://eyJhZGQiOiIxNDguMTEzLjE3Ni4xOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkJsaW5kdnBuIiwic2N5IjoiYXV0byIsInNuaSI6ImZhcGVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
 
-vless://3363394e-d5ce-4b71-8281-39a3469924c5@tr.speadnet.ir:2087?security=none&encryption=none&host=taaghche.com&headerType=http&type=tcp#Blindvpn
+vless://c4e1a874-a5ca-43b8-817b-1cc3f28a03e3@188.225.45.130:8880?security=none&type=tcp&host=cloudflare.com&headerType=http#Blindvpn
 
-vless://cbe7ca55-5865-41f6-a010-c860ab3d7257@st3.zlpmsa.top:21443?security=none&encryption=none&host=isna.ir&headerType=http&type=tcp#Blindvpn
+vless://37d12b73-7315-4d9a-b6ac-bbebe1498945@M.kejar.ir:6002?path=%2F&security=none&encryption=none&host=fast.com&type=ws#Blindvpn
 
-vmess://eyJ2IjoiMiIsInBzIjoiQmxpbmR2cG4iLCJhZGQiOiJmYXBlbmcub3JnIiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiZmFwZW5nLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoiZmFwZW5nLm9yZyIsInRlc3RfbmFtZSI6IjMifQ
+vless://97d216c9-7561-45fa-fd67-e56fde36360b@193.58.119.134:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#Blindvpn
 
-vless://03993135-ae86-433f-94d4-7bad33d7fc22@172.64.84.146:443?security=tls&sni=AZaDnEt-sTm-uSa.PagES.dev&type=ws&host=AZaDNEt-sTM-USA.PAgeS.DeV&fp=chrome&alpn=h2,http/1.1#Blindvpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#Blindvpn
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.220.88.180:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳@WangCai2#Blindvpn
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.229.141.208:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#Blindvpn
 
-vless://47702dbb-6607-4d76-80e9-cd75327be3e7@172.67.88.71:443?allowInsecure=1&encryption=none&host=zrf-623.pages.dev&path=%2Fproxyip%3Dsjc.o00o.ooo%3A443&security=tls&sni=zrf-623.pages.dev&type=ws#Blindvpn
-
-vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@172.67.67.139:443?allowInsecure=1&encryption=none&host=20251127.ldvsmms.dpdns.org&path=%2F&security=tls&sni=20251127.ldvsmms.dpdns.org&type=ws#Blindvpn
-
-vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@104.20.57.74:443?allowInsecure=1&encryption=none&host=20251127.ldvsmms.dpdns.org&path=%2F&security=tls&sni=20251127.ldvsmms.dpdns.org&type=ws#Blindvpn
-
-vless://98aec3c3-d957-4363-9933-018e533c7c06@45.131.4.176:443?allowInsecure=1&encryption=none&host=uk.dlaparat.ir&path=%2F&security=tls&sni=uk.dlaparat.ir&type=ws#Blindvpn
-
-vless://47702dbb-6607-4d76-80e9-cd75327be3e7@104.26.2.4:443?allowInsecure=1&encryption=none&host=zrf-623.pages.dev&path=%2Fproxyip%3Dsjc.o00o.ooo%3A443&security=tls&sni=zrf-623.pages.dev&type=ws#Blindvpn
-
-vless://98aec3c3-d957-4363-9933-018e533c7c06@104.16.139.37:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=uk.dlaparat.ir&path=%2F&security=tls&sni=uk.dlaparat.ir&type=ws#Blindvpn
-
-vless://47702dbb-6607-4d76-80e9-cd75327be3e7@162.159.45.73:443?allowInsecure=1&encryption=none&host=zrf-623.pages.dev&path=%2Fproxyip%3Dsjc.o00o.ooo%3A443&security=tls&sni=zrf-623.pages.dev&type=ws#Blindvpn
-
-vless://4cf1a3a0-7360-41ff-84ae-b621001e8376@172.64.80.1:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=usa.correctcosette.workers.dev&path=%2FR8BFTroQ00j1&security=tls&sni=Usa.cORreCtCOsETTe.WOrKeRS.DeV&type=ws#Blindvpn
-
-vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.5:443?allowInsecure=1&encryption=none&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&type=ws#Blindvpn
-
-vless://47702dbb-6607-4d76-80e9-cd75327be3e7@162.159.44.109:443?allowInsecure=1&encryption=none&host=zrf-623.pages.dev&path=%2Fproxyip%3Dsjc.o00o.ooo%3A443&security=tls&sni=zrf-623.pages.dev&type=ws#Blindvpn
+vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@172.64.152.23:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=apexbhao1.qzz.io&type=ws&allowInsecure=0&sni=apexbhao1.qzz.io#Blindvpn
 

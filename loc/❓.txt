@@ -2,20 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Blindvpn%3A%3A%E2%9D%93
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Blindvpn%3A%3A%E2%9D%93
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#Blindvpn%3A%3A%E2%9D%93
-vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=images.apple.com&fp=chrome&security=reality&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517#Blindvpn%3A%3A%E2%9D%93
-vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@v3.dabache.top:2052?security=none&allowInsecure=0&encryption=none&type=ws&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&path=/#Blindvpn%3A%3A%E2%9D%93
-vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.5:443?allowInsecure=1&encryption=none&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://e384913f-8863-47b4-8858-a84b68abb4a6@2.cdnconn.com:23335/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=icloud.com&fp=chrome&security=reality&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90#Blindvpn%3A%3A%E2%9D%93
