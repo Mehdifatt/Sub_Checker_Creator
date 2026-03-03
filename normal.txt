@@ -658,8 +658,6 @@ ss://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@45.144.53.229:443?encryption=none&secu
 
 ss://22fc4701-8c86-4d4f-a858-8f5921d83977@144.31.90.114:443?security=reality&encryption=none&pbk=TL-wfJUPd7Avh31YWkFM5We0hJauc1e9jOugDIvgwHA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#Blindvpn
 
-ss://2ba7f500-017b-4891-87a0-e4e62a4ad52d@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=9409f73c2fd7#Blindvpn
-
 ss://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040&path=%2FXIXVPN%3Fed%3D2560#Blindvpn
 
 ss://3763c9aa-e41e-4191-8388-3995716cb3de@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#Blindvpn
@@ -800,8 +798,6 @@ vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@45.144.53.229:443?encryption=none&s
 
 vless://22fc4701-8c86-4d4f-a858-8f5921d83977@144.31.90.114:443?security=reality&encryption=none&pbk=TL-wfJUPd7Avh31YWkFM5We0hJauc1e9jOugDIvgwHA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#Blindvpn
 
-vless://2ba7f500-017b-4891-87a0-e4e62a4ad52d@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=9409f73c2fd7#Blindvpn
-
 vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040&path=%2FXIXVPN%3Fed%3D2560#Blindvpn
 
 vless://3763c9aa-e41e-4191-8388-3995716cb3de@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#Blindvpn
@@ -883,18 +879,6 @@ vmess://eyJhZGQiOiI2NS4xMDkuMTg0LjE1MiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNWNmODM2
 vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOjQ0MywicHMiOiJCbGluZHZwbiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
 
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIzZjQtZGNmZC00ZmVmLTliYTMtZWYwYWQxMGZjMzM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjY2MTYsInBzIjoiQmxpbmR2cG4iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-
-vless://20f9fd85-1e0f-4426-e840-594fff87b8a0@18.184.52.243:444?type=grpc&encryption=none&serviceName=&authority=&security=none#Blindvpn
-
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#Blindvpn
-
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#Blindvpn
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.238:2096?path=%2F%3Fed%3D2560%26tm%F0%9F%87%A8%F0%9F%87%B3%20%40i2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#Blindvpn
-
-vless://252ea4b1-2c13-4631-81e1-69eb47f31504@185.146.173.37:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#Blindvpn
-
-vless://fd30d779-5183-42c5-97f2-e3a3a888c3af@172.67.163.123:443?security=tls&sni=free.smelean.ir&type=ws&host=free.smelean.ir&path=%2F%40Mmd_V2rayng-@MikasaVpn%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#Blindvpn
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.152.68:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Blindvpn
 
