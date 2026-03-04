@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%E2%9D%93
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%E2%9D%93
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=365c07ed#Blindvpn%3A%3A%E2%9D%93
 vless://184aae9f-795f-a18c-ff65-177b90e4c7f0@fi1.mahboob.top:2086?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%E2%9D%93
-vless://47702dbb-6607-4d76-80e9-cd75327be3e7@104.19.34.196:443?allowInsecure=1&encryption=none&host=7c4bec62.zrf-623.pages.dev&path=%2Fproxyip%3Dsjc.o00o.ooo%3A443&security=tls&sni=7c4bec62.zrf-623.pages.dev&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://47702dbb-6607-4d76-80e9-cd75327be3e7@104.19.63.3:443?allowInsecure=1&encryption=none&host=c5c00e13.zrf-623.pages.dev&path=%2Fproxyip%3Dsjc.o00o.ooo%3A443&security=tls&sni=c5c00e13.zrf-623.pages.dev&type=ws#Blindvpn%3A%3A%E2%9D%93
