@@ -798,15 +798,31 @@ vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0
 
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIzZjQtZGNmZC00ZmVmLTliYTMtZWYwYWQxMGZjMzM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjY2MTYsInBzIjoiQmxpbmR2cG4iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 
-vless://9e6b86b9-dd24-4132-80cc-ca1de3a07fe7@sv6.zestifypro.com:6040?encryption=none&type=tcp&headerType=http&path=%2F#Blindvpn
+vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Blindvpn
 
-vless://9e6b86b9-dd24-4132-80cc-ca1de3a07fe7@sv7.zestifypro.com:7030?encryption=none&type=tcp&headerType=http&path=%2F#Blindvpn
+vless://424b84b4-cd57-42eb-b1e0-5b618ffcb822@109.95.67.200:25443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Blindvpn
 
-vless://7061a7ca-787e-4dd2-8876-51b0ff01964c@link.mizbanertebatfarda.site:3010?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=myket.ir&type=ws#Blindvpn
+vless://62da658c-9641-4615-8180-14db65694cc5@nl1.vnet500.xyz:26082?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#Blindvpn
 
-vless://19542a29-e734-41c9-b372-b30286a61048@entekhabat.iran.asiatech.numtwo.iranvatanam.com:440?security=none&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#Blindvpn
+vless://40634014-2458-4ddd-9125-b0023548f770@33kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:702?security=none&type=tcp&headerType=http&path=%2F&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online#Blindvpn
 
-vless://1eb55289-62f1-4e79-90a8-5412e0f33a93@94.183.172.28:27836?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Blindvpn
+vless://c17682e5-0b20-4e6d-b58d-8a0f753f3513@109.95.65.242:8032?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#Blindvpn
 
-vless://608a1c83-4a69-45e9-9227-dcd2e50db9b3@vipnl1.persianpinggame.com:9095?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Blindvpn
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.79.165.50:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn
+
+vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#Blindvpn
+
+vless://4f5e47ba-1a54-11f1-9053-92000723b4ab@vipde7.persianpinggame.com:9094?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#Blindvpn
+
+vless://d6b510f3-fe8d-798a-98bf-5c4fb0e7c911@lord.socialxxmedia.pro:440?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Blindvpn
+
+vless://a097a505-7c85-4a2b-9773-90e868898935@st.muteia.shop:6098?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&type=ws#Blindvpn
+
+vless://7f6bd5dd-4f3f-c4d3-72bc-f9c24ce33936@lord.socialxxmedia.pro:440?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Blindvpn
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.184.163.171:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#Blindvpn
+
+vless://b083b539-a43a-44d1-a7dd-f90f94b9cfc6@connected5.starpo5.ir:8080?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#Blindvpn
+
+vless://a41e01c3-94a3-4fd0-c1e1-e7bab798c4c0@srfremehdi-1.vahidtoni.life:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@v2raysrv&sni=srfremehdi-1.vahidtoni.life#Blindvpn
 
