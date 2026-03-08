@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@95.216.187.134:8443?security=tls&type=ws&path=%2Fdanfeng&host=snippet.sh21.eu.org&sni=snippet.sh21.eu.org&fp=random#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@65.109.220.238:8738?security=tls&type=ws&path=%2Fdanfeng&host=snippet.sh21.eu.org&sni=snippet.sh21.eu.org&fp=random#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vmess://eyJ2IjoiMiIsInBzIjoiQmxpbmR2cG46OvCfh6nwn4eqIiwiYWRkIjoiaHd0cWNwLnVob21kZXguc2hvcCIsInBvcnQiOiI4NDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImVkZGViYzkyLWI5ZjctNDAxOS04YTExLTBkNzMzYmZlNjY1ZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6Imh3dHFjcC51aG9tZGV4LnNob3AiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
