@@ -800,21 +800,33 @@ vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIz
 
 vmess://eyJ2IjoiMiIsInBzIjoiQmxpbmR2cG4iLCJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwicG9ydCI6MzIwMTcsImlkIjoiYzBjY2RlYjktNzg0Yy00ZDY3LWI5MDQtMjBkY2FhYzk5MDJhIiwiYWlkIjowLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 
-vless://9fb6d125-2165-43f9-b791-ea484432dcb0@143.204.111.65:80?flow=&type=ws&host=d2a5lr44zte3rb.cloudfront.net&path=/wss&security=none#Blindvpn
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F&security=none&type=ws#Blindvpn
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.248.181.189:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#Blindvpn
+vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#Blindvpn
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#Blindvpn
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#Blindvpn
 
-vless://1f39fe05-8c73-0ae4-8c03-0e53878dbba6@94.184.31.240:58319?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Blindvpn
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#Blindvpn
 
-vless://948b6637-2bfb-4cd3-a586-53bd37c5faca@185.243.49.69:14300?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#Blindvpn
+vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#Blindvpn
 
-vless://26524cce-d514-4014-a426-365fb266a14d@47.76.218.163:443?&security=tls&fp=random&sni=_acme-challenge.443888.xyz&type=ws&headerType=none&host=_acme-challenge.443888.xyz&path=%2Fdanfeng#Blindvpn
+vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10002?allowInsecure=1&encryption=none&path=%2Fvpnjantit&security=tls&type=ws#Blindvpn
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.101.152.6:2919?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+#Blindvpn
+vless://73d17f62-d0c0-4c90-903c-a2b3f3806cca@104.19.151.106:80?encryption=none&host=fragrant-tooth-a5b7.cajeba6448.workers.dev&security=none&type=ws#Blindvpn
 
-vless://14110bc1-454f-4536-9ac5-74754e77b4d5@g1-de2-user.a1mshop.ir:14300?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#Blindvpn
+vless://761de185-8b90-407c-89ad-6be8d880f6f8@162.159.12.102:8443?allowInsecure=1&encryption=none&host=xrqj.pages.dev&path=%2Ffriends%2Fplayer%2Fanime&security=tls&sni=xrqj.pages.dev&type=ws#Blindvpn
 
-vless://04d5c2c8-e9b9-47d2-a188-e9dea5b19cf4@fin-tun.a1mshop2.xyz:12000?security=&encryption=none&host=aparat.com&headerType=http&type=tcp#Blindvpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#Blindvpn
+
+vless://d2d0f796-edb0-427a-af32-ae360679f9e7@172.66.1.143:443?allowInsecure=1&encryption=none&host=rayan-007.foton.dpdns.org&path=%2F&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&type=ws#Blindvpn
+
+vless://532a9115-aee7-4d39-9638-1e5146de075b@172.67.215.39:443?allowInsecure=1&encryption=none&host=muddy-math-c1fc.tmpnriqueau89.workers.dev&path=%2Fjs%2FcHlpcC55Z2tray5kcGRucy5vcmc%3D%2F&security=tls&sni=muddy-math-c1fc.tmpnriqueau89.workers.dev&type=ws#Blindvpn
+
+vless://f2a73750-3087-48ff-a763-1348c15dce68@162.159.152.4:443?allowInsecure=1&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&type=ws#Blindvpn
+
+vless://ac97a0e4-6b24-4437-a9c8-8f08ff59ca1c@farzandeiran.iransalar.top:21531?security=none&encryption=none&headerType=http&type=tcp#Blindvpn
+
+vless://c060fdd7-3550-a3ac-348f-57619f8a692a@94.184.26.80:58141?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Blindvpn
+
+vless://3f74f42d-b020-4c3b-89ff-8ec780fb8f12@emg1.saipasamandemg1.sbs:2001?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Blindvpn
 
