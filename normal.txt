@@ -784,55 +784,25 @@ vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIz
 
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#Blindvpn
 
-vless://26524cce-d514-4014-a426-365fb266a14d@45.146.82.107:35292?&security=tls&fp=random&sni=_acme-challenge.443888.xyz&type=ws&headerType=none&host=_acme-challenge.443888.xyz&path=%2Fdanfeng#Blindvpn
-
-vless://6c020ff7-5211-4056-ab86-948211eb850f@de.mobileemdad.top:42542?security=none&encryption=none&host=de.mobileemdad.top&headerType=http&type=tcp#Blindvpn
-
-vless://7443fd1c-d867-71cb-ac5f-736eb09ba2b0@94.184.20.220:58290?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Blindvpn
-
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
-
-vless://70ecfd5e-b439-410e-f1f5-68245522e0b8@85.133.214.37:443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Blindvpn
-
-vless://5635fd67-8c75-de5d-38db-7d55648bd9ba@94.184.5.43:58173?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Blindvpn
-
-vless://4f5def46-1a54-11f1-9053-92000723b4ab@vipde2.persianpinggame.com:9091?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#Blindvpn
 
 vless://9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd@turkey.dehnavy.ir:36135?security=none&encryption=none&host=skyroom.online%2C%20igap.net%2C%20gharar.ir&headerType=http&type=tcp#Blindvpn
 
-vless://50390dae-1bdb-11f1-9350-92000723b4ab@dlc-new9.persianpinggame.com:5109?security=&encryption=none&host=filmnet.ir&headerType=http&type=tcp#Blindvpn
+vless://c57492f6-0c19-4b70-9f12-2e369338410d@78.47.172.250:2052?encryption=none&headerType=http&host=aparat.com&security=none&type=tcp#Blindvpn
 
-vless://714040cd-1bf6-11f1-9350-92000723b4ab@dlc-new8.persianpinggame.com:5108?security=none&allowInsecure=0&encryption=none&type=tcp&host=myket.ir&path=/&headerType=http#Blindvpn
+vless://f885a375-ddf4-4aed-b5af-3b3d6c844093@emergency5380.carpet-carpet-carped.ir:5380?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Blindvpn
 
-vless://17f100d3-4b31-47f9-b8df-94d1a723d43e@140.248.155.104:443?path=%2F&security=tls&encryption=none&host=efixshop.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#Blindvpn
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@66.63.168.172:39738?&security=tls&fp=random&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=%2Fdanfeng#Blindvpn
 
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#Blindvpn
+vless://1155571e-ef00-4bd0-a3db-a5f479b4a3fc@m5.anush.top:19419?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#Blindvpn
 
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#Blindvpn
+vless://76c51bbc-ed16-4e68-8cab-ee196a3ddf2f@102.37.146.15:8080?security=none&encryption=none&host=102.37.146.15&headerType=http&type=tcp#Blindvpn
 
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#Blindvpn
+vless://2689959a-5f96-49a5-92fb-ea5daa427e85@speed.mobilekamali.com:41000?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Blindvpn
 
-vless://761de185-8b90-407c-89ad-6be8d880f6f8@162.159.12.102:8443?allowInsecure=1&encryption=none&host=xrqj.pages.dev&path=%2Ffriends%2Fplayer%2Fanime&security=tls&sni=xrqj.pages.dev&type=ws#Blindvpn
+vmess://eyJ2IjoiMiIsInBzIjoiQmxpbmR2cG4iLCJhZGQiOiJoaWdoc3BlZWR0ZXN0aW5nMDEucHVibGljdm0uY29tIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJhMzAxYzc3Yy1lNTQ5LTQ5NGUtYTFlMi1iMzg2NDEyZjRkMTEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyZWRmYmdyIiwiaG9zdCI6ImhpZ2hzcGVlZHRlc3RpbmcwMS5wdWJsaWN2bS5jb20iLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#Blindvpn
+vless://b083b539-a43a-44d1-a7dd-f90f94b9cfc6@connected5.starpo5.ir:8080?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#Blindvpn
 
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#Blindvpn
-
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#Blindvpn
-
-vless://532a9115-aee7-4d39-9638-1e5146de075b@172.67.215.39:443?allowInsecure=1&encryption=none&host=muddy-math-c1fc.tmpnriqueau89.workers.dev&path=%2Fjs%2FcHlpcC55Z2tray5kcGRucy5vcmc%3D%2F&security=tls&sni=muddy-math-c1fc.tmpnriqueau89.workers.dev&type=ws#Blindvpn
-
-vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?encryption=none&host=leecher56.matinheydri.workers.dev&path=%2F&security=none&type=ws#Blindvpn
-
-vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80?encryption=none&host=long-forest-ac72.salari1382m.workers.dev&security=none&type=ws#Blindvpn
-
-vless://e2fed65e-1ae0-11f1-8359-92000723b4ab@vipde5.persianpinggame.com:9093?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Blindvpn
-
-vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#Blindvpn
-
-vless://ff858da0-9ba5-4b64-9ab7-4c8305920a29@nim.opgermany.shop:49040?type=tcp&security=none&headerType=http&path=/&host=bale.ai,soroushplus.com,web.splus.ir#Blindvpn
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.171.45:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn
-
-vless://88976d6b-2443-45ba-8d62-cbb020eea4a5@185.143.233.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&host=alef.ir.oadeflantrogm.airasiadl.com&fp=randomized&type=ws&sni=alef.ir.oadeflantrogm.airasiadl.com#Blindvpn
+vless://ad7d6b8f-c74d-41b9-9579-6732cb9613f8@emg1.saipasamandemg1.sbs:2001?encryption=none&type=tcp&headerType=http&host=anten.ir&security=none#Blindvpn
 
