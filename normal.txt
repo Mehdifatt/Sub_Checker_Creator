@@ -780,13 +780,21 @@ vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0
 
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIzZjQtZGNmZC00ZmVmLTliYTMtZWYwYWQxMGZjMzM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjY2MTYsInBzIjoiQmxpbmR2cG4iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 
-vless://6f4bb999-4f5b-4ed2-83b3-d0d89077aed2@speed.mobilekamali.com:41000?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Blindvpn
-
 vless://17f100d3-4b31-47f9-b8df-94d1a723d43e@140.248.155.104:443?path=%2F&security=tls&encryption=none&insecure=0&host=efixshop.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Blindvpn
 
 vless://50390dae-1bdb-11f1-9350-92000723b4ab@dlc-new9.persianpinggame.com:5109?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#Blindvpn
 
 vless://d40e96b2-0203-4e62-bffb-cc8f338917dd@L-iq-emergency2-7788yo.j0je.ir:5480?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Blindvpn
 
-vless://29237ae9-56ad-41b6-9156-8909484ee1fd@fin-tun.a1mshop2.xyz:12000?encryption=none&type=tcp&headerType=http&host=aparat.com&security=none#Blindvpn
+vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#Blindvpn
+
+vless://f9a84da7-102f-4066-8593-095c4a4af003@102.37.157.78:6013?path=/&security=none&encryption=none&host=soft98.ir&type=ws#Blindvpn
+
+vless://af841f76-1d41-4d1d-9752-f5351bbd5e38@ezterar.popol.cfd:8443?path=%2F&security=none&encryption=none&type=ws#Blindvpn
+
+vless://ae72f958-c1f6-4fc2-a310-1f007af3d11f@172.67.191.42:80?encryption=none&host=2wsde.12i.ccwu.cc&path=%2FC6VXG81UQc4XWS6Csfk0uFDF&security=none&type=ws#Blindvpn
+
+vless://9e308743-bc58-4109-b8a8-c2c686959c65@172.67.158.133:80?encryption=none&host=ddvfgt.0ob.ccwu.cc&path=%2FI4W63AAjPkpe1D3pAvPtZpEoeO&security=none&type=ws#Blindvpn
+
+vless://ae72f958-c1f6-4fc2-a310-1f007af3d11f@bnju8y7.12i.ccwu.cc:80?encryption=none&host=bnju8y7.12i.ccwu.cc&path=%2FC6VXG81UQc4XWS6Csfk0uFDF&security=none&type=ws#Blindvpn
 
