@@ -2,7 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://35b71a84-5ea5-4498-8733-0bab71803700@159.203.165.63:42503?encryption=none&path=%2F35b71a84&security=none&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://9e308743-bc58-4109-b8a8-c2c686959c65@104.21.14.86:80?encryption=none&host=ddvfgt.0ob.ccwu.cc&path=%2FI4W63AAjPkpe1D3pAvPtZpEoeO&security=none&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://ae72f958-c1f6-4fc2-a310-1f007af3d11f@172.67.191.42:80?encryption=none&host=dcvbnju8.12i.ccwu.cc&path=%2FC6VXG81UQc4XWS6Csfk0uFDF&security=none&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://ae72f958-c1f6-4fc2-a310-1f007af3d11f@104.21.65.159:80?encryption=none&host=2wsde.12i.ccwu.cc&path=%2FC6VXG81UQc4XWS6Csfk0uFDF&security=none&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:443?path=%2F&security=none&encryption=none&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
