@@ -2,8 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#Blindvpn%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206MGY4NjA0NDAtMTQ3OC00OGU1LWJiZDMtZDkyOWQwM2M5MmQ3@38.244.209.215:443#Blindvpn%3A%3A%E2%9D%93
 vless://d4de1f64-bf3c-4d97-9663-0091f8c07359@62.60.237.240:443?encryption=none&fp=chrome&pbk=RravQN06gzsNsm5ojEhZGrxBgLGEpqEThtHEltdjpBk&security=reality&sid=b3d76d&sni=logggg.nammknammknammknammknammkb2.ir&type=tcp#Blindvpn%3A%3A%E2%9D%93
-vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@188.114.98.0:80?path=%2Fed%3D2560&security=none&encryption=none&host=turbooserver-roeg-fastly.flinkywoo.com&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://bb4c2af2-c8b5-4688-bf60-50de46587f12@188.114.98.0:443?path=%2Fhome&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=83.archIve-anDroid.sitE&fp=chrome&type=ws&allowInsecure=0&sni=83.archIve-anDroid.sitE#Blindvpn%3A%3A%E2%9D%93
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?allowInsecure=1&encryption=none&host=a1d.maxriser.ir&path=%2F&security=tls&sni=a1d.maxriser.ir&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@139.84.235.99:20205?&security=tls&fp=random&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=%2Fdanfeng#Blindvpn%3A%3A%E2%9D%93
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@94.183.185.28:2053?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&insecure=0&host=zgtwylnhh.cc.cd&type=ws&allowInsecure=0&sni=zgtwylnhh.cc.cd#Blindvpn%3A%3A%E2%9D%93
