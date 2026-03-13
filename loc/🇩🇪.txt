@@ -2,6 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=a1d.maxriser.ir&path=/&sni=a1d.maxriser.ir&fp=chrome#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@116.203.233.255:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://1e97f262-296c-45cf-afc0-6ed86f768013@57.129.119.115:443?type=ws&encryption=none&path=/&host=&security=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://75e13bcc-139b-4fe7-8525-548c8cfca08d@144.76.188.130:443?type=ws&encryption=none&path=/&host=&security=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://4e6b23f2-932b-4a80-a280-44cdf8a86452@144.76.188.139:443?type=ws&encryption=none&path=/&host=&security=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://a4b53348-294d-43be-8549-93055291de3f@46.225.61.97:8080?encryption=none&host=v.iampedi7.live&path=%2Fws&security=none&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.120.121:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
