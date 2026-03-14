@@ -2,8 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#Blindvpn%3A%3A%E2%9D%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#Blindvpn%3A%3A%E2%9D%93
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@65.109.200.234:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F#Blindvpn%3A%3A%E2%9D%93
-vless://d4de1f64-bf3c-4d97-9663-0091f8c07359@62.60.237.240:443?encryption=none&fp=chrome&pbk=RravQN06gzsNsm5ojEhZGrxBgLGEpqEThtHEltdjpBk&security=reality&sid=b3d76d&sni=logggg.nammknammknammknammknammkb2.ir&type=tcp#Blindvpn%3A%3A%E2%9D%93
-vless://305419ed-4ef5-3e5a-8d48-b803c58853d3@chatgpt.com:443?alpn=h3%2Ch2&encryption=none&host=s6.oboob.cn&path=%2Fdb10248afdcb0daf&security=tls&sni=s6.oboob.cn&type=ws#Blindvpn%3A%3A%E2%9D%93
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#Blindvpn%3A%3A%E2%9D%93

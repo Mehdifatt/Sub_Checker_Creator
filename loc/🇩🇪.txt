@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.57.221.181:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://fd79f20d-ca75-4008-bac1-1be3482b300d@46.225.61.97:2082?type=ws&encryption=none&path=%2Fws&host=v.iampedi7.live&security=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
