@@ -2,4 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#Blindvpn%3A%3A%E2%9D%93
+vless://d4de1f64-bf3c-4d97-9663-0091f8c07359@62.60.237.240:443?encryption=none&fp=chrome&pbk=RravQN06gzsNsm5ojEhZGrxBgLGEpqEThtHEltdjpBk&security=reality&sid=b3d76d&sni=logggg.nammknammknammknammknammkb2.ir&type=tcp#Blindvpn%3A%3A%E2%9D%93
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&fp=chrome&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&host=ca.adobe-connect.top&path=%2F#Blindvpn%3A%3A%E2%9D%93
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=nl4.maxriser.ir&fp=chrome&type=ws&allowInsecure=1&sni=nl4.maxriser.ir#Blindvpn%3A%3A%E2%9D%93
+vless://ffc1bcfa-4846-4bee-be26-5d7464f91e3d@chatgpt.com:443?type=ws&security=tls&encryption=none&fp=chrome&sni=WiTheReD-hAll-2564.AliREZAIsAmAzing.wOrKERS.deV&path=/eyJqdW5rIjoiSE9KRGd1NHFzQ2Y0Y08iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&host=withered-hall-2564.alirezaisamazing.workers.dev#Blindvpn%3A%3A%E2%9D%93
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#Blindvpn%3A%3A%E2%9D%93
+vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@188.114.98.0:80?path=/ed=2560&security=none&encryption=none&host=turbooserver-roeg-fastly.flinkywoo.com&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@s1.eldoradu.ir:2053?path=/&security=tls&encryption=none&insecure=1&host=fz3.sellink.ir&fp=chrome&type=ws&allowInsecure=1&sni=fz3.sellink.ir#Blindvpn%3A%3A%E2%9D%93
+vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@s2.eldoradu.ir:2053?path=/&security=tls&encryption=none&insecure=1&host=dxg5.sellink.ir&fp=chrome&type=ws&allowInsecure=1&sni=dxg5.sellink.ir#Blindvpn%3A%3A%E2%9D%93
