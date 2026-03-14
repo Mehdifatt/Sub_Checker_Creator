@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@65.108.210.153:2058?&security=tls&fp=random&sni=snippet.fgfw.cc.cd&type=ws&headerType=none&host=snippet.fgfw.cc.cd&path=%2Fdanfeng#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
