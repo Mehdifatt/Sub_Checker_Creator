@@ -2,6 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@mfa.gov.ua:2096?allowInsecure=1&host=cm22-bgphhh.pages.dev&sni=cm22-bgphhh.pages.dev&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?allowInsecure=1&host=cm22-bgphhh.pages.dev&sni=cm22-bgphhh.pages.dev&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://9e308743-bc58-4109-b8a8-c2c686959c65@dvbghyu.2xv.ccwu.cc:80?fp=chrome&host=dvbghyu.2xv.ccwu.cc&path=%2FI4W63AAjPkpe1D3pAvPtZpEoeO&sni=dvbghyu.2xv.ccwu.cc&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://36639485-60a0-4853-856c-40ac05f4b00d@123.dnscloudcloud.top:443?security=tls&sni=null.us1234567891.xyz&insecure=0&allowInsecure=0&type=ws&path=/music#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@188.114.96.3:80?encryption=none&host=nu9.0g0.ccwu.cc&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&security=none&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.129.96:80?encryption=none&host=c6y.0c0.ccwu.cc&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&security=none&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@188.114.97.3:80?encryption=none&host=b8ki.0g0.ccwu.cc&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&security=none&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.164.139:80?encryption=none&host=nj89.0f0.ccwu.cc&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&security=none&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://60c4d55d-bee3-4719-9568-aabf45153f9f@104.21.1.22:80?encryption=none&host=y670.0h0.ccwu.cc&path=%2FgPvZ4oCcNDyuc3szX7xhuvpEm&security=none&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://9e308743-bc58-4109-b8a8-c2c686959c65@fvbghyu.2xv.ccwu.cc:80?encryption=none&host=fvbghyu.2xv.ccwu.cc&path=%2FI4W63AAjPkpe1D3pAvPtZpEoeO&security=none&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
