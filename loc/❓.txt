@@ -2,12 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://5a54a377-a9d3-4ea5-b7b0-17bd899e202d@pq-India1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?allowInsecure=1&encryption=none&fp=chrome&host=a1d.maxriser.ir&path=%2F&security=tls&sni=a1d.maxriser.ir&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?encryption=none&security=none&type=grpc#Blindvpn%3A%3A%E2%9D%93
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh18v7.viripdirect.shop:8880?encryption=none&security=none&type=grpc#Blindvpn%3A%3A%E2%9D%93
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#Blindvpn%3A%3A%E2%9D%93
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#Blindvpn%3A%3A%E2%9D%93
+vless://d4de1f64-bf3c-4d97-9663-0091f8c07359@62.60.237.240:443?type=tcp&security=reality&sni=logggg.nammknammknammknammknammkb2.ir&fp=chrome&pbk=RravQN06gzsNsm5ojEhZGrxBgLGEpqEThtHEltdjpBk&sid=b3d76d#Blindvpn%3A%3A%E2%9D%93
 vless://13531cf1-4eb2-4662-a6f7-b34eddc42f03@91.244.70.205:443?security=none&type=ws&headerType=&path=/&host=#Blindvpn%3A%3A%E2%9D%93
-vless://13ad36e6-c091-43f2-8505-47d868dd544c@104.21.76.174:80?encryption=none&host=ghj.ae1autumn.cc.cd&path=%2FXR8So0uqFVa3vY9ZbxgW4&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://b4f6c83f-9b67-424f-9a5a-1bd9ba6fc270@f2.hamrahconf.ir:8443?allowInsecure=1&encryption=none&host=app-core-02.secoxi.site&path=%2F&security=tls&sni=uiuyoyw.secoxi.site&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@188.114.98.0:80?encryption=none&host=turbooserver-roeg-fastly.flinkywoo.com&path=%2Fed%3D2560&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
