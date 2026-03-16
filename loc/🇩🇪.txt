@@ -2,8 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://00000000-0000-4000-8000-000000000000@45.145.42.170:8005?&security=tls&fp=chrome&sni=sub.mot.ip-ddns.com&type=ws&headerType=none&host=sub.mot.ip-ddns.com&path=%2F#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://1e97f262-296c-45cf-afc0-6ed86f768013@57.129.119.115:443?encryption=none&path=/&security=none&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.240.134:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://4e6b23f2-932b-4a80-a280-44cdf8a86452@144.76.188.139:443?encryption=none&path=%2F&security=none&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vmess://eyJhZGQiOiJ6ZHFiay5jbXZ2Yi5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InpkcWJrLmNtdnZiLm9ubGluZSIsImlkIjoiZWY0NmI3NGMtYjNlZi00NjMzLTk4MTgtMGFmNjIyNmM0MDYwIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4NDQzIiwicHMiOiJCbGluZHZwbjo68J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiemRxYmsuY212dmIub25saW5lIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
