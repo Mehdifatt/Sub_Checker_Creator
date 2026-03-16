@@ -4,5 +4,9 @@
 
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#Blindvpn%3A%3A%E2%9D%93
 vless://56d46499-c05d-4f8b-b073-63cbcd95d293@77.42.67.4:47141?encryption=none&fp=chrome&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&security=reality&sid=f4fa9f410d7134ea&sni=www.cloudflare.com&type=tcp#Blindvpn%3A%3A%E2%9D%93
+vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.24.144:443?allowInsecure=1&alpn=h3&encryption=none&host=m1.mwu.de5.net&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=m1.mwu.de5.net&type=ws#Blindvpn%3A%3A%E2%9D%93
 vless://d4de1f64-bf3c-4d97-9663-0091f8c07359@62.60.237.240:443?encryption=none&fp=chrome&pbk=RravQN06gzsNsm5ojEhZGrxBgLGEpqEThtHEltdjpBk&security=reality&sid=b3d76d&sni=logggg.nammknammknammknammknammkb2.ir&type=tcp#Blindvpn%3A%3A%E2%9D%93
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@172.66.44.211:2087?allowInsecure=1&encryption=none&host=a1d.maxriser.ir&path=%2F&security=tls&sni=a1d.maxriser.ir&type=ws#Blindvpn%3A%3A%E2%9D%93
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@77.110.119.35:2053?type=ws&security=tls&encryption=none&sni=zgtwylnhh.cc.cd&path=🇨🇳&host=zgtwylnhh.cc.cd#Blindvpn%3A%3A%E2%9D%93
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@107.174.204.129:443?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=chrome#Blindvpn%3A%3A%E2%9D%93
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F%3FTELEGRAM-%3Fed%3D512&security=tls&encryption=none&alpn=http/1.1&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#Blindvpn%3A%3A%E2%9D%93
