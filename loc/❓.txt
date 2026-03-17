@@ -2,7 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#Blindvpn%3A%3A%E2%9D%93
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%E2%9D%93
-vless://56d46499-c05d-4f8b-b073-63cbcd95d293@77.42.67.4:47141?encryption=none&fp=chrome&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&security=reality&sid=f4fa9f410d7134ea&sni=www.cloudflare.com&type=tcp#Blindvpn%3A%3A%E2%9D%93
-vless://d4de1f64-bf3c-4d97-9663-0091f8c07359@62.60.237.240:443?encryption=none&fp=chrome&pbk=RravQN06gzsNsm5ojEhZGrxBgLGEpqEThtHEltdjpBk&security=reality&sid=b3d76d&sni=logggg.nammknammknammknammknammkb2.ir&type=tcp#Blindvpn%3A%3A%E2%9D%93
+vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=365c07ed#Blindvpn%3A%3A%E2%9D%93
+vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@146.103.102.82:80?encryption=none&path=%2FgetWorkerUpdates&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@172.64.147.24:2087?allowInsecure=1&encryption=none&host=a1d.maxriser.ir&path=%2F&security=tls&sni=a1d.maxriser.ir&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@vip2.kaixincloud.top:2087?allowInsecure=1&encryption=none&host=a1d.maxriser.ir&path=%2F&security=tls&sni=a1d.maxriser.ir&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://ee248e40-9468-4ef6-81b7-707a1e47c54a@192.200.160.20:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=639073677243557970.camry-perma.info&path=%2Fyaeungws&security=tls&sni=639073677243557970.camry-perma.info&type=ws#Blindvpn%3A%3A%E2%9D%93
