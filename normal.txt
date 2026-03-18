@@ -756,12 +756,6 @@ vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0
 
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIzZjQtZGNmZC00ZmVmLTliYTMtZWYwYWQxMGZjMzM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjY2MTYsInBzIjoiQmxpbmR2cG4iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 
-vless://d40e96b2-0203-4e62-bffb-cc8f338917dd@L-iq-emergency2-7788yo.j0je.ir:5480?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Blindvpn
-
-vless://17f100d3-4b31-47f9-b8df-94d1a723d43e@140.248.155.104:443?path=%2F&security=tls&encryption=none&insecure=0&host=efixshop.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Blindvpn
-
-vless://682f13ec-421f-4a71-b116-60c45d6dc1ed@trailers.sv1.cdn.yoozmovie.com:16771?type=tcp&headerType=http&host=google.com&path=/&security=none#Blindvpn
-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.0.245:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#Blindvpn
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.221.95:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn
@@ -805,4 +799,12 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@188.114.98.0:443?alpn=h2%2Chttp%2F1
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@chatgpt.com:2096?alpn=h2%2Chttp%2F1.1&encryption=none&host=neww1.workers.dev&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=tls&sni=miti.neww1.workers.dev&type=ws#Blindvpn
 
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@poe.com:2053?alpn=h2%2Chttp%2F1.1&encryption=none&host=neww1.workers.dev&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=tls&sni=miti.neww1.workers.dev&type=ws#Blindvpn
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.82.109:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn
+
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@76.223.33.155:443?&security=tls&fp=random&alpn=http/1.1&sni=chinam.sylu.net&type=ws&headerType=none&host=chinam.sylu.net&path=%2Fdanfeng#Blindvpn
+
+vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#Blindvpn
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.3.38:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn
 
