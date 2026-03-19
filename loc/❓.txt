@@ -4,5 +4,4 @@
 
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=365c07ed#Blindvpn%3A%3A%E2%9D%93
 vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@188.114.98.0:80?encryption=none&host=turbooserver-roeg-fastly.flinkywoo.com&path=%2Fed%3D2560&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://c8495c2c-9e10-4f24-90d8-c8c4a3e8bf9f@162.159.152.4:443?allowInsecure=1&encryption=none&host=020.electrocellco-cf-020.workers.dev&path=%2FeyJqdW5rIjoicnUxOEdKZ3dDeDYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=020.eleCtrOcellCo-cf-020.WORKeRS.dEV&type=ws#Blindvpn%3A%3A%E2%9D%93
-vmess://eyJ2IjoiMiIsInBzIjoiQmxpbmR2cG46OuKdkyIsImFkZCI6InBsYW5iLm1vamNuLmNvbSIsInBvcnQiOiIxNjYxOCIsInR5cGUiOiJub25lIiwiaWQiOiI0MjM1NWJlMi1hZjYxLTRiM2ItODY2Yy1kM2M1ZWE4NzQ4YzUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJmZWJjZTFkMjlhOGE0YzY4ZTAxNmUwYmVjODNmYTI0NS5tb2Jnc2xiLnRiY2FjaGUuY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
