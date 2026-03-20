@@ -2,5 +2,13 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@162.159.36.5:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@172.64.152.23:2053?allowInsecure=1&encryption=none&host=fz3.sellink.ir&path=%2F&security=tls&sni=fz3.sellink.ir&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%E2%9D%93
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@162.159.36.20:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.68:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.17.25.173:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.16.250.22:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.18.185.26:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.163:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.66.44.211:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.154.211:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.27:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
