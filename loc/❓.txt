@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=365c07ed#Blindvpn%3A%3A%E2%9D%93
-vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@188.114.98.0:80?encryption=none&host=turbooserver-roeg-fastly.flinkywoo.com&path=%2Fed%3D2560&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#Blindvpn%3A%3A%E2%9D%93
