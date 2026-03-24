@@ -2,23 +2,21 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%E2%9D%93
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?security=reality&sni=dl.google.com&allowInsecure=1&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%BF
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%E2%9D%93
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%E2%9D%93
 vless://18f2f9bc-c55b-40c4-a762-0394b2e11fcf@185.216.71.18:5443?encryption=none&fp=chrome&pbk=MNtVuRK9ydQoPjI2vMSkZMUpwAEjH5qq3hr9kTt2CHk&security=reality&sid=3ef8cdbc&sni=eh.vk.com&type=grpc#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://576993a0-3b23-4c65-8c6d-2165b098826b@85.192.48.132:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn6.dramatorg.net&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://2ba7f500-017b-4891-87a0-e4e62a4ad52d@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=9409f73c2fd7#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://576993a0-3b23-4c65-8c6d-2165b098826b@85.192.48.132:443?type=tcp&encryption=none&flow=&security=tls&sni=ficdn6.dramatorg.net&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://576993a0-3b23-4c65-8c6d-2165b098826b@85.192.48.132:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn6.dramatorg.net&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://5952ea01-0669-4f5e-8010-61f8abee3600@fi.grizzlyvpn.work:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=c3W9GpyDD3dKT_KPBn6X2eH4nvTX016JqmGRSGFrSF8&security=reality&sid=1644d7de8a2d71bd&sni=fi.grizzlyvpn.work&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://576993a0-3b23-4c65-8c6d-2165b098826b@85.192.48.132:443?type=tcp&encryption=none&flow=&security=tls&sni=ficdn6.dramatorg.net&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@45.66.163.194:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sni=5post-gate.x5.ru&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://d895b002-32b9-4b4c-a5f8-3de9eab1c9ef@node-de1.melonpanel.ir:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Z6QEOugutnMCkDshhYng_x283HVcTcV8nrr4zDxghhI&security=reality&sid=b0dcc7de8e60bdb2&sni=yahoo.com&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.102.254.79:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e4824193-4f54-453b-d037-88368e85ef0e@188.114.98.0:443?encryption=none&security=tls&sni=pqh30v3.carwashipdir.shop&alpn=h2&insecure=1&allowInsecure=1&type=grpc#Blindvpn%3A%3A%E2%9D%93
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.3:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://5d950f22-a120-42c3-86f8-8ee81bfa08c9@vpn.nnet.online:443?allowInsecure=1&encryption=none&host=nnet.online&path=%2Fvless-tls&security=tls&sni=VPN.NNET.Online&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@104.21.224.5:2053?allowInsecure=1&encryption=none&host=fz3.sellink.ir&path=%2F&security=tls&sni=fz3.sellink.ir&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://a487adab-0644-4f80-9643-d3036b9f17c6@95.85.251.124:500?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&security=reality&sid=425ba80cd1a821a8&sni=unpkg.com&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://5d950f22-a120-42c3-86f8-8ee81bfa08c9@vpn.nnet.online:443?allowInsecure=1&encryption=none&host=nnet.online&path=%2Fvless-tls&security=tls&sni=VPN.NNET.Online&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.3:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@104.21.224.5:2053?allowInsecure=1&encryption=none&host=fz3.sellink.ir&path=%2F&security=tls&sni=fz3.sellink.ir&type=ws#Blindvpn%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.137.34:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.33:8880?encryption=none&security=none&type=grpc#Blindvpn%3A%3A%E2%9D%93
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.18.32.47:8443?allowInsecure=1&encryption=none&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@chatgpt.com:8443?allowInsecure=1&encryption=none&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.33:8880?encryption=none&security=none&type=grpc#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@chatgpt.com:8443?allowInsecure=1&encryption=none&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.18.32.47:8443?allowInsecure=1&encryption=none&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
