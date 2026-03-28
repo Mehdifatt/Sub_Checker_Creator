@@ -638,11 +638,9 @@ hy2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1
 
 ss://18f2f9bc-c55b-40c4-a762-0394b2e11fcf@185.216.71.18:5443?encryption=none&fp=chrome&pbk=MNtVuRK9ydQoPjI2vMSkZMUpwAEjH5qq3hr9kTt2CHk&security=reality&sid=3ef8cdbc&sni=eh.vk.com&type=grpc#Blindvpn
 
-ss://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&host=%2F%3FBIA_CHANEL%40JOKERRVPN&headerType=none&fp=random&spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&type=tcp&sni=www.speedtest.net&sid=cbfe#Blindvpn
-
 ss://3b40a0be-995a-4b8a-b927-136facd20896@65.21.7.155:2082?security=none&type=tcp&headerType=&path=&host=myket.ir#Blindvpn
 
-ss://40fb2d29-374c-4255-ae56-bf3ad95b8b37@144.31.239.139:25340?encryption=none&fp=chrome&pbk=fmLlp7Vg3qzskePTLeNWmgppe3TPYlHb_yqBzRxaxUE&security=reality&sid=4830d187&sni=www.sony.com&type=tcp#Blindvpn
+ss://5952ea01-0669-4f5e-8010-61f8abee3600@138.124.75.6:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=c3W9GpyDD3dKT_KPBn6X2eH4nvTX016JqmGRSGFrSF8&security=reality&sid=1644d7de8a2d71bd&sni=fi.grizzlyvpn.work&type=tcp#Blindvpn
 
 ss://5952ea01-0669-4f5e-8010-61f8abee3600@185.79.138.118:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rPuuq2HGz8VfN9xjDjnjoi-HgTFi-ZvY5l8Ebktuqmc&security=reality&sid=7501ae7ef79c300d&sni=fi2.grizzlyvpn.work&type=tcp#Blindvpn
 
@@ -682,11 +680,9 @@ trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#Blindvpn
 
 vless://18f2f9bc-c55b-40c4-a762-0394b2e11fcf@185.216.71.18:5443?encryption=none&fp=chrome&pbk=MNtVuRK9ydQoPjI2vMSkZMUpwAEjH5qq3hr9kTt2CHk&security=reality&sid=3ef8cdbc&sni=eh.vk.com&type=grpc#Blindvpn
 
-vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&host=%2F%3FBIA_CHANEL%40JOKERRVPN&headerType=none&fp=random&spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&type=tcp&sni=www.speedtest.net&sid=cbfe#Blindvpn
-
 vless://3b40a0be-995a-4b8a-b927-136facd20896@65.21.7.155:2082?security=none&type=tcp&headerType=&path=&host=myket.ir#Blindvpn
 
-vless://40fb2d29-374c-4255-ae56-bf3ad95b8b37@144.31.239.139:25340?encryption=none&fp=chrome&pbk=fmLlp7Vg3qzskePTLeNWmgppe3TPYlHb_yqBzRxaxUE&security=reality&sid=4830d187&sni=www.sony.com&type=tcp#Blindvpn
+vless://5952ea01-0669-4f5e-8010-61f8abee3600@138.124.75.6:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=c3W9GpyDD3dKT_KPBn6X2eH4nvTX016JqmGRSGFrSF8&security=reality&sid=1644d7de8a2d71bd&sni=fi.grizzlyvpn.work&type=tcp#Blindvpn
 
 vless://5952ea01-0669-4f5e-8010-61f8abee3600@185.79.138.118:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rPuuq2HGz8VfN9xjDjnjoi-HgTFi-ZvY5l8Ebktuqmc&security=reality&sid=7501ae7ef79c300d&sni=fi2.grizzlyvpn.work&type=tcp#Blindvpn
 
