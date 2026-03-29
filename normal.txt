@@ -706,15 +706,15 @@ vmess://eyJhZGQiOiIzMS41Ni4yMjcuNTkiLCJhaWQiOjAsImhvc3QiOiJqYXBhbi43MzE4MDguZXUu
 
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIzZjQtZGNmZC00ZmVmLTliYTMtZWYwYWQxMGZjMzM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjY2MTYsInBzIjoiQmxpbmR2cG4iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 
-vless://22c17038-412c-4043-8d08-74e6afb1f862@star.1conf.top:3389?encryption=none&security=none&type=tcp&headerType=http#Blindvpn
+vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@vip-79.f-sub.cfd:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#Blindvpn
 
-vless://cc83d674-a2fb-45c9-8dad-b5a2088319bd@edvard.mh.mygoldiran.com:10?encryption=none&security=none&type=ws&host=varzesh3.com&path=%2Fwp-content%2Fuploads%2Fuser%2F#Blindvpn
+vless://31bdae38-ab95-499a-8105-2fe7c45a8240@hub1.wiziii.xyz:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#Blindvpn
 
-vless://d751aced-bfa7-4bab-9154-98195dbb2674@next.avenprime.ir:80?encryption=none&security=none&type=ws&path=%2F%3Fed%3D2048#Blindvpn
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521660379297.copenhagen-prx-dnraacr.info:8880?mode=gun&security=&encryption=none&type=grpc#Blindvpn
 
-vless://84e65d85-cd6b-48c8-ad80-255b3dea4a9d@ir.sjdpictures.ir:19305?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.ir#Blindvpn
+vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560%20PuLaFreeBOT%20PuLaVPN%20PuLaVPN%20PuLaVPN&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#Blindvpn
 
-vless://3ee98d7e-2fe8-4627-b19d-c3dc1dad7cc0@snapp.ir:80?encryption=none&security=none&type=ws&host=dl.avenflow.ir&path=%2F#Blindvpn
+vless://9cc01fb1-032d-47da-8ff9-79213adb9db9@outhell.snappfoodi.ir:80?security=none&type=ws&headerType=&path=%2Fapi%2Fv2&host=outhell.snappfoodi.ir#Blindvpn
 
-vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880?path=%2F&security=none&encryption=none&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&type=ws#Blindvpn
+vless://9cc01fb1-032d-47da-8ff9-79213adb9db9@outhell.snappfoodi.ir:443?security=tls&type=ws&headerType=&path=%2Fapi%2Fv2&host=outhell.snappfoodi.ir&sni=outhell.snappfoodi.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#Blindvpn
 
