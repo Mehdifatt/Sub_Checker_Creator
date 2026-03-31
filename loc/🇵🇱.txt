@@ -1,0 +1,6 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://c8d65a3a-5002-4dff-bfd6-d4b9ef90b9cc@pol-x1.plugvpn.ru:443?encryption=none&security=none&serviceName=pol-x1.plugvpn.ru&type=grpc#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://3b034275-27f8-437d-9ac0-5982708ae143@192.200.160.20:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=639073677243249982.camry-perma.info&path=%2Fferhbiws&security=tls&sni=639073677243249982.camry-perma.info&type=ws#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
