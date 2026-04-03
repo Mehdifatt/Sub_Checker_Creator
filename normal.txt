@@ -652,8 +652,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFNkdialczSVo0V29rdno0VllMajRv@38.244.137.202:45380#Blindvpn
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRVoyYmZGYlZpQzl1c04xV0I0eHF2eXpFdVVoUEEydXVVWVptaktBV1RRYzNtRXJoQ2FWSG1aYmJXZ1ZHOW9pMVZIaHoxMktQMmdBV0M4TFpKNGltV2h5cEFEOVBHM3U@185.5.38.111:55988#Blindvpn
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaTUNWM0VDcGJ5ODVWNndQOU5NZmtt@93.152.207.248:34242#Blindvpn
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#Blindvpn
@@ -669,6 +667,8 @@ ss://c4f2dee2-14e3-4c02-91e9-31c7917e239c@185.93.105.107:443?allowInsecure=1&alp
 ss://c4f2dee2-14e3-4c02-91e9-31c7917e239c@185.93.105.118:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#Blindvpn
 
 ss://fc172006-f509-40b4-b248-c0fcf23fbc9a@nodafin.stockvpn.online:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&security=reality&sid=ad7dab462a323acb&sni=max.ru&type=tcp#Blindvpn
+
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?allowInsecure=1&sni=ya.ru#Blindvpn
 
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#Blindvpn
 
@@ -698,17 +698,15 @@ vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0
 
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIzZjQtZGNmZC00ZmVmLTliYTMtZWYwYWQxMGZjMzM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjY2MTYsInBzIjoiQmxpbmR2cG4iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 
-vless://72675b54-4288-4fd3-80e0-56f28c9feb6d@im2.newdesigne.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#Blindvpn
+vless://f8a75466-f1f2-4d1a-8b92-2506705b877b@193.151.134.247:8080?type=ws&encryption=none&path=%2F&host=&security=none#Blindvpn
 
-vless://b678614e-2bd6-4cf4-875b-b12f4c48a823@ww.boldtest.ir:8880?type=ws&path=/&security=none#Blindvpn
+vless://5a547d36-11c5-4397-ac23-c815885b8cd2@193.151.134.247:8080?type=ws&encryption=none&path=%2F&host=&security=none#Blindvpn
 
-vless://d061c520-1cdb-11f1-972f-92000723b4ab@dlc-new11.persianpinggame.com:5111?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Blindvpn
+vless://5c2aa8fc-abb9-471f-b192-4811d800185b@193.151.134.247:8080?type=ws&encryption=none&path=%2F&host=&security=none#Blindvpn
 
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#Blindvpn
+vless://1213bd56-b87a-47bd-ac4d-7e645a69c4f7@claude.avannetx.sbs:57156?type=ws&encryption=none&path=%2F&host=&security=none#Blindvpn
 
-vless://453246bc-9717-4b8d-8e95-775655849658@185.143.233.5:80?path=%2Fapi%2Fv2&security=none&encryption=none&host=t.afaghqi.ir&type=ws#Blindvpn
+vless://51B6BC82-6536-2BE9-F7BE-04EE658036A6@ancient-haze-d203.vpnetwork3567.workers.dev:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ancient-haze-d203.vpnetwork3567.workers.dev&type=ws&allowInsecure=0&sni=ancient-haze-d203.vpnetwork3567.workers.dev#Blindvpn
 
-vless://5385edec-681b-4bf7-975b-b3a091cebd14@185.143.233.5:80?path=%2Fapi%2Fv2&security=none&encryption=none&host=t.afaghqi.ir&type=ws#Blindvpn
-
-vless://b30db338-2e08-4daf-af29-9ea8660a6709@Mahdi.netvip1.ru:2082?type=ws&encryption=none&path=%2F&host=&security=none#Blindvpn
+vless://80a4cead-eef6-41b7-bfdb-cad1564fbcc8@jll.az99x.info:8880?path=%2F&security=none&encryption=none&type=ws#Blindvpn
 
