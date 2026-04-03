@@ -698,7 +698,17 @@ vmess://eyJhZGQiOiI2NS4yMS4yNDAuMTA4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0
 
 vmess://eyJhZGQiOiIzNy4xNDMuMTI5LjIzOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDU5ZDIzZjQtZGNmZC00ZmVmLTliYTMtZWYwYWQxMGZjMzM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjY2MTYsInBzIjoiQmxpbmR2cG4iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 
-vless://63e08bb4-4865-4f63-bcf3-c72b303d33a4@185.143.234.235:80?type=ws&host=vix.idcenter.top#Blindvpn
+vless://72675b54-4288-4fd3-80e0-56f28c9feb6d@im2.newdesigne.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#Blindvpn
 
-vless://c7bca8ba-0d89-4e01-91a2-b81a266acac5@athena.fdping.com:443?security=none&encryption=none&host=%40persian_asasins&headerType=http&type=tcp#Blindvpn
+vless://b678614e-2bd6-4cf4-875b-b12f4c48a823@ww.boldtest.ir:8880?type=ws&path=/&security=none#Blindvpn
+
+vless://d061c520-1cdb-11f1-972f-92000723b4ab@dlc-new11.persianpinggame.com:5111?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Blindvpn
+
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#Blindvpn
+
+vless://453246bc-9717-4b8d-8e95-775655849658@185.143.233.5:80?path=%2Fapi%2Fv2&security=none&encryption=none&host=t.afaghqi.ir&type=ws#Blindvpn
+
+vless://5385edec-681b-4bf7-975b-b3a091cebd14@185.143.233.5:80?path=%2Fapi%2Fv2&security=none&encryption=none&host=t.afaghqi.ir&type=ws#Blindvpn
+
+vless://b30db338-2e08-4daf-af29-9ea8660a6709@Mahdi.netvip1.ru:2082?type=ws&encryption=none&path=%2F&host=&security=none#Blindvpn
 
