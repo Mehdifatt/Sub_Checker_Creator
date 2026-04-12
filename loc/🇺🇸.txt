@@ -2,4 +2,16 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@104.21.75.235:443?allowInsecure=1&encryption=none&host=ancient-heart-60c5.dpccgizieb.workers.dev&path=%2FeyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.27:8443?allowInsecure=1&encryption=none&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.198:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed&security=tls&sni=sni.111000.indevs.in&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://656bb400-3b7a-47e3-94b0-0362f3865072@172.64.153.235:8443?allowInsecure=1&encryption=none&host=socks5.revil-time3.workers.dev&security=tls&sni=socks5.revil-time3.workers.dev&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.18:2096?allowInsecure=1&encryption=none&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@164.38.155.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.200:2053?allowInsecure=1&encryption=none&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.105:2087?allowInsecure=1&encryption=none&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.218:2083?allowInsecure=1&encryption=none&host=aier.eu.cc&security=tls&sni=aier.eu.cc&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.219:2053?allowInsecure=1&encryption=none&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.169:2087?allowInsecure=1&encryption=none&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.182:2083?allowInsecure=1&encryption=none&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.189:2053?allowInsecure=1&encryption=none&host=aier.eu.cc&security=tls&sni=aier.eu.cc&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8

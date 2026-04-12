@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#Blindvpn%3A%3A%E2%9D%93
+vless://fcfb8d41-5e52-4604-8279-3c9357241cd8@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#Blindvpn%3A%3A%E2%9D%93
