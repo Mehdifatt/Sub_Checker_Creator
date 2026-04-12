@@ -4,3 +4,4 @@
 
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?security=reality&sni=dl.google.com&allowInsecure=1&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&packetEncoding=xudp&encryption=none#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%BF
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.193.49.88:989#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%BF
+vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@104.18.12.149:8443?path=%2F&security=tls&encryption=none&insecure=0&host=kingman.turboo-server.com.co&type=ws&allowInsecure=0&sni=kingman.turboo-server.com.co#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%BF
