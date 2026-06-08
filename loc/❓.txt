@@ -2,16 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815/?type=ws&encryption=none&flow=#Blindvpn%3A%3A%E2%9D%93
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?mode=gun&security=&encryption=none&type=grpc#Blindvpn%3A%3A%E2%9D%93
-vless://935bdfb3-7bf9-48c1-adcb-2f6fbfeca896@216.24.57.1:443?encryption=none&type=ws&security=tls&path=%2Fmy-mbv&sni=help.viu.com.ex33r.eu.cc&allowInsecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8#Blindvpn%3A%3A%E2%9D%93
-vless://974c2588-c1cd-43ac-8823-ce3d879b09fd@216.24.57.1:443?encryption=none&type=ws&security=tls&path=%2Fid-amz&sni=somersby.pt.ex33r.eu.cc&allowInsecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8#Blindvpn%3A%3A%E2%9D%93
-vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?encryption=none&type=tcp&headerType=none#Blindvpn%3A%3A%E2%9D%93
-vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%E2%9D%93
-vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#Blindvpn%3A%3A%E2%9D%93
-vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&encryption=none&headerType=none&type=tcp&note=#Blindvpn%3A%3A%E2%9D%93
-vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&encryption=none&host=@v2rayNplus@v2rayNplus@v2rayNplus&headerType=none&type=tcp#Blindvpn%3A%3A%E2%9D%93
-vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%E2%9D%93
+vless://935bdfb3-7bf9-48c1-adcb-2f6fbfeca896@216.24.57.1:443?path=%2Fmy-mbv&security=tls&encryption=none&insecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=help.viu.com.ex33r.eu.cc#Blindvpn%3A%3A%E2%9D%93
 vless://935bdfb3-7bf9-48c1-adcb-2f6fbfeca896@216.24.57.1:443?encryption=none&type=ws&security=tls&path=/my-mbv&sni=help.viu.com.ex33r.eu.cc&allowInsecure=0&ech=54.mk+udp://8.8.8.8#Blindvpn%3A%3A%E2%9D%93
 vless://974c2588-c1cd-43ac-8823-ce3d879b09fd@216.24.57.1:443?encryption=none&type=ws&security=tls&path=/id-amz&sni=somersby.pt.ex33r.eu.cc&allowInsecure=0&ech=54.mk+udp://8.8.8.8#Blindvpn%3A%3A%E2%9D%93
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#Blindvpn%3A%3A%E2%9D%93
+vless://974c2588-c1cd-43ac-8823-ce3d879b09fd@216.24.57.1:443?path=/id-amz&security=tls&encryption=none&insecure=0&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=somersby.pt.ex33r.eu.cc#Blindvpn%3A%3A%E2%9D%93
