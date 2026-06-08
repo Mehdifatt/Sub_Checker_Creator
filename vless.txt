@@ -2,14 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@77.110.115.192:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad&brand=@Arvand_soul#Blindvpn%3A%3A%E2%9D%93
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?encryption=none&security=none&type=ws&headerType=none&path=%2F#Blindvpn%3A%3A%E2%9D%93
+vless://935bdfb3-7bf9-48c1-adcb-2f6fbfeca896@216.24.57.1:443?encryption=none&type=ws&security=tls&path=%2Fmy-mbv&sni=help.viu.com.ex33r.eu.cc&allowInsecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8#Blindvpn%3A%3A%E2%9D%93
+vless://974c2588-c1cd-43ac-8823-ce3d879b09fd@216.24.57.1:443?encryption=none&type=ws&security=tls&path=%2Fid-amz&sni=somersby.pt.ex33r.eu.cc&allowInsecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8#Blindvpn%3A%3A%E2%9D%93
+vless://935bdfb3-7bf9-48c1-adcb-2f6fbfeca896@216.24.57.1:443?encryption=none&type=ws&security=tls&path=/my-mbv&sni=help.viu.com.ex33r.eu.cc&allowInsecure=0#Blindvpn%3A%3A%E2%9D%93
 vless://935bdfb3-7bf9-48c1-adcb-2f6fbfeca896@216.24.57.1:443?encryption=none&type=ws&security=tls&path=/my-mbv&sni=help.viu.com.ex33r.eu.cc&allowInsecure=0&ech=54.mk+udp://8.8.8.8#Blindvpn%3A%3A%E2%9D%93
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.21:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com&brand=@Arvand_soul#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?encryption=none&fp=chrome&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?encryption=none&type=ws&security=tls&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@66.81.247.155:443?encryption=none&fp=chrome&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.11:443?encryption=none&fp=chrome&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@66.81.247.155:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@66.81.247.155:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.21:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://974c2588-c1cd-43ac-8823-ce3d879b09fd@216.24.57.1:443?encryption=none&type=ws&security=tls&path=/id-amz&sni=somersby.pt.ex33r.eu.cc&allowInsecure=0&ech=54.mk+udp://8.8.8.8#Blindvpn%3A%3A%E2%9D%93
+vless://974c2588-c1cd-43ac-8823-ce3d879b09fd@216.24.57.1:443?path=/id-amz&security=tls&encryption=none&insecure=0&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=somersby.pt.ex33r.eu.cc#Blindvpn%3A%3A%E2%9D%93
