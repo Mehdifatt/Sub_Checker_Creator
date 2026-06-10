@@ -2,4 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://e2110c20-a6da-4fa4-9607-23a588e30e6f@185.143.235.200:2052?path=%2Fmeh&security=none&encryption=none&host=meh.fasterspeed.ir&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&host=greattehran.hozheen.ir&type=ws&sni=07e357aa7e747ca4.hOzHeEn.Ir#Blindvpn%3A%3A%E2%9D%93
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@newyorkcity.instasup.ir:1005?security=reality&encryption=none&pbk=aEyXUqZ4doy7Qse745h5IKGo31Jc2YEK3QOVaOuPPns&headerType=none&fp=firefox&allowinsecure=1&type=tcp&sni=yahoo.com&sid=4f2087146c1f587a#Blindvpn%3A%3A%E2%9D%93
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#Blindvpn%3A%3A%E2%9D%93
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@162.159.240.155:2096?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&allowInsecure=0&encryption=none&type=ws&host=greattehran.hozheen.ir&path=/ws?ed=2560&sni=f53d749fda28cb85.hozheen.ir&fp=chrome#Blindvpn%3A%3A%E2%9D%93
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.11:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#Blindvpn%3A%3A%E2%9D%93
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.11:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn%3A%3A%E2%9D%93
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?encryption=none&security=tls&sni=octopusss4.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=octopusss4.com&path=/tsghdws#Blindvpn%3A%3A%E2%9D%93
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?path=/tsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#Blindvpn%3A%3A%E2%9D%93
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.11:443?encryption=none&type=ws&security=tls&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&allowInsecure=0&brand=@Arvand_soul#Blindvpn%3A%3A%E2%9D%93
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@66.81.247.155:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn%3A%3A%E2%9D%93
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn%3A%3A%E2%9D%93
