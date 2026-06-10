@@ -2,4 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%E2%9D%93
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:41943?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=az.01.naiun.bilibili.com#Blindvpn%3A%3A%E2%9D%93
+vless://17186ef5-7a33-4d80-bece-9feb3743532d@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#Blindvpn%3A%3A%E2%9D%93
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.171:8443?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#Blindvpn%3A%3A%E2%9D%93
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?encryption=none&security=tls&sni=octopusss4.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=octopusss4.com&path=/tsghdws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?path=/tsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@66.81.247.155:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
