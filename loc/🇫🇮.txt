@@ -2,20 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.8:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=%2Ftsghdws&security=tls&encryption=none&host=octopusss4.com&type=ws&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.210:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=1&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.11:443?encryption=none&security=tls&sni=octopusss4.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=octopusss4.com&path=/tsghdws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.21:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&type=ws&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.21:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?encryption=none&security=tls&sni=octopusss4.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=octopusss4.com&path=/tsghdws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?path=/tsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@199.181.197.3:443?encryption=none&type=ws&security=tls&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.1:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@66.81.247.155:443?allowInsecure=1&encryption=none&fp=chrome&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@66.81.247.155:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443/?type=ws&encryption=none&flow=&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.21:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
