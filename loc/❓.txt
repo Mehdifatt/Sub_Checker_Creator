@@ -2,10 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#Blindvpn%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.254.187:12000#Blindvpn%3A%3A%E2%9D%93
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?encryption=none&type=ws&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&host=tr-cd.sublink-vip2.com#Blindvpn%3A%3A%E2%9D%93
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Blindvpn%3A%3A%E2%9D%93
 vless://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.5:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=picassooo.info#Blindvpn%3A%3A%E2%9D%93
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.109.223:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://9c10d8b0-e1fb-48d5-af5d-03ad736f37bb@188.114.97.6:2086?path=%2FeyJqdW5rIjoiMENyWGlPUjVmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODcuMTIwLjE2Ni4xNCJdfQ&security=none&encryption=none&host=snowy-fire-7369.mmdiborobav.workers.dev&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&brand=@Arvand_soul#Blindvpn%3A%3A%E2%9D%93
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.198.50:8880?security=none&allowInsecure=0&encryption=none&type=ws&host=vms.lifetime39.workers.dev&path=/#Blindvpn%3A%3A%E2%9D%93
+vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=picassooo.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=picassooo.info&path=/aymdlws#Blindvpn%3A%3A%E2%9D%93
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&sni=max-gb1.global.ssl.fastly.net#Blindvpn%3A%3A%E2%9D%93
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?allowInsecure=1&encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#Blindvpn%3A%3A%E2%9D%93
