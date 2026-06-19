@@ -2,19 +2,24 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan3.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Blindvpn%3A%3A%E2%9D%93
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&type=tcp&sni=cdn3-87.vk-cdnvideo.com#Blindvpn%3A%3A%E2%9D%93
-vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@199.232.78.159:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=ws&host=pan3.global.ssl.fastly.net&path=/#Blindvpn%3A%3A%E2%9D%93
-vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?encryption=none&type=ws&security=tls&path=/&host=pan3.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0#Blindvpn%3A%3A%E2%9D%93
-vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&host=pan3.global.ssl.fastly.net&allowinsecure=0&type=ws&sni=default.ssl.fastly.net#Blindvpn%3A%3A%E2%9D%93
-vless://9a1ca418-134f-4750-b97a-55ea81135742@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Blindvpn%3A%3A%E2%9D%93
-vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Blindvpn%3A%3A%E2%9D%93
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:80?path=/?ed=3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:80?path=/?ed=3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@gerardo.ns.cloudflare.com:80?path=/?ed=3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?path=/?ed=3000&security=tls&encryption=none&host=pon.antalmani.mm.am&fp=chrome&type=ws&sni=pon.antalmani.mm.am#Blindvpn%3A%3A%E2%9D%93
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@gerardo.ns.cloudflare.com:80?path=/?ed=3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?path=/?ed=3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=chrome&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#Blindvpn%3A%3A%E2%9D%93
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?path=/?ed=3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?path=/?ed=3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.37:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.53:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@188.114.97.6:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&host=pon.antalmani.mm.am&fp=firefox&type=ws&sni=pon.antalmani.mm.am#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@199.181.197.176:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&host=pon.antalmani.mm.am&fp=firefox&type=ws&sni=pon.antalmani.mm.am#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@199.181.197.176:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=firefox&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@172.64.34.119:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=firefox&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=firefox&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&host=pon.antalmani.mm.am&fp=firefox&type=ws&sni=pon.antalmani.mm.am#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@skk.moe:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=firefox&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@188.114.97.6:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=firefox&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@www.calmloud.com:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=firefox&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@www.calmloud.com:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&host=pon.antalmani.mm.am&fp=firefox&type=ws&sni=pon.antalmani.mm.am#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@www.calmloud.com:443?path=/?ed=3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=firefox&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/&security=tls&encryption=none&insecure=0&host=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev#Blindvpn%3A%3A%E2%9D%93
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.195.30:8880?encryption=none&type=ws&host=vms.lifetime38.workers.dev#Blindvpn%3A%3A%E2%9D%93
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.120.94.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime07.workers.dev&path=/&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.76.38.18:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=d82fb387#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:443?path=/?ed=3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=chrome&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?path=/?ed=3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=chrome&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?path=/?ed=3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@199.181.197.176:443?path=/?ed=3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=chrome&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
