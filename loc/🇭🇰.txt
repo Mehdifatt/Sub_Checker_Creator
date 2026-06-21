@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com#Blindvpn%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vless://e6082798-61ab-4167-9653-67883f5f0166@23.141.52.196:51700?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=cJ0oDse0aPBi7c4UCxQgMP1UNoBPZ2NDB8aL_17G0HQ&sid=d18340&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%AD%F0%9F%87%B0
