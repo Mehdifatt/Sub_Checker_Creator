@@ -2,9 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://MITIVPN@151.101.69.219:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-77.global.ssl.fastly.net&sni=speedtest.net&alpn=h2&fp=chrome&insecure=1&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://3d8b5191-7ff5-4fac-ac6e-1d6bedefff4e@sub.ashii.ir:8080?path=/fK0IrRsJlxCFK0xGQ7&security=&alpn=http/1.1&encryption=none&host=sub.ashii.ir&fp=chrome&type=httpupgrade&sni=sub.ashii.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@www.speedtest.net:2053?path=%2FeyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19&security=tls&alpn=http%2F1.1&encryption=none&host=bpb-expo--10rayly4zy.expo.app&type=ws&sni=BpB-expO--10RaYly4zY.EXPO.App#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://6aa91885-dc17-4d70-a58b-ccc29dd71b04@186.246.19.138:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=mimJ_uInBYERt8TayjrHu5Kmq4b1ko39G6WD72SUkGw&sid=75cf&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@154.197.64.127:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=tel-bobbyv2.alvlirm2023.workers.dev&path=/proxyip=147.90.26.66,31.56.48.183,51.91.248.253,104.252.30.243,51.91.248.99,51.91.249.22,51.91.251.37,173.212.218.109&security=tls&sni=tel-bobbyv2.alvlirm2023.workers.dev&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
