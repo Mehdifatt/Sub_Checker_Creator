@@ -2,9 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.11:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.14:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.162:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.171:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://a500be68-4ff6-433b-9968-472be69fab14@finland01.azotvpn.xyz:443?security=reality&encryption=none&pbk=DbDMO81H0vjk1yfrluu2-AWPn4gpDHnUxt3jq-M4zlE&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=finland01.azotvpn.xyz&sid=56d03777813654b1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://a500be68-4ff6-433b-9968-472be69fab14@finland01.azotvpn.xyz:443?security=reality&encryption=none&pbk=DbDMO81H0vjk1yfrluu2-AWPn4gpDHnUxt3jq-M4zlE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=finland01.azotvpn.xyz&sid=56d03777813654b1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=enterprisekitten.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE

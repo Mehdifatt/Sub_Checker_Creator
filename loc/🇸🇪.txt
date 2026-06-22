@@ -2,4 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.15:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.196:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://6b853c66-a9be-48f7-9f1c-c3d951b3d3bc@files.2365855155.ir:19473?security=reality&encryption=none&pbk=WZ5cQb6x0YUtCp3zujoSExI8v5zlOiLRH_YeJnGjiGw&headerType=none&fp=chrome&spx=%2FKZ5zf7XlnRnqUNy&type=tcp&sni=www.yahoo.com&sid=5974222a47655ae0#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AA
