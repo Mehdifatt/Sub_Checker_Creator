@@ -2,12 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://26a380f1-0338-4085-bd61-de944e99304f@37.49.224.93:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dev.max.ru&fp=safari&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&sid=c338fe2b01cf271a&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://2989973f-817d-4eaf-b9d3-3be2505fa2ab@37.49.224.32:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dev.max.ru&fp=safari&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&sid=c338fe2b01cf271a&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://572979b2-a664-4916-a5d8-d1c8a10c0de4@37.49.224.32:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dev.max.ru&fp=safari&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&sid=c338fe2b01cf271a&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://a5f3e5f5-ffa4-43dd-84b6-20aedd1a843e@37.49.224.32:443?security=reality&encryption=none&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dev.max.ru&sid=c338fe2b01cf271a#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=%2F&security=tls&encryption=none&insecure=1&host=newip.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://f77bcbf0-76ac-462f-b789-22f99838bcd9@d2.cvbesty.ir:39980?mode=gun&security=reality&encryption=none&pbk=rvASQZqW6BWYuVuV_wfzoaTz3kPXRB1i6VJlUYUwZB4&type=grpc&sni=play.google.com&sid=3e64c3#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://28e9aff5-e64f-648b-7476-8a81bb73b93b@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/28e9aff5-e64f-648b-7476-8a81bb73b93b#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?encryption=none&type=ws&security=tls&path=/&host=newip.global.ssl.fastly.neT.&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://d27a232b-de94-4204-9bae-b0c243c6b93c@fast.cd-tur4.ir:443?encryption=none&type=ws&security=tls&path=/&host=newip.global.ssl.fastly.neT.&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
