@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.16.75.218:8443?path=%2Fapi%2Fv1&security=tls&encryption=none&insecure=0&host=splash.ariyuz.org&fp=chrome&type=ws&allowInsecure=0&sni=splash.ariyuz.org#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://539dccf8-7ad6-4787-bb6c-c416b896ecaf@104.16.72.70:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=ssl.myblog.org.tr&fp=chrome&type=ws&allowInsecure=0&sni=ssl.myblog.org.tr#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vmess://eyJ2IjoiMiIsInBzIjoiQmxpbmR2cG46OvCfh6zwn4enIiwiYWRkIjoiNjkuODQuMTgyLjQ5IiwicG9ydCI6IjgwIiwiaWQiOiJmODk3NTg3MS1hN2EwLTQ5MDYtODgzNS1hMjNjMTI1OGNhMWUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uenVsYS51cGxhb2QtbXVzaWMuaXIuIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0
+vless://5982d32f-f2e4-4267-a8ad-48492e65344c@95.133.242.210:443?security=reality&encryption=none&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=filesconvert.org&sid=10debbdf94767541#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443?security=reality&encryption=none&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cars.morro-settings.ru&sid=dd#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.22:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
