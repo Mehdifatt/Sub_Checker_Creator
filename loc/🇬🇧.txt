@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://5982d32f-f2e4-4267-a8ad-48492e65344c@46.33.8.18:443?security=reality&encryption=none&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=filesconvert.org&sid=f3c5f072749dcc9c#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://5982d32f-f2e4-4267-a8ad-48492e65344c@95.133.242.210:443?security=reality&encryption=none&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=filesconvert.org&sid=10debbdf94767541#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@uk-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@82.40.23.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
