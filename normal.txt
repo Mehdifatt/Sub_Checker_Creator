@@ -326,7 +326,11 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.24.151:80?path=/&security=n
 
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.27.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳#Blindvpn
 
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.27.151:80?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Blindvpn
+
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.33.151:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Blindvpn
+
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.57.151:80?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Blindvpn
 
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.70.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#Blindvpn
 
@@ -368,6 +372,12 @@ vless://08c063d4-17d8-4d44-8f1c-6a1e782d3a1e@167.82.101.213:443?mode=auto&path=/
 
 vless://08c063d4-17d8-4d44-8f1c-6a1e782d3a1e@31.76.32.114:108?encryption=none&security=none&type=tcp&headerType=http&host=JouRNaloFbIgdATA.SpRinGeropEn.coM#Blindvpn
 
+vless://08c063d4-17d8-4d44-8f1c-6a1e782d3a1e@31.76.32.114:108?encryption=none&type=tcp&headerType=http&host=JouRNaloFbIgdATA.SpRinGeropEn.coM#Blindvpn
+
+vless://08cfad1f-bb82-4bac-8d1d-bbe664c9c6a3@euro.cloud-play.ir:80?encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=connectingissues.pl&mode=packet-up&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#Blindvpn
+
+vless://08cfad1f-bb82-4bac-8d1d-bbe664c9c6a3@global.cloud-play.ir:80?encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=connectingissues.pl&mode=packet-up&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#Blindvpn
+
 vless://0aec6598-7fb5-44e6-bff7-a4d550117830@104.234.135.88:443?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&type=xhttp#Blindvpn
 
 vless://0b009a0d-07c8-4aef-8c00-09fff590af7e@141.193.213.10:2087?path=/&security=tls&encryption=none&insecure=0&host=nova-mango-spark-9651.nova-3b222e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-spark-9651.nova-3b222e.workers.dev#Blindvpn
@@ -380,7 +390,7 @@ vless://0baa6b92-3287-45a4-bee0-df9a0fe7ea66@140.248.187.74:80?encryption=none&s
 
 vless://0eb6b808-3594-4165-a1cd-4aaa14036032@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&host=shirin-kose.de&type=xhttp#Blindvpn
 
-vless://140d13d4-3507-4f36-93ef-5913b24ec8fe@8.35.211.56:2087?encryption=none&security=tls&sni=dl-pack.motionbetter.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=dl-pack.motionbetter.ir&path=/#Blindvpn
+vless://10a6b923-e349-4594-92bb-d81a6245aaec@198.202.211.1:443?path=/download.php&security=tls&alpn=http/1.1,h2&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#Blindvpn
 
 vless://143b1fe8-f21f-452b-9738-3eed89d63451@news.microsoft.com:443?encryption=none&security=tls&sni=de1.gamelistak.com&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=de1.gamelistak.com&path=/@MrNexTV2RAY&mode=auto&extra={"xPaddingBytes":"100-1000"}#Blindvpn
 
@@ -389,8 +399,6 @@ vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality
 vless://15637aaa-26d0-42e0-870f-5c12fabdc71c@3.81.73.166:33460?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
 
 vless://159101fb-aa1d-9052-0f89-ba14cb8aee5f@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/159101fb-aa1d-9052-0f89-ba14cb8aee5f#Blindvpn
-
-vless://17540a16-a0dd-5694-7e1e-14e281ccc032@66.81.247.155:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#Blindvpn
 
 vless://17d21ae6-4fb9-cc7d-757a-b11fb2ecc622@66.33.23.33:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/17d21ae6-4fb9-cc7d-757a-b11fb2ecc622#Blindvpn
 
@@ -406,39 +414,19 @@ vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@fast.cd-tur4.ir:443?path=/&security
 
 vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Blindvpn
 
-vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.50:2053?path=/&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#Blindvpn
-
-vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.50:2083?path=/&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#Blindvpn
-
-vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.50:2087?path=/&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#Blindvpn
-
-vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.50:2096?path=/&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#Blindvpn
-
-vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.50:443?path=/&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#Blindvpn
-
-vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.50:8443?path=/&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#Blindvpn
-
-vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.60:2053?path=/&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#Blindvpn
-
-vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.60:2083?path=/&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#Blindvpn
-
-vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.80:8443?path=/&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#Blindvpn
-
-vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.90:2053?path=/&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#Blindvpn
-
-vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.90:443?path=/&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#Blindvpn
-
 vless://24e39f73-ce06-4052-b631-7efd2589f2ba@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#Blindvpn
+
+vless://26befa45-6189-4724-ab71-b96d92fd1e77@151.101.69.219:443?encryption=none&type=xhttp&mode=auto&host=nlqeshm.global.ssl.fastly.net&path=/GaMeOpTiMiZeR?ed=2048&security=tls&fp=chrome&sni=global.fastly.com&alpn=h2,http/1.1#Blindvpn
 
 vless://26ca9191-5a90-40e5-9f03-c9181bcefb21@152.53.39.148:443?security=reality&encryption=none&pbk=zutw7YSzrZYrurfGmnWBKUNBJf72WW892RNZKwX9ozQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=usatruenetcup.grani.site&sid=8d1c7e3a5f0b9264#Blindvpn
 
 vless://289591d4-bfab-4092-85db-b97772b109de@140.248.187.74:80?encryption=none&security=none&type=ws&host=rb24.ir&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048#Blindvpn
 
+vless://289591d4-bfab-4092-85db-b97772b109de@140.248.187.74:80?encryption=none&security=none&type=ws&host=rb24.ir&path=ws/?ed=2048/@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1@VPNine1/?2048#Blindvpn
+
 vless://28e9aff5-e64f-648b-7476-8a81bb73b93b@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/28e9aff5-e64f-648b-7476-8a81bb73b93b#Blindvpn
 
 vless://2c9af5d8-8e1c-40e7-8b6b-c200fc5488e8@199.232.78.159:80?type=xhttp&encryption=none&path=/xhttp&host=kabotar.global.ssl.fastly.net&mode=auto&x_padding_bytes=0&extra={"xPaddingBytes":"0"}&security=none#Blindvpn
-
-vless://2dacceea-8664-4fed-ba16-27fdd3b40f3e@s7.meoshop.ir:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=baba.meoshop.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=baba.meoshop.ir#Blindvpn
 
 vless://2e6d8e31-7261-4d5e-812d-eaffedeeec21@thomas.proxy.rlwy.net:31164?security=reality&encryption=none&pbk=IT31PglBQpZdChah8ON53r7i-CzrylRjf41LY7-xHz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0123456789abcdef#Blindvpn
 
@@ -462,8 +450,6 @@ vless://36284b89-03c0-4ec4-9ed9-e20e19d136cf@66.33.23.120:443?mode=auto&path=/ap
 
 vless://36a41d68-7ee1-4eac-80de-76848f5879da@s2.meoshop.ir:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=server.meoshop.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=server.meoshop.ir#Blindvpn
 
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@brenna.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#Blindvpn
-
 vless://3f61815a-1c63-456a-ad05-655374dfd7c8@199.232.78.159:443?path=//?ed=2560/JOIN%2Proxy_Se7en&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Blindvpn
 
 vless://3f61815a-1c63-456a-ad05-655374dfd7c8@199.232.78.159:443?path=//?ed=2560/JOIN/AV2rayBOT/JOIN/AV2rayBOT/JOIN/AV2rayBOT/JOIN/AV2rayBOT/JOIN/AV2rayBOT&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Blindvpn
@@ -473,8 +459,6 @@ vless://3f61815a-1c63-456a-ad05-655374dfd7c8@199.232.78.159:443?security=tls&enc
 vless://3f7aeb33-4501-48f8-8946-3ee9b88c3f69@198.169.2.65:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=idk.subgift.xyz&path=/subgift&mode=auto&extra={"xPaddingBytes":"100-1000"}#Blindvpn
 
 vless://40bf0425-e1b5-41a0-aad8-b482d2aee498@fastly.videobazi.com:443?encryption=none&type=xhttp&security=tls&path=/&host=Fastspeedmar.global.ssl.fastly.net&mode=auto&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0#Blindvpn
-
-vless://40bf0425-e1b5-41a0-aad8-b482d2aee498@fastly.videobazi.com:80?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=dutschh.global.ssl.fastly.net&type=xhttp#Blindvpn
 
 vless://43d3e610-5f6e-455a-bdf1-afb2de919731@news.microsoft.com:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=nl3.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=nl3.gamelistak.com&type=xhttp&x_padding_bytes=100-1000#Blindvpn
 
@@ -516,6 +500,8 @@ vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&se
 
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#Blindvpn
 
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net@freenettir ⁴#Blindvpn
+
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@news.microsoft.com:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&fp=chrome&type=ws&allowInsecure=0&sni=amoosamiii.net#Blindvpn
 
 vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=pan3.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Blindvpn
@@ -534,37 +520,19 @@ vless://52b06c93-5a5e-487a-9e1a-b48f3d6f3768@irani.datammr.ir:8081?path=/&securi
 
 vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?path=/&security=tls&encryption=none&host=alesis724.global.ssl.fastly.net&type=ws&sni=speedtest.net#Blindvpn
 
-vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@188.114.99.160:8443?path=/uploader.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#Blindvpn
-
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@192.200.160.252:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=/api/v1/stream#Blindvpn
-
 vless://5b8b759a-4c9d-4c4d-a3e3-220bb727eb6c@news.microsoft.com:443?encryption=none&security=tls&sni=nl2.gamelistak.com&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=nl2.gamelistak.com&path=/@MrNexTV2RAY&mode=auto&extra={"xPaddingBytes":"100-1000"}#Blindvpn
-
-vless://5b8b759a-4c9d-4c4d-a3e3-220bb727eb6c@www.paypal.com:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=nl2.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#Blindvpn
 
 vless://5d86d067-f0b3-4950-aef7-c27e3c99e52a@151.101.110.219:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=wolfi.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#Blindvpn
 
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@38.107.233.130:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#Blindvpn
-
-vless://5de6c5e2-de2e-4656-96aa-102985752504@193.41.68.88:443?security=reality&encryption=none&pbk=QlmCWBb-07hi-9vK-nijuItqUKeCIrSZId0thD0XblA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=nl1.xenovpn.top&sid=e83af9adc175838a#Blindvpn
-
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=bastona.aroonsid.ir#Blindvpn
 
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=buligh.aroonsid.ir#Blindvpn
-
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=latvia.aroonsid.ir#Blindvpn
-
-vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@151.101.69.223:443?path=/&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=sp…</div>#Blindvpn
 
 vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=/&security=tls&encryption=none&host=apiv2.global.ssl.fastly.net&type=ws&sni=speedtest.net#Blindvpn
 
 vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=/&security=tls&encryption=none&insecure=1&host=apiv2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#Blindvpn
 
-vless://61a8c373-453a-45bb-8b8c-03529de2cebb@141.193.213.10:2087?path=/&security=tls&encryption=none&insecure=0&host=nova-pearl-core-8aa5.nova-90ad65.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-pearl-core-8aa5.nova-90ad65.workers.dev#Blindvpn
-
 vless://61d90061-8762-4c25-84e6-8f5c5e00f393@192.166.82.190:14112?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
-
-vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@euro.cloud-play.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#Blindvpn
 
 vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@global.cloud-play.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#Blindvpn
 
@@ -574,19 +542,11 @@ vless://66c587c5-a871-4df4-81ad-23f0f8a9032c@141.193.213.10:2087?path=/&security
 
 vless://68457a88-7651-4890-95e8-c63cca4cf1dd@thomas.proxy.rlwy.net:15552?security=reality&encryption=none&pbk=euQw725355Plg1A34wOfXrcsdGcnfZXUgxiIT0Shlyg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=78730e4a#Blindvpn
 
-vless://6994e71a-fe44-4cf5-8694-caa5ef0abb60@euro.cloud-play.ir:80?encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=connectingissues.pl&mode=packet-up&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#Blindvpn
-
-vless://6994e71a-fe44-4cf5-8694-caa5ef0abb60@euro.cloud-play.ir:80?encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=xenoengineer.com&mode=packet-up&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#Blindvpn
-
 vless://6994e71a-fe44-4cf5-8694-caa5ef0abb60@euro.cloud-play.ir:80?mode=packet-up&path=/&security=none&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#Blindvpn
 
 vless://6994e71a-fe44-4cf5-8694-caa5ef0abb60@global.cloud-play.ir:80?encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=connectingissues.pl&mode=packet-up&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#Blindvpn
 
 vless://6994e71a-fe44-4cf5-8694-caa5ef0abb60@global.cloud-play.ir:80?encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=xenoengineer.com&mode=packet-up&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#Blindvpn
-
-vless://6994e71a-fe44-4cf5-8694-caa5ef0abb60@global.cloud-play.ir:80?encryption=none&type=xhttp&path=/&host=xenoengineer.com&mode=packet-up&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}#Blindvpn
-
-vless://6994e71a-fe44-4cf5-8694-caa5ef0abb60@global.cloud-play.ir:80?mode=packet-up&path=/&security=none&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#Blindvpn
 
 vless://6e0a18d3-2598-4a73-9a41-1030b165e447@inkie.mmrknight.app:80?path=/&security=none&encryption=none&host=play.google.com&type=httpupgrade#Blindvpn
 
@@ -598,13 +558,7 @@ vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?security=reality&
 
 vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?type=tcp&security=reality&encryption=none&sni=yahoo.com&fp=chrome&alpn=http/1.1&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&sid=5a55&headerType=none&allowInsecure=1#Blindvpn
 
-vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@140.248.185.253:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=nesfzzeshab.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#Blindvpn
-
-vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@151.101.56.6:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=wwwfgggffffii.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#Blindvpn
-
 vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@167.82.101.126:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=swwwwfgggffffii.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#Blindvpn
-
-vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@www.ar.plus.mashtinet.shop:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=qoajw111jjsksjksj.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#Blindvpn
 
 vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@www.ar.plus.mashtinet.shop:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=wwwfffffii.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#Blindvpn
 
@@ -620,15 +574,11 @@ vless://7402e534-54dc-34cc-ac5b-c85ac6e236fd@198.12.124.74:443?encryption=none&f
 
 vless://7691de10-83e2-44fd-a2fa-0f31aad8efef@216.227.161.153:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&sid=cd8971da5a669139&type=tcp&headerType=none#Blindvpn
 
-vless://7691de10-83e2-44fd-a2fa-0f31aad8efef@216.227.161.153:443?security=reality&encryption=none&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=cd8971da5a669139#Blindvpn
-
 vless://797de269-0ead-4289-97a3-3695188143d2@45.39.33.97:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Blindvpn
 
 vless://7b71f980-4e40-40a3-8994-41836ad4c3f4@167.82.101.210:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=1&host=hormiz5.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=global.fastly.com#Blindvpn
 
 vless://7bd180e8-1142-4387-93f5-03e8d750a896@5.78.26.104:443?path=/7bd180e8&security=tls&encryption=none&insecure=0&host=python-graysongon.wasmer.app&type=ws&allowInsecure=0&sni=python-graysongon.wasmer.app#Blindvpn
-
-vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@nextcloud.c-coo.store:443?security=reality&encryption=none&pbk=OOo-agzuOug2EM-rLJMrgH2pkuVahVWEdXSFMl3z_EE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nextcloud.c-coo.store#Blindvpn
 
 vless://7d6e2364-4673-16c6-fd58-44ba179f75fc@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/7d6e2364-4673-16c6-fd58-44ba179f75fc#Blindvpn
 
@@ -654,8 +604,6 @@ vless://8440c9e5-3a24-49cd-8fdd-f140dcb1b8c7@37.1.212.241:5262?security=none&enc
 
 vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:15482?encryption=none&security=none&type=tcp&headerType=http&path=/#Blindvpn
 
-vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:45012?path=/&security=none&encryption=none&type=httpupgrade#Blindvpn
-
 vless://8d335ef1-d18c-4c84-ac41-ca61a1338f15@140.248.187.74:80?encryption=none&security=none&type=ws&host=rb24.ir&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048#Blindvpn
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#Blindvpn
@@ -668,6 +616,8 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&se
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#Blindvpn
 
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#Blindvpn
+
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
@@ -675,8 +625,6 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.myfymain.com:8880?mode=gun&se
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=&encryption=none&authority=v2rayNplus-v2rayNplus-v2rayNplus&type=grpc#Blindvpn
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#Blindvpn
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#Blindvpn
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus-v2rayNplus-v2rayNplus&type=grpc#Blindvpn
 
@@ -716,11 +664,11 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&se
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#Blindvpn
 
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#Blindvpn
+
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?security=&encryption=none&type=grpc#Blindvpn
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca23.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca24.myfymain.com:8880?security=&encryption=none&type=grpc#Blindvpn
 
@@ -736,25 +684,15 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca28.myfymain.com:8880?mode=gun&se
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca29.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#Blindvpn
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#Blindvpn
-
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#Blindvpn
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#Blindvpn
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Blindvpn
-
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#Blindvpn
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?security=&encryption=none&type=grpc#Blindvpn
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880?mode=gun&security=&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#Blindvpn
 
@@ -762,11 +700,9 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880?mode=gun&se
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?mode=gun&security=&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#Blindvpn
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#Blindvpn
-
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?encryption=none&security=none&type=grpc#Blindvpn
 
@@ -794,43 +730,21 @@ vless://903123fd-84fd-45d9-abc8-08c83d704224@global.cloud-play.ir:80?encryption=
 
 vless://903123fd-84fd-45d9-abc8-08c83d704224@global.cloud-play.ir:80?mode=packet-up&path=/?@MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&host=connectingissues.pl&type=xhttp#Blindvpn
 
-vless://90426bbb-6b39-45c1-9a89-8f3ae37cbf86@178.83.45.142:80?security=reality&encryption=none&pbk=nm_XWU_p2aKwh8sIJ5eeAgELgdg0Lw2zJ2ct3DaBdk0&headerType=none&fp=chrome&spx=/WdwAgFieO9mWG3h&type=tcp&flow=xtls-rprx-vision&sni=mail.yahoo.com&sid=61a5#Blindvpn
-
-vless://90426bbb-6b39-45c1-9a89-8f3ae37cbf86@178.83.45.142:80?security=reality&encryption=none&pbk=nm_XWU_p2aKwh8sIJ5eeAgELgdg0Lw2zJ2ct3DaBdk0&headerType=none&fp=chrome&spx=/nUQg4TFBQbmh5GV&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4f751ef7ca2688#Blindvpn
-
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@railway-production-b185.up.railway.app:443?encryption=none&security=tls&sni=railway-production-b185.up.railway.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=railway-production-b185.up.railway.app&path=/ws#Blindvpn
-
-vless://90cd4a77-141a-43c9-991b-08263cfe9c10@railway-production-b185.up.railway.app:443?path=/ws&security=tls&encryption=none&insecure=0&host=railway-production-b185.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=railway-production-b185.up.railway.app#Blindvpn
-
-vless://91679c30-bc1f-35e4-2cb2-ff0358e3d823@tmesubgift.up.railway.app:443?path=/ws/91679c30-bc1f-35e4-2cb2-ff0358e3d823&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tmesubgift.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=tmesubgift.up.railway.app#Blindvpn
 
 vless://94@tmesubgift.onrender.com:443?encryption=none&security=tls&sni=tmesubgift.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.onrender.com&path=/ws/94#Blindvpn
 
 vless://95613b74-6387-4e73-94f3-d599feed93a3@66.33.23.33:443?path=/ws&security=tls&encryption=none&insecure=0&host=zodproxy.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=zodproxy.qzz.io#Blindvpn
 
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@168.100.6.42:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&alpn=h3,h2&fp=chrome&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=/#Blindvpn
-
 vless://9866995e-7225-4919-8de8-19a3f941c4d4@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@custom_config?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#Blindvpn
 
-vless://9a1ca418-134f-4750-b97a-55ea81135742@140.248.185.253:443?path=/&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Blindvpn
-
-vless://9a1ca418-134f-4750-b97a-55ea81135742@140.248.185.253:443?path=/?TELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr?ed=512&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#Blindvpn
-
-vless://9a1ca418-134f-4750-b97a-55ea81135742@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Blindvpn
-
-vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#Blindvpn
-
 vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Blindvpn
-
-vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Blindvpn
 
 vless://9c5ea2a8-150f-45b6-886c-be0d9e90f5d3@151.101.35.82:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=Maryshuponlinr.global.ssl.fastly.net&type=xhttp#Blindvpn
 
 vless://9c5ea2a8-150f-45b6-886c-be0d9e90f5d3@f2.iranphlox.ir:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=xhttp&host=Fastspeedmar.global.ssl.fastly.net&path=/&mode=auto#Blindvpn
 
 vless://AlfredConfig@159.246.55.251:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Blindvpn
-
-vless://AlfredConfig@199.181.197.176:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Blindvpn
 
 vless://AlfredConfig@199.232.237.245:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#Blindvpn
 
@@ -841,8 +755,6 @@ vless://a10dab76-0f3a-42bb-979f-2648085de252@news.microsoft.com:443?alpn=h2,http
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.82.16.99:443?security=tls&sni=he.ylks.xyz&type=ws&path=/blue#Blindvpn
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.234:443?path=/blue&security=tls&encryption=none&type=ws&sni=je.ylks01.eu.org#Blindvpn
-
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.64:443?path=/blue&security=tls&encryption=none&type=ws&sni=je.ylks01.eu.org#Blindvpn
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.73:443?path=/blue&security=tls&encryption=none&type=ws&sni=ke.ylks.xyz#Blindvpn
 
@@ -858,11 +770,15 @@ vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.59:443?path=/@mahdi_383ir&s
 
 vless://a692da68-3bb0-4716-909a-9918acfcef38@shadyvpn-production-afff.up.railway.app:443?encryption=none&type=xhttp&security=tls&path=/api&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=shadyvpn-production-afff.up.railway.app&fp=chrome&insecure=0&allowInsecure=0#Blindvpn
 
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@141.101.115.71:8443?path=/RoBeRt&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#Blindvpn
+
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?encryption=none&flow=&type=ws&path=/item&security=tls&sni=pagescm.freen20.cc.cd#Blindvpn
 
-vless://b005cb51-bdac-1344-3a0b-c57d690fdba5@199.181.197.1:8443?path=/sync&security=tls&encryption=none&insecure=0&host=ez-69f0d5.noght-azadi-sub2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-69f0d5.noght-azadi-sub2.workers.dev#Blindvpn
-
 vless://b2c5c367-4530-4ee4-92e7-6ac0d2a97980@cdn10.sudonetwork.com:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=fiterchinakoooon.sudonetwork.com&fp=chrome&type=ws&allowInsecure=0&sni=fiterchinakoooon.sudonetwork.com#Blindvpn
+
+vless://b2c5c367-4530-4ee4-92e7-6ac0d2a97980@cdn6.sudonetwork.com:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=fiterchinakoooon.sudonetwork.com&fp=chrome&type=ws&allowInsecure=0&sni=fiterchinakoooon.sudonetwork.com#Blindvpn
+
+vless://b4815b4c-3d41-4dc1-aad3-415c4bd4946d@141.193.213.10:2052?encryption=none&type=xhttp&mode=auto&host=cdn-l2.goofymoofy.com&path=/pabloping&security=none#Blindvpn
 
 vless://b54ff8b1-518f-4eb4-b890-14f42ef470a1@global.cloud-play.ir:80?mode=auto&path=/&security=&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=connectingissues.pl&type=xhttp#Blindvpn
 
@@ -872,15 +788,11 @@ vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=
 
 vless://b8f58a98-313c-6882-1c90-a01d46418eb5@66.33.23.63:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/b8f58a98-313c-6882-1c90-a01d46418eb5#Blindvpn
 
-vless://b8f58a98-313c-6882-1c90-a01d46418eb5@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/b8f58a98-313c-6882-1c90-a01d46418eb5#Blindvpn
-
-vless://b8f58a98-313c-6882-1c90-a01d46418eb5@tmesubgift.up.railway.app:443?path=/ws/b8f58a98-313c-6882-1c90-a01d46418eb5&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tmesubgift.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=tmesubgift.up.railway.app#Blindvpn
-
-vless://b8f58a98-313c-6882-1c90-a01d46418eb5@tmesubgift.up.railway.app:443?path=/ws/b8f58a98-313c-6882-1c90-a01d46418eb5&security=tls&encryption=none&insecure=0&host=tmesubgift.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=tmesubgift.up.railway.app#Blindvpn
-
-vless://b991b390-dd0f-4061-9150-bee0cb467bce@162.251.82.240:443?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&encryption=none&insecure=0&host=opu-ao6.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=opu-ao6.pages.dev#Blindvpn
-
 vless://bac628dc-cd64-460c-8657-8128c9d6d7b7@188.114.99.160:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ch.nping.ir#Blindvpn
+
+vless://bd1dd9c8-85fe-f31c-4079-58e96ad7ea84@kaliconnect-starpanel-vip6.up.railway.app:443?path=/ws/bd1dd9c8-85fe-f31c-4079-58e96ad7ea84&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=kaliconnect-starpanel-vip6.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=kaliconnect-starpanel-vip6.up.railway.app#Blindvpn
+
+vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?path=/&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#Blindvpn
 
 vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#Blindvpn
 
@@ -888,15 +800,13 @@ vless://be470e29-56ba-481d-8bcb-35910b071e99@141.193.213.10:2087?path=/&security
 
 vless://be5ee63f-2537-4aee-bf7b-f416de371d1e@httppp.hexo-music.ir:2082?path=/&security=&encryption=none&host=grclgrcl.hexo-music.ir&type=httpupgrade#Blindvpn
 
+vless://be9bf82b-b48b-4b7e-9cba-3b86801058ba@140.248.185.253:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Blindvpn
+
 vless://be9bf82b-b48b-4b7e-9cba-3b86801058ba@fast.cd-tur4.ir:443?encryption=none&type=ws&security=tls&path=/&host=bazaryabab.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#Blindvpn
 
 vless://be9bf82b-b48b-4b7e-9cba-3b86801058ba@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Blindvpn
 
-vless://c251b44a-ac2c-4c4a-b194-bb963b222774@1telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=jojo.blaackgame.ir&path=/xnxx&security=tls&sni=jojo.blaackgame.ir&type=ws#Blindvpn
-
 vless://c251b44a-ac2c-4c4a-b194-bb963b222774@1telegram.com.zapas.iran.janebicall.ir:2087?path=/xnxx&security=tls&encryption=none&insecure=0&host=jojo.blaackgame.ir&fp=chrome&type=ws&allowInsecure=0&sni=jojo.blaackgame.ir#Blindvpn
-
-vless://c251b44a-ac2c-4c4a-b194-bb963b222774@3telegram.com.zapas.iran.janebicall.ir:2087?path=/xnxx&security=tls&encryption=none&insecure=0&host=jojo.blaackgame.ir&fp=chrome&type=ws&allowInsecure=0&sni=jojo.blaackgame.ir#Blindvpn
 
 vless://c251b44a-ac2c-4c4a-b194-bb963b222774@5telegram.com.zapas.iran.janebicall.ir:2087?path=/xnxx&security=tls&encryption=none&insecure=0&host=jojo.blaackgame.ir&fp=chrome&type=ws&allowInsecure=0&sni=jojo.blaackgame.ir#Blindvpn
 
@@ -906,11 +816,11 @@ vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@rtl.nexuschat.fun:80?path=/nexus&se
 
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.106:443?path=/?ed&security=tls&encryption=none&type=ws&sni=ve.ylkszy.eu.org#Blindvpn
 
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.219:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/?ed&security=tls&encryption=none&type=ws&sni=ve.ylkszy.eu.org#Blindvpn
+
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.219:443?path=/?ed&security=tls&encryption=none&type=ws&sni=ve.ylkszy.eu.org#Blindvpn
 
 vless://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@199.181.197.176:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#Blindvpn
-
-vless://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@rtl.nexuschat.fun:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#Blindvpn
 
 vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Blindvpn
 
@@ -926,21 +836,17 @@ vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?allowInsecure=0&sni=m
 
 vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Blindvpn
 
-vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Blindvpn
-
 vless://cd51db86-be9a-48b0-8910-eeb4dcadc7d9@140.248.187.74:80?encryption=none&security=none&type=ws&host=rb24.ir&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048#Blindvpn
 
 vless://ced68402-c9a8-4900-95d9-8ee30f574313@31.76.39.116:443?security=reality&encryption=none&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ag-02.rita-cloud.com&sid=51ef5a427b3615ee#Blindvpn
 
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@162.159.253.41:2087?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#Blindvpn
 
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@198.202.211.1:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#Blindvpn
+
 vless://d038a743-467e-4293-8cf9-6ec4282c3372@216.24.57.1:8443?path=/&security=tls&encryption=mlkem768x25519plus.native.0rtt.l4CHGxq5BlpiW8BYNoqwZtR_iIPKVcExmHVDbqpKXQo&insecure=0&host=salamasalmabacheha.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=salamasalmabacheha.dpdns.org#Blindvpn
 
-vless://d07c6648-b644-4736-ade5-9bb4062bf42a@38.107.232.146:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Blindvpn
-
 vless://d15cce83-9de9-4e37-98bc-ea5a8882f213@199.232.78.159:443?path=/&security=tls&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=default.ssl.fastly.net&#Blindvpn
-
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#Blindvpn
 
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=none&encryption=none&headerType=none&type=tcp#Blindvpn
 
@@ -974,17 +880,11 @@ vless://dc0dba1b-c8a3-4ca8-8180-296d363b1b2c@news.microsoft.com:443?encryption=n
 
 vless://dcbb2940-bb24-41fd-953e-2a24e34a9790@euro.cloud-play.ir:80?encryption=none&type=xhttp&path=/&host=xenoengineer.com&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#Blindvpn
 
-vless://dcbb2940-bb24-41fd-953e-2a24e34a9790@global.cloud-play.ir:80?encryption=none&type=xhttp&path=/&host=xenoengineer.com&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#Blindvpn
+vless://dd340963-3fae-7db0-08d7-ad8300f689ca@rvg-production-6b96.up.railway.app:443?path=/ws/dd340963-3fae-7db0-08d7-ad8300f689ca&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#Blindvpn
 
-vless://deb79775-35dc-4376-adf0-5b4fd26c691c@104.253.74.39:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=NJrlB9wz9ctlwMOIK8Jp7Ml25j77QlFOjpha1lEktkg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4a9acf81b8773e1e#Blindvpn
+vless://dd340963-3fae-7db0-08d7-ad8300f689ca@rvg-production-6b96.up.railway.app:443?path=/ws/dd340963-3fae-7db0-08d7-ad8300f689ca&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-6b96.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-6b96.up.railway.app#Blindvpn
 
 vless://df267d38-354a-31a2-4585-08a9c7a33dd1@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/df267d38-354a-31a2-4585-08a9c7a33dd1#Blindvpn
-
-vless://df666979-d7ce-4e34-ae23-05ac01bd2476@media-us.frdmhere.com:443?path=/mp3/all/us/&security=tls&encryption=none&insecure=0&host=media-us.frdmhere.com&type=ws&allowInsecure=0&sni=media-us.frdmhere.com#Blindvpn
-
-vless://df666979-d7ce-4e34-ae23-05ac01bd2476@usa.frdmhere.com:443?mode=auto&security=reality&encryption=none&pbk=RdFhDE70isO-QgUur_OVe8_TetvBHP-qe18MHJ44gFQ&type=xhttp&sni=strm.yandex.ru&sid=b00b1e5b#Blindvpn
-
-vless://df7f6532-8f1e-4b76-a3e9-2699771867d1@198.169.2.65:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=idk.subgift.xyz&path=/subgift&mode=auto&extra={"xPaddingBytes":"100-1000"}#Blindvpn
 
 vless://e1b81abf-2c98-487a-9b4d-e678f718f4b9@162.159.38.119:8443?path=/eyJqdW5rIjoiSVIwdkdQSmhrT0xRNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tiny-shadow-2432.quillypanel26.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=Tiny-ShADow-2432.QuillYPaNeL26.woRKers.dev#Blindvpn
 
@@ -998,11 +898,9 @@ vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@199.232.78.159:443?path=/&security=
 
 vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Blindvpn
 
+vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?encryption=none&type=ws&security=tls&path=/&host=fancii.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#Blindvpn
+
 vless://e535e1b3-db06-4b2b-9c9a-6824378abbc4@news.microsoft.com:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=nl3.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=nl3.gamelistak.com&type=xhttp&x_padding_bytes=100-1000#Blindvpn
-
-vless://e535e1b3-db06-4b2b-9c9a-6824378abbc4@nl3.gamelistak.com:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=nl3.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#Blindvpn
-
-vless://e5b869d5-331c-342a-7fb8-79670204ccbc@rvg-production-300c.up.railway.app:443?path=/ws/e5b869d5-331c-342a-7fb8-79670204ccbc&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#Blindvpn
 
 vless://e5b869d5-331c-342a-7fb8-79670204ccbc@rvg-production-300c.up.railway.app:443?path=/ws/e5b869d5-331c-342a-7fb8-79670204ccbc&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-300c.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-300c.up.railway.app#Blindvpn
 
@@ -1014,8 +912,6 @@ vless://e87e1c73-c09b-4527-962e-172569ce3d68@euro.connectingissues.ir:80?mode=au
 
 vless://e87e1c73-c09b-4527-962e-172569ce3d68@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#Blindvpn
 
-vless://e8c61352-444f-4154-ba34-9d3141154a8d@141.101.115.71:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#Blindvpn
-
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@162.159.253.41:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#Blindvpn
 
 vless://eb9c6180-ed5f-4a18-8645-3a487f8088ed@141.193.213.10:2087?path=/&security=tls&encryption=none&insecure=0&host=nova-falcon-portal-27ef.nova-b77bd6.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-falcon-portal-27ef.nova-b77bd6.workers.dev#Blindvpn
@@ -1023,6 +919,8 @@ vless://eb9c6180-ed5f-4a18-8645-3a487f8088ed@141.193.213.10:2087?path=/&security
 vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@thomas.proxy.rlwy.net:39392?mode=auto&path=/xh&security=reality&encryption=none&pbk=CrEL0U-ugDvMuUfmR5sM0GLZryu7oDMmA-3v812Vljo&fp=chrome&type=xhttp&sni=yahoo.com&sid=0123456789abcdef#Blindvpn
 
 vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#Blindvpn
+
+vless://eea3225a-8796-402e-aecd-ac00a36e24e4@ltv.erisrtg.ir:2083?mode=gun&security=none&encryption=none&type=grpc#Blindvpn
 
 vless://ef968e63-ff7f-4b10-b862-48441100ed4c@shop.dearhosseib.ir:2087?security=reality&encryption=none&pbk=0dOGHe967sE6WBNOgRiqBdr7HhvTt6QXoArgISzY1jA&headerType=http&fp=chrome&spx=/Nk51qSsgwNTbD0y&type=tcp&sni=www.yahoo.com&sid=a7b54d86d7926607#Blindvpn
 
@@ -1072,15 +970,9 @@ vless://fc71fffb-3743-4cfe-9edb-c8cb513e9146@199.232.245.208:443?path=/&security
 
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#Blindvpn
 
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.21:443?path=/tsghdws#Blindvpn
-
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.21:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn
 
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?path=/tsghdws#Blindvpn
-
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.1:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=octopusss4.com#Blindvpn
-
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@82.40.23.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#Blindvpn
 
 vless://shanaam@nl.shanaam.ir:37915?security=reality&encryption=none&pbk=tJVxffhqeRW-Bv5fUooDyighEWoiHv3QndPjbT8xCGQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a1e717ae2274#Blindvpn
 

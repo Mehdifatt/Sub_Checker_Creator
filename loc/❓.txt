@@ -2,6 +2,13 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://90fa5b86-026e-42c5-a9b7-6ad4dc0a9dbe@188.114.97.6:2053?path=%2FeyJqdW5rIjoiMmxwMG1KZDRlIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=white-fire-77f0.hejdhcjdjfbv.workers.dev&type=ws&allowInsecure=0&sni=WhitE-fiRe-77F0.hejDhCJdJFbV.workers.dEv#Blindvpn%3A%3A%E2%9D%93
-vless://be9bf82b-b48b-4b7e-9cba-3b86801058ba@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Blindvpn%3A%3A%E2%9D%93
-vless://e1b81abf-2c98-487a-9b4d-e678f718f4b9@162.159.38.119:8443?path=/eyJqdW5rIjoiSVIwdkdQSmhrT0xRNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tiny-shadow-2432.quillypanel26.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=Tiny-ShADow-2432.QuillYPaNeL26.woRKers.dev#Blindvpn%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#Blindvpn%3A%3A%E2%9D%93
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&sni=unnes.ac.id.yxls.eu.cc#Blindvpn%3A%3A%E2%9D%93
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#Blindvpn%3A%3A%E2%9D%93
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Blindvpn%3A%3A%E2%9D%93
+vless://083471bf-bbf4-4e1d-8953-912b8d3b6255@82.202.177.144:5269?security=reality&encryption=none&pbk=hx1gkWBL2ixtwQSGXEvLT1Yz8GBsCFWriz_WLzLQNHQ&headerType=none&fp=qq&allowinsecure=0&type=tcp&sni=max.ru&sid=4eb166dbed98e63d#Blindvpn%3A%3A%E2%9D%93
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.70:443?encryption=none&security=tls&sni=vangoghhh.info&insecure=0&allowInsecure=0&type=ws&host=vangoghhh.info&path=%2Frdfgtws#Blindvpn%3A%3A%E2%9D%93
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.70:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#Blindvpn%3A%3A%E2%9D%93
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.22:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#Blindvpn%3A%3A%E2%9D%93
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&host=srv75.perfectbulk.info&fp=chrome&allowinsecure=0&type=ws&sni=srv75.perfectbulk.info#Blindvpn%3A%3A%E2%9D%93
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&host=amoosamiii.net&type=ws&sni=amoosamiii.net#Blindvpn%3A%3A%E2%9D%93
