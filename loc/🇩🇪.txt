@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://06d16269-04bb-4a2d-b5da-5dab27c59a15@5.75.207.247:2360?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=none&fp=chrome&spx=%2FBgQiVh1cnj0wy8V&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=ca7ddf#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://b009729d-e38a-45e2-bc4a-92bdec80331d@p4.hoomankh.info:62692?encryption=none&security=none&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://CHhHZoXQCp@45.130.125.2:443?path=%2Fda&security=tls&insecure=0&host=se.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=se.farxmode.ir#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@de-3.coinbridge.nl:443?encryption=none&security=reality&sni=google.com&fp=random&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&sid=d5c7f84e37e0c12d&type=grpc&authority=&serviceName=data-sync&mode=gun#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
