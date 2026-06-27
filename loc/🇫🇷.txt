@@ -2,7 +2,20 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&type=ws&sni=www.calmloud.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://010a6106-960a-4a3c-94d3-410a50c1219d@104.253.134.92:14216?encryption=none&security=none&type=httpupgrade&path=%2F#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?encryption=none&type=ws&security=tls&path=%2Fvws%2F&host=bab-6.site&sni=bab-6.site&fp=chrome&insecure=0&allowInsecure=0#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?path=%2F&security=tls&encryption=none&insecure=0&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e461afdd-7c8e-473e-815d-88b72960c6b1@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://010a6106-960a-4a3c-94d3-410a50c1219d@104.253.134.92:14216?flow=&type=httpupgrade&host=&path=/&security=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://010a6106-960a-4a3c-94d3-410a50c1219d@104.253.134.92:14216?path=/&security=none&encryption=none&type=httpupgrade#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://010a6106-960a-4a3c-94d3-410a50c1219d@104.253.134.92:55117?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&type=xhttp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://010a6106-960a-4a3c-94d3-410a50c1219d@104.253.134.92:55117?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&type=xhttp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://010a6106-960a-4a3c-94d3-410a50c1219d@104.253.134.92:14216?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=none&encryption=none&type=httpupgrade#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e461afdd-7c8e-473e-815d-88b72960c6b1@151.101.56.6:443?encryption=none&type=ws&security=tls&path=/&host=fancii.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?encryption=none&type=ws&security=tls&path=/&host=fancii.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?path=/&security=tls&encryption=none&host=fancii.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=1&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e461afdd-7c8e-473e-815d-88b72960c6b1@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=1&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
