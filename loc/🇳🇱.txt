@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@nl-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
