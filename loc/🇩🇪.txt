@@ -3,5 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://210b9316-5646-4dc9-9e2e-ca72e5ca7601@t-me.raynettun.musiclib.ir:443?alpn=h2%2Chttp%2F1.1&authority=&encryption=none&fp=chrome&security=tls&serviceName=&sni=&type=grpc#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://210b9316-5646-4dc9-9e2e-ca72e5ca7601@t-me.raynettun.musiclib.ir:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?encryption=none&security=tls&sni=octopusss5.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=%2Fudfyfws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://1e69bbe0-f4e6-1afc-ec48-0e727859903e@141.95.8.64:9331?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=x0PQITRDc443ujCTd0LORwvBBFGYKv6z2cvRbKHxAFU&sid=af1fac6e&spx=%2F&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?security=reality&encryption=none&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5.oncloudnineservicestreang.com&sid=273940fba6ad8250#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://afc296b9-96be-4253-8268-5c9ecc8262d9@5.75.207.247:44004?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=chrome&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&sid=77b0689f&spx=%2F&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f356ae17-12ad-43ce-9961-56de0725452e@173.199.117.62:3?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
