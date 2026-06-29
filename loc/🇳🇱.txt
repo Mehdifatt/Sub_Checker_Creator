@@ -2,10 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@nl-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://infinitymobilepc@node-8588103922-b266ea-production.up.railway.app:443?path=/ws/infinitymobilepc&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=node-8588103922-b266ea-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=node-8588103922-b266ea-production.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://public@node-8588103922-b266ea-production.up.railway.app:443?path=/ws/public&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=node-8588103922-b266ea-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=node-8588103922-b266ea-production.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://b783c6d6-3a0f-4c13-bbd1-86bf1ec4d94d@104.238.31.71:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=unitbook.net&sid=6ba85179e30d4fc2#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://c999714c-9946-4bf2-9427-588aa7c72c94@reseau.proxy.rlwy.net:49424?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000","mode":"auto","scMaxEachPostBytes":"1000000"}&pbk=_wmJo5YpHNrSzudYESs8ZvbuBPdAdIigioAHCUh64BY&fp=chrome&spx=/&type=xhttp&sni=www.oracle.com&sid=e13baa#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://f659ae31-0281-4dcf-acf5-5736ec0a58cc@199.232.78.143:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=npnl-2-one.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
