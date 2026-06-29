@@ -2,8 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://1176b07e-35ea-491e-aeec-d7a7912c6162@104.252.111.199:18178?path=%2F&security=none&encryption=none&type=httpupgrade#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://7d6ca20b-bdba-40bb-94e8-49d5df5312e0@95.182.116.203:15890?path=%2F&security=none&encryption=none&type=httpupgrade#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
