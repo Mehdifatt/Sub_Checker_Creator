@@ -2,4 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+trojan://telegram-id-directvpn@35.156.135.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://telegram-id-privatevpns@35.156.135.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.135.140:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://210b9316-5646-4dc9-9e2e-ca72e5ca7601@t-me.raynettun.musiclib.ir:443?alpn=h2%2Chttp%2F1.1&authority=&encryption=none&fp=chrome&security=tls&serviceName=&sni=&type=grpc#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://65029dca-4e00-49fb-abd3-e79f73e838fb@alman.lorqina.ir:2086?security=reality&encryption=none&pbk=GR4Vf2qGFrq56Q1Z1YyxmvUrcpbBtw02fkDKv43KbUo&headerType=none&fp=chrome&spx=%2Fag6lE5RWnESSdZx&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4fe5b735#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?encryption=none&host=shegeftihaaa.net&path=/rsedgws&security=tls&sni=shegeftihaaa.net&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
