@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://80c01792-7bb5-4818-b531-113c0d6f17a2@23.254.226.60:19351?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://b783c6d6-3a0f-4c13-bbd1-86bf1ec4d94d@104.238.31.71:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=unitbook.net&sid=6ba85179e30d4fc2#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://2977ddae-0f86-2501-d6df-d09c91759115@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/2977ddae-0f86-2501-d6df-d09c91759115#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://f659ae31-0281-4dcf-acf5-5736ec0a58cc@199.232.78.143:443?alpn=http/1.1&ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=npnl-2-one.global.ssl.fastly.net&path=/&security=tls&sni=global.fastly.com&type=ws#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://namedzadim@reseau.proxy.rlwy.net:56136?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000","mode":"auto","scMaxEachPostBytes":"1000000"}&pbk=-GTzRXjKWYHqlSb2VXLTsESJDNXVCRREc02FpVXmFRw&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=6641#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
