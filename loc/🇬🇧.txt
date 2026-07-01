@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=gb7.univesalsrv.com#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://23aa8047-09f3-4679-9ae9-c9de38ddfb39@uk1.coconutstrip.co:443?security=reality&encryption=none&pbk=QzZ91hlWiCRGnT3y6bn4hVEDuCg1ftBb6g-wI5Rl000&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=uk1.coconutstrip.co#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
