@@ -2,4 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://23aa8047-09f3-4679-9ae9-c9de38ddfb39@uk1.coconutstrip.co:443?security=reality&encryption=none&pbk=QzZ91hlWiCRGnT3y6bn4hVEDuCg1ftBb6g-wI5Rl000&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=uk1.coconutstrip.co#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.68:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.76.38.18:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=d82fb387#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.76.38.18:7443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=icloud.com&type=tcp#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
