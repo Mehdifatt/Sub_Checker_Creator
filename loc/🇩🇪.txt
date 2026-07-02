@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://telegram-id-privatevpns@18.197.104.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.197.104.44:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://40135845-27fd-45e2-8616-44e92d149a50@undef.network:2052?path=%2Fapi&security=none&encryption=none&host=sg.sogand.qzz.io&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://501c1f83-a390-4b93-99db-7f57d0111573@nr.cnkstore.ru:8443?security=reality&encryption=none&pbk=v9tl1F7ZGdPeudN3tsHw02vvOpLOvhGBUEjgeCtsvQk&headerType=none&fp=firefox&type=tcp&sni=iv.kommersant.ru&sid=fe74a5e0a6#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://63d34c62-c655-498f-81e1-1bdd964a2611@84.32.223.22:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cherry-de1.t1n2.com&pbk=A0oiMHyUXzvKw3vlEtfUulJ3ba8fjOKbSXg8PoRCgG8&sid=ecf7a3c57ca42895&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vmess://eyJ2IjoiMiIsInBzIjoiQmxpbmR2cG46OvCfh6nwn4eqIiwiYWRkIjoiMTk0LjYwLjk1LjciLCJwb3J0IjoiNTk1MjUiLCJpZCI6IjY2ZmY1ODFmLTk4ZDAtNDNjYy1jZWNiLWE3MjMyZjQxMWM2ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvNjZmZjU4MWYtOThkMC00M2NjLWNlY2ItYTcyMzJmNDExYzZkIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0
