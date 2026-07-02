@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@46.101.238.160:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.56:8443?security=reality&encryption=none&pbk=EIlnBMyH--EIasnzGPJAAFSP5WM_4FNU4ktFUQI0O00&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn2.swaginozip.fun&sid=a13edee689fca1da#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA

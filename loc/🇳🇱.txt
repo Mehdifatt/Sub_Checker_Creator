@@ -2,6 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.69.138:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@198.211.121.165:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://afd62d3d-22df-457b-88e3-ec705466d095@109.207.170.8:26783?path=%2Fstore&security=none&encryption=none&host=play.google.com&type=ws#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://afd62d3d-22df-457b-88e3-ec705466d095@109.207.170.8:52051?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://c5d63ef2-5fc7-ea7f-5b71-81102bce34f0@rvg-production-b825.up.railway.app:443?encryption=none&security=tls&sni=rvg-production-b825.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=rvg-production-b825.up.railway.app&path=/ws/c5d63ef2-5fc7-ea7f-5b71-81102bce34f0#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://namedzadim@reseau.proxy.rlwy.net:56136?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000","mode":"auto","scMaxEachPostBytes":"1000000"}&pbk=-GTzRXjKWYHqlSb2VXLTsESJDNXVCRREc02FpVXmFRw&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=6641#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
