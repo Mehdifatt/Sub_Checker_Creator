@@ -2,13 +2,13 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+trojan://MITIVPN@188.114.98.193:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=Ge.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Ge.App-Cloud.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://MiTiVPN@104.16.72.41:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=sw.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=sw.App-Cloud.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://MiTiVPN@104.16.72.101:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=N--l.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=N--l.App-Cloud.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://MiTiVPN@104.18.42.98:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=s-w.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=s-w.App-Cloud.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://MiTiVPN@104.19.230.21:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=Nl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.41:443?path=%2Fbr-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#Blindvpn%3A%3A%E2%9D%93
-trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=Fl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://MiTiVPN@104.16.72.41:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=sw.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=sw.App-Cloud.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#Blindvpn%3A%3A%E2%9D%93
 trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&security=tls&insecure=0&host=Fl.App-Cloud.ir&type=ws&allowInsecure=0&sni=Fl.App-Cloud.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#Blindvpn%3A%3A%E2%9D%93
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1

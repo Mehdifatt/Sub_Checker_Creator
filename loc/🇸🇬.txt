@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://147182ba-946d-9ef2-a209-dbfcccec9231@rvg-production-dfeb.up.railway.app:443?encryption=none&security=tls&sni=rvg-production-dfeb.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=rvg-production-dfeb.up.railway.app&path=/ws/147182ba-946d-9ef2-a209-dbfcccec9231#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://147182ba-946d-9ef2-a209-dbfcccec9231@rvg-production-dfeb.up.railway.app:443?path=/ws/147182ba-946d-9ef2-a209-dbfcccec9231&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-dfeb.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-dfeb.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://147182ba-946d-9ef2-a209-dbfcccec9231@rvg-production-dfeb.up.railway.app:443?encryption=none&security=tls&sni=rvg-production-dfeb.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=rvg-production-dfeb.up.railway.app&path=/ws/147182ba-946d-9ef2-a209-dbfcccec9231#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
