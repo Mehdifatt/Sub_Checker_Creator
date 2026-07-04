@@ -2,12 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.203.225:2566?security=reality&encryption=none&pbk=cs2uxkfzvnJXO3dyLiC1ihoFPwQQlbJknOhNPF0OGyY&headerType=none&fp=edge&spx=%2FNR0JJPLwfMJ7CMI&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=1533f8451e#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://4fb30f87-a9c2-43de-994f-9228fe4dac17@151.101.193.57:80?encryption=none&type=ws&path=%2F&host=superip2.global.ssl.fastly.net#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@45.92.1.131:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vmess://eyJhZGQiOiJobDExMi5jb3dqdW1wLnNpdGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhsMTEyLmNvd2p1bXAuc2l0ZSIsImlkIjoiMGJmMWNlYWQtYmRkNC00NjkyLWIzZDQtNjg2NmNjYjlmMzdhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkJsaW5kdnBuOjrwn4ez8J+HsSIsInNjeSI6ImF1dG8iLCJzbmkiOiJobDExMi5jb3dqdW1wLnNpdGUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
 vless://abdcbea1-3aee-10e4-8ae6-098edc1d5956@rvg-production-5268.up.railway.app:443?encryption=none&security=tls&sni=rvg-production-5268.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=rvg-production-5268.up.railway.app&path=/ws/abdcbea1-3aee-10e4-8ae6-098edc1d5956#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://af42f8db-09a9-4eb5-9047-e97b5a072627@199.232.78.143:443?encryption=none&security=tls&sni=global.fastly.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=npnl-2-one.global.ssl.fastly.net&path=/?ed=2048#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
