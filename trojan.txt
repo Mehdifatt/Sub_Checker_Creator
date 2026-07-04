@@ -2,6 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://MITIVPN@104.26.15.137:443?path=%2FMiTiVPN%3DUSA&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=us-a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us-a.App-Cloud.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://afbcd89a-5a90-4a44-a42a-be08f444aa3f@blog.webex.com:443?path=%2Fbr-orcl&security=tls&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Blindvpn%3A%3A%E2%9D%93
+trojan://MITIVPN@www.speedtest.net:443?path=%2FMiTiVPN%3DUSA&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=us-a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us-a.App-Cloud.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://MiTiVPN@104.21.5.75:443?path=%2FMiTiVPN%3DSw&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=sw-W.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=sw-W.App-Cloud.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://MiTiVPN@45.131.4.115:443?path=%2FMiTiVPN%3DN-L&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://MiTiVPN@www.speedtest.net:443?path=%2FMiTiVPN%3DSw&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=sw-W.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=sw-W.App-Cloud.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
