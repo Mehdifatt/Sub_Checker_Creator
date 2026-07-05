@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@104.16.174.34:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.21.74.63:443?path=%2Fjdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://a3ab68bd-e835-5129-b8c5-335a709e8b3f@31.56.146.68:443?security=reality&encryption=none&pbk=7DQXReCCCModVwZEU9j4QFsWtzEbGNtrRHwMCk2NUD8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=login.yahoo.com&sid=C8EF#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://a57f209b-0826-40a9-b01f-7ffa3b33edb5@95.182.83.164:80?security=reality&encryption=none&pbk=k7N45CslQLc2fSjfc6T_K5pVqUYynvUOpzzmb1hLNUo&headerType=none&fp=chrome&spx=%2FtKKHWXqCxxpmVw4&type=tcp&sni=www.cloudflare.com&sid=104f#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://1270a549-5814-4078-a396-a237242f9ed8@104.253.74.87:80?path=/downloadpp.php&security=&encryption=none&host=skyroom.online&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
