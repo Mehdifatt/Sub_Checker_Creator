@@ -1,0 +1,14 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://3afa7da8-d2d8-4fd9-a18e-af20aec9015d@45.80.229.3:443?security=reality&encryption=none&pbk=HytUHg9GrbMLmfnwqCqIIa0RbZFd3xAIhAE4XNpZFxI&headerType=none&fp=chrome&spx=%2Fnl%2Foffer&type=tcp&sni=www.samsung.com&sid=98e8c2fe#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.78:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.119:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.79:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=d020b987f84eb78a&sni=storage.yandex.net&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.120:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.52:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.39:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.41:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&encryption=none&insecure=0&host=firsttime.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&encryption=none&insecure=0&host=sevenfeshab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
