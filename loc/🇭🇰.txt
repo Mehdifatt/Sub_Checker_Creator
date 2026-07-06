@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://0bef99f1-1ab7-4949-8991-80914d9c7535@207.57.129.74:51864?encryption=none&flow=xtls-rprx-vision&fp=&pbk=p8vKj6rINds1EgmeSIFOv6uds8IxnN8ypjIslksAYgA&security=reality&sni=dash.cloudflare.com&type=tcp#Blindvpn%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://4e6a35d1-459c-472b-bb28-8e542b5c0b02@43.198.204.35:443?path=%2F&security=tls&encryption=none&insecure=0&host=qasedak.qasedak-2003.workers.dev&type=ws&allowInsecure=0&sni=qasedak.qasedak-2003.workers.dev#Blindvpn%3A%3A%F0%9F%87%AD%F0%9F%87%B0
