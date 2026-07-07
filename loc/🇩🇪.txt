@@ -3,5 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://0de7a4c9-6c9a-4728-b4e8-eb47051e13d4@178.83.46.187:3030?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://d2ec3640-2e4c-45b4-b1a3-1d325646584b@weso.vaslehpineh.qzz.io:443?path=%2Fws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=weso.vaslehpineh.qzz.io#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.23.56:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
