@@ -2,9 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@146.185.172.227:2053?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
@@ -12,5 +9,5 @@ vless://5bb4eea6-7786-44c9-aafa-bd0113c1b800@telegram.private-networks-zk.com:44
 vless://86134fee-4c27-42e8-8660-e64b9c8150ad@176.109.88.217:33443?mode=gun&security=reality&encryption=none&pbk=Jd_VsyCzLh-UHJoeazmppnwqBkVuzS-VaQNPu6_EpWM&type=grpc&serviceName=grpc&sni=5post-gate.x5.ru#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2Fvip1&security=tls&alpn=h2&encryption=none&insecure=0&host=hamshahriesfahan.com&fp=chrome&type=ws&allowInsecure=0&sni=speedtest.net#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://1abf55a2-a6a0-4ad1-9602-f271abd75307@hayabusa.proxy.rlwy.net:49767?encryption=none&security=reality&sni=is1-ssl.mzstatic.com&fp=chrome&pbk=58-40HfvWHJmWNMPsGmCwscz_FedXELaQllI2xOLiEc&sid=1dd9f9d6509d6c01&spx=/&allowinsecure=0&type=xhttp&mode=auto&path=/&extra={"xPaddingBytes":"100-1000","mode":"auto","scMaxEachPostBytes":"1000000"}#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://b8cd6ca4-57ad-b45c-db2f-c2c560e3cd3d@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/b8cd6ca4-57ad-b45c-db2f-c2c560e3cd3d#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://80c01792-7bb5-4818-b531-113c0d6f17a2@23.254.226.60:19351?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://da694b2e-e844-4b72-a5b1-611f2f6dce2a@hayabusa.proxy.rlwy.net:18786?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=e5xSYXvSb5M1EshCP1WKJJA57g_1ZeyCXLGqJkI4nHc&sid=f0ddc5bd81adc926&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
