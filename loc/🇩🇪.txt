@@ -2,9 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://telegram-id-directvpn@3.69.34.158:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://telegram-id-privatevpns@3.69.34.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://v2TkL6FH3h@45.130.125.2:443?path=%2Fda&security=tls&insecure=0&host=sm.farxmode.ir&fp=firefox&type=ws&allowInsecure=0&sni=sm.farxmode.ir#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.34.158:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://46882b9b-ef05-4655-a87d-47ce74d00939@135.125.218.196:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=oLuqJsj4z6m_kns9ETrsIPA8fDrysonWXEsmn3931kY&security=reality&sid=bbfcad86d5e2e0ea&sni=icloud.com&spx=%2FJ5q6nU2gfElacaU&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://edef0572-87d2-427f-a900-6d87b9b07861@olds-1.lubbs.de:2086?path=%2F&security=none&encryption=none&host=sub-4.linemtf.ir&type=httpupgrade#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://5f508dfd-333f-4660-9729-d0cd5c6662d6@3.120.209.207:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://7850c959-f9d5-42da-b8a9-35c7954cc86d@youweredancingthroughthelightningstrikes.itsnotfair.ir:1008?security=reality&alpn=h2&encryption=none&pbk=KR_f-E_pR8kfCW3Su1tjR3FWRtpcYAn_ajfKjiPZAAQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=ec8926fc13a19d95#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
