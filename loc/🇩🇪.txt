@@ -1,0 +1,10 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+trojan://telegram-id-directvpn@3.69.34.158:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://telegram-id-privatevpns@3.69.34.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://v2TkL6FH3h@45.130.125.2:443?path=%2Fda&security=tls&insecure=0&host=sm.farxmode.ir&fp=firefox&type=ws&allowInsecure=0&sni=sm.farxmode.ir#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.34.158:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://46882b9b-ef05-4655-a87d-47ce74d00939@135.125.218.196:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=oLuqJsj4z6m_kns9ETrsIPA8fDrysonWXEsmn3931kY&security=reality&sid=bbfcad86d5e2e0ea&sni=icloud.com&spx=%2FJ5q6nU2gfElacaU&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://edef0572-87d2-427f-a900-6d87b9b07861@olds-1.lubbs.de:2086?path=%2F&security=none&encryption=none&host=sub-4.linemtf.ir&type=httpupgrade#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
