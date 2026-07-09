@@ -2,14 +2,15 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?path=%2Fau-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#Blindvpn%3A%3A%E2%9D%93
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=%2Fau-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#Blindvpn%3A%3A%E2%9D%93
-trojan://MITIVPN@151.101.56.7:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dde&security=tls&alpn=http%2F1.1&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://MITIVPN@162.159.38.119:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DDEE&security=tls&alpn=http%2F1.1&insecure=0&host=De1-2-3.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=de-ms.Maqror.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://MITIVPN@199.232.2.79:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dde&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn--------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://XG59623478@rational-joey.rooster465.autos:443?allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsw&security=tls&alpn=http%2F1.1&insecure=0&host=sw-www-w.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=bsw-wwlslw-w.Maqror.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#Blindvpn%3A%3A%E2%9D%93
-trojan://telegram-id-directvpn@3.69.137.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://humanity@104.16.72.2:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://telegram-id-privatevpns@3.69.137.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#Blindvpn%3A%3A%E2%9D%93
+trojan://MiTiVPN@104.21.55.229:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DS-w&security=tls&alpn=http%2F1.1&insecure=1&host=w--is---s.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=w-s-s.Maqror.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://MiTiVPN@172.66.132.196:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DFlL&security=tls&alpn=http%2F1.1&insecure=1&host=f--ls-s.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=fl-o--7-m.Maqror.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://humanity@104.16.174.44:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@104.18.152.219:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@141.101.90.101:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@45.130.125.2:443?path=%2Fassignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
