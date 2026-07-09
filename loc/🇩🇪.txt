@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://39a921de-4f5d-4778-9aa5-4a3b131b93a3@de.n.belka.network:443?security=reality&encryption=none&pbk=diw5L3O4EkRQGWDSfdpQooPUc3zBTItooeOQ_fIDFWI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7f2e9c4b1a8d6e53#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://9e1671d2-4092-4ae4-93b3-1d2db0f1a071@89.39.121.54:110?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://36644091-0cec-47fe-9955-97c3f424baf7@all105.allenshop66245.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://578c8541-16a0-40b7-bf72-9508d547f856@31.76.38.23:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QDfwP9C0c60Kz5Do_M2UAsAek1cuRTaZxg3Eu3XdTVg&security=reality&sid=de6efcc2&sni=www.nvidia.com&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA

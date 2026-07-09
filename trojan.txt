@@ -2,10 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://MiTiVPN@104.21.55.230:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=bw--ivs-b--vvs.App-Cloud.ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DSS-w&sni=wbjj-bbcs-.App-Cloud.ir&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://MiTiVPN@104.21.55.229:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DS-w&security=tls&alpn=http%2F1.1&insecure=1&host=w--is---s.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=w-s-s.Maqror.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://MITIVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DUSa&security=tls&alpn=http%2F1.1&insecure=1&host=my-usa-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=UsAa-Us.Maqror.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://MiTiVPN@172.66.132.196:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DFlL&security=tls&alpn=http%2F1.1&insecure=1&host=f--ls-s.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=fl-o--7-m.Maqror.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@172.64.147.166:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://MiTiVPN@172.66.132.196:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DFlL&security=tls&alpn=http%2F1.1&insecure=1&host=f--ls-s.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=fl-o--7-m.Maqror.ir#Blindvpn%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://humanity@104.16.72.2:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#Blindvpn%3A%3A%E2%9D%93
+trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#Blindvpn%3A%3A%E2%9D%93
+trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#Blindvpn%3A%3A%E2%9D%93
+trojan://humanity@172.64.147.166:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#Blindvpn%3A%3A%E2%9D%93
+trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#Blindvpn%3A%3A%E2%9D%93
