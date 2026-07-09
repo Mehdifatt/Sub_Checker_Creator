@@ -2,8 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://telegram-id-directvpn@3.121.203.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.203.159:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e115f7fa-380c-437a-abcd-5500caa5f32f@www.speedtest.net:443?path=%2Fws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=weso.vaslehpineh.qzz.io#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://aba63574-708f-43aa-9fbb-ef9513193ae2@135.125.168.129:47791?type=tcp&encryption=none&security=reality&pbk=fcPTFFt0ZLXCkgfbluqIZgL4ewuUxCO1BbhCIraKoh8&fp=firefox&sni=play.google.com&sid=ff&spx=%2Fnaranv2ray#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://c1709670-114d-4c1a-84c6-452db9981c08@135.125.168.129:18169?type=tcp&encryption=none&security=reality&pbk=Bn5ziIYYKffPJjUd3diIvdmfLJgbo76mVSEcrgY0k08&fp=firefox&sni=www.icloud.com&sid=339e6fe3f9&spx=%2Fnaranv2ray#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://578c8541-16a0-40b7-bf72-9508d547f856@31.76.38.23:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QDfwP9C0c60Kz5Do_M2UAsAek1cuRTaZxg3Eu3XdTVg&security=reality&sid=de6efcc2&sni=www.nvidia.com&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
