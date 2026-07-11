@@ -2,7 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://16a721f2-4aaa-46c7-8429-0a09eef704b6@51.250.0.174:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#Blindvpn%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Blindvpn%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://e5b717b2-19dc-4945-8083-a52819787226@51.250.0.174:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#Blindvpn%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://edd01578-0bba-40fb-97b4-0668284be30c@51.250.0.174:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru#Blindvpn%3A%3A%F0%9F%87%B7%F0%9F%87%BA
