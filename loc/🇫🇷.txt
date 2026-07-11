@@ -2,13 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@france2.nicqy.com:43264?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=V7HRYFnC_mCHvqcO5o9sKVN-vs_tQ1FnB9seskMAB0A&fp=chrome&spx=%2FBb72M8dxE7yQVmm&type=xhttp&sni=samsung.com&sid=eb#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=%2Frsedgws&allowInsecure=0&security=tls&host=shegeftihaaa.net&sni=shegeftihaaa.net&type=ws&insecure=0&encryption=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxNmJocHlqazBvMzUyeDdp@135.125.113.81:8080#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?path=%2Fsg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?encryption=none&security=tls&sni=deicl.redstone-vex.sbs&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=deicl.redstone-vex.sbs&path=/sea#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?encryption=none&type=ws&security=tls&path=/sea&host=deicl.redstone-vex.sbs&sni=deicl.redstone-vex.sbs&fp=chrome&insecure=0&allowInsecure=0#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=/sea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?security=tls&type=ws&path=/sea&host=deicl.redstone-vex.sbs&sni=deicl.redstone-vex.sbs#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?encryption=none&security=tls&sni=terazhediii.info&allowinsecure=0&type=ws&host=terazhediii.info&path=/hdgrbws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?encryption=none&security=tls&sni=terazhediii.info&insecure=0&allowInsecure=0&type=ws&host=terazhediii.info&path=/hdgrbws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
