@@ -2,7 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.32:443#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@167.172.35.27:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&sni=icloud.com&sid=2716d84d89b5eadc#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibkV0SDIuTG9PbG9PbG9PbG9PLkNPTS4iLCJpZCI6ImIzNTUzZGZiLWU0YTQtNDU4NS05ZDFkLTc2YmMyZDBjY2I2NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9lZD0/MjA0OCIsInBvcnQiOiI4MDgwIiwicHMiOiJCbGluZHZwbjo68J+Hs/Cfh7EiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@am1.foot8all.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=qq&type=grpc&sni=icloud.com&sid=d22c6bf354720287#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
