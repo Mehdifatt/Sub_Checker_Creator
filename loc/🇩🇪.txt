@@ -2,6 +2,15 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://2e622f08-444a-46d0-8dac-6f9709f4d172@check-host.net:8880?path=%2F&security=none&encryption=none&host=sni.abilim.info&type=httpupgrade#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://1073a3f2-dc7c-46fb-aa7c-4378d4b27785@asl3.feeliran.org:449?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://4929dc84-f556-4c7b-8b9b-f4334f7c9651@dew.fizikade.ir:8443?type=tcp&encryption=none&security=reality&pbk=gF7mKQt3aUtiB3yx1BLwa6umUOcMxS8tEgqZuQKdujI&fp=firefox&sni=play.google.com&sid=11674a5b3d58ee6b&spx=%2Fnaranv2ray#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://55a5044d-5b35-405f-971c-ea7aacaafcb4@185.137.157.72:443?security=reality&encryption=none&pbk=z6_OFl0jskilOOxkQcUcdQOCS4-LVndwFF9i7kIOPzg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=d23753491eefde7e#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://821b785a-787b-431d-a32e-4c9275e89b7e@167.233.210.71:24206?path=%2F&security=&encryption=none&type=httpupgrade#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://8a22fde8-e72e-4ce2-96f6-285aeffe66a2@de2.raketa-balance.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de2.raketa-balance.com&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@5.253.66.203:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn-up.perecbass.ru&pbk=PDBVcDR6o01XUpdNNZ6rutJ_DBqnF7VcDuWceHIpyE8&sid=8c4d9e1f&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://cdec57c8-6051-4651-a472-78872d2962c6@172.66.146.2:2087?path=%2F&security=tls&encryption=none&host=ftp.himandev.ir&fp=chrome&type=ws&sni=ftp.himandev.ir#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://cdec57c8-6051-4651-a472-78872d2962c6@172.66.146.2:2087?path=%2F&security=tls&encryption=none&insecure=0&host=ftp.himandev.ir&fp=chrome&type=ws&allowInsecure=0&sni=ftp.himandev.ir#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://d8b42cd5-a149-4356-9e61-000000000000@85.222.198.181:2550?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://e348aa96-128d-4a4f-9e9d-0f58a0c41fa9@167.233.210.71:24206?path=%2F&security=&encryption=none&type=httpupgrade#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&host=fosae.starriverway-milo.sbs&path=/sea&security=tls&sni=fosae.starriverway-milo.sbs&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://af82dfe8-f14b-46fb-9a1a-57ca5e3b9075@162.159.38.119:443?path=/-----MxGriD-----&security=tls&encryption=none&insecure=0&host=telegram.mxgrid.xyz&fp=chrome&type=ws&allowInsecure=0&sni=telegram.mxgrid.xyz#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
