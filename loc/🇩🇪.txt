@@ -2,12 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@140.233.177.250:55715?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@162.159.38.119:443?path=%2Fudfyfws&security=tls&encryption=none&host=octopusss5.info&fp=chrome&type=ws&sni=octopusss5.info#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@304331dec0350d1e.mbcloudynias.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c39acc8cb9481d24#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@soskeynets.monopolitass.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c39acc8cb9481d24#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://cdec57c8-6051-4651-a472-78872d2962c6@172.66.146.2:2087?path=%2F&security=tls&encryption=none&host=ftp.himandev.ir&fp=chrome&type=ws&sni=ftp.himandev.ir#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=/sea&security=tls&encryption=none&insecure=0&host=fosae.starriverway-milo.sbs&type=ws&allowInsecure=0&sni=fosae.starriverway-milo.sbs#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@162.159.38.119:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@162.159.38.119:443?path=/udfyfws&security=tls&encryption=none&host=octopusss5.info&fp=chrome&type=ws&sni=octopusss5.info#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@162.159.38.119:443?path=/udfyfws&security=tls&encryption=none&insecure=1&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=1&sni=octopusss5.info#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
