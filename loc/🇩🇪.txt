@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@1.tls.fastly.veraspeed.ir:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@1.tls.fastly.veraspeed.ir:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@199.232.22.39:443?encryption=none&fp=chrome&host=pan1.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&sni=ssl.fastly.com&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://4929dc84-f556-4c7b-8b9b-f4334f7c9651@dew.fizikade.ir:8443?security=reality&encryption=none&pbk=gF7mKQt3aUtiB3yx1BLwa6umUOcMxS8tEgqZuQKdujI&headerType=none&fp=firefox&spx=%2Fnaranv2ray&type=tcp&sni=play.google.com&sid=11674a5b3d58ee6b#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://5fbee2a0-7ca4-46a8-aac7-9f26a1f2cb3c@81.31.211.110:2085?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://a77cedab-f429-40bb-b6d4-fd9dd681e675@45.146.131.110:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=firefox&pbk=oZTV3mNyn9tWeA_cTVonIidR6boRj5K9Wo8c1uQtZhk&sid=473acf&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.112:2085?security=&encryption=none&type=grpc&serviceName=vless#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
