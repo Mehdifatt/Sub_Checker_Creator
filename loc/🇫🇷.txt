@@ -3,6 +3,8 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@195.154.29.29:1080#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.123.79:22222?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.123.79:22223?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.123.79:22224?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=%2Fsea&security=tls&encryption=none&insecure=1&host=deicl.redstone-vex.sbs&type=ws&allowInsecure=1&sni=deicl.redstone-vex.sbs#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speedtest.net&fp=chrome&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&sid=42b395462da31c0e&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://df4bda66-59d7-4b79-abd0-0e4ee14d7c70@188.130.207.217:443?encryption=none&security=none&type=ws&host=play.google.com&path=%2Fws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=/sea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7

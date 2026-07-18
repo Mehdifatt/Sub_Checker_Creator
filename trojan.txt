@@ -2,14 +2,21 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+trojan://257d8622-6701-4c98-a432-67a9696f58ae@172.67.218.196:443?path=%2FNovan-ID9&security=tls&insecure=0&host=shazira.app&type=ws&allowInsecure=0&sni=shazira.app#Blindvpn%3A%3A%E2%9D%93
 trojan://CF68213490@in-oriole.rooster465.autos:443?sni=in-oriole.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://CF68213490@eternal-woodcock.rooster465.autos:443?sni=eternal-woodcock.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://CF68213490@moved-bluegill.rooster465.autos:443?sni=moved-bluegill.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://CF68213490@nearby-egret.rooster465.autos:443?sni=nearby-egret.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://CF68213490@sacred-shepherd.rooster465.autos:443?sni=sacred-shepherd.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://CF68213490@sincere-crappie.rooster465.autos:443?sni=sincere-crappie.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://CF68213490@skilled-lioness.rooster465.autos:443?sni=skilled-lioness.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://CF68213490@star-cheetah.rooster465.autos:443?sni=star-cheetah.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://CF68213490@steady-prawn.rooster465.autos:443?sni=steady-prawn.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://CF68213490@thankful-mustang.rooster465.autos:443?sni=thankful-mustang.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://CF68213490@united-molly.rooster465.autos:443?sni=united-molly.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://MiTiVPN@151.101.1.194:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsws-s&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://CF68213490@thankful-mustang.rooster465.autos:443?sni=thankful-mustang.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsws-s&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://NQ26071394@engaging-elephant.rooster465.autos:443?allowInsecure=0&sni=engaging-elephant.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://NQ26071394@adapting-spider.rooster465.autos:443?allowInsecure=0&sni=adapting-spider.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://NQ26071394@kind-unicorn.rooster465.autos:443?allowInsecure=0&sni=kind-unicorn.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://NQ26071394@sensible-mongrel.rooster465.autos:443?allowInsecure=0&sni=sensible-mongrel.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://NQ26071394@sharing-porpoise.rooster465.autos:443?allowInsecure=0&sni=sharing-porpoise.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
