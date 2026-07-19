@@ -2,10 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@main.oneoker.com:443?encryption=none&security=reality&sni=main.oneoker.com&fp=chrome&pbk=yiX2T6z3GavNIgnnxsoU57vgq2pdfngXAU83vhBDQlA&sid=a9b0c08836bad3c5&type=grpc&authority=&serviceName=api.v1.StreamService&mode=gun#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@main.oneoker.com:443?encryption=none&security=reality&sni=main.oneoker.com&fp=firefox&pbk=yiX2T6z3GavNIgnnxsoU57vgq2pdfngXAU83vhBDQlA&sid=a9b0c08836bad3c5&type=grpc&authority=&serviceName=api.v1.StreamService&mode=gun#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@main.oneoker.com:443?mode=gun&security=reality&encryption=none&pbk=yiX2T6z3GavNIgnnxsoU57vgq2pdfngXAU83vhBDQlA&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=main.oneoker.com&sid=a9b0c08836bad3c5#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=/hdgrbws&security=tls&encryption=none&insecure=1&host=terazhediii.info&type=ws&allowInsecure=1&sni=terazhediii.info#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?encryption=none&security=tls&sni=terazhediii.info&insecure=0&allowInsecure=0&type=ws&host=terazhediii.info&path=/hdgrbws#Blindvpn%3A%3A%F0%9F%87%AC%F0%9F%87%A7
