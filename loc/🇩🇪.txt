@@ -3,8 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&security=reality&sid=45ba18f429ad1f28&sni=web.max.ru&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.225.132:22222?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.225.132:22224?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?&security=tls&fp=chrome&sni=fosae.starriverway-milo.sbs&type=ws&headerType=none&host=fosae.starriverway-milo.sbs&path=/sea#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://91391b3b-1b13-4e3a-b261-a615a6db6398@162.159.38.119:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/-----MxGriD-----&security=tls&encryption=none&insecure=0&host=telegram.mxgrid.xyz&type=ws&allowInsecure=0&sni=telegram.mxgrid.xyz#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://319c1270-87da-4fa4-ac4f-e2d5c0353fdc@206.189.49.128:37779?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://91391b3b-1b13-4e3a-b261-a615a6db6398@162.159.38.119:443?path=/-----MxGriD-----&security=tls&encryption=none&insecure=0&host=telegram.mxgrid.xyz&type=ws&allowInsecure=0&sni=telegram.mxgrid.xyz#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
