@@ -2,5 +2,16 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=gioub.moonleafbox-kilo.info&fp=chrome&type=ws&allowInsecure=0&sni=gioub.moonleafbox-kilo.info#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=/sea&security=tls&encryption=none&insecure=0&host=gioub.moonleafbox-kilo.info&fp=chrome&type=ws&allowInsecure=0&sni=gioub.moonleafbox-kilo.info#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.109:443?host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none&insecure=0&allowInsecure=0&type=ws&security=tls&path=%2Fodiyfws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.157:443?host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none&insecure=0&allowInsecure=0&type=ws&security=tls&path=%2Fodiyfws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.36:443?host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none&insecure=0&allowInsecure=0&type=ws&security=tls&path=%2Fodiyfws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.59:443?encryption=none&type=ws&security=tls&path=%2Fodiyfws&host=octopusss.net&sni=octopusss.net&fp=chrome&insecure=0&allowInsecure=0#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.59:443?host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none&insecure=0&allowInsecure=0&type=ws&security=tls&path=%2Fodiyfws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.72:443?host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none&insecure=0&allowInsecure=0&type=ws&security=tls&path=%2Fodiyfws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?security=reality&encryption=none&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=9a4c7d2f8e1b6a3c#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.114.69:22222?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.114.69:22223?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.124.12:22222?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.124.12:22223?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.124.12:22224?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&host=octopusss.net&type=ws&sni=octopusss.net#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7

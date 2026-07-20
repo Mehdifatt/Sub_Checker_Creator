@@ -2,14 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://317e36f9-02d2-47aa-a666-ba5ec1302e2f@pnl1.horlutr.ir:28193?mode=gun&security=reality&encryption=none&authority=play.google.com&pbk=XW53yYaevp21yOZsWMV_mVg58iYCNp91sYndl95qnmI&fp=chrome&type=grpc&sni=play.google.com&sid=7de83d0e31eb75ef#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://2820c3fd-dccc-4a51-bb74-f7d6c453ee71@moji1.best-cloud.ir:8880?path=%2F&security=&encryption=none&host=play.google.com&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?encryption=none&security=reality&sni=stream.noneok.com&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&sid=c18304806fa688bd&type=grpc&authority=&serviceName=api.v1.StreamService&mode=gun#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=fosae.starriverway-milo.sbs&type=ws&allowInsecure=0&sni=fosae.starriverway-milo.sbs#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality&encryption=none&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=4.oncloudnineservicestreang.com&sid=04bc695105689674#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://8673cea6-211f-45cf-88e7-09d61a98e33f@stream.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=0DwrY31Tr1wowEKo8Q2dSUYHuwBPhQ2OGWlcpBOVrks&type=grpc&serviceName=api.v1.StreamService&sni=stream.noneok.com&sid=c18304806fa688bd#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.edge-9d7c.com&sid=9d84de9d9f7b85e9#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.21.222:22222?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@199.232.222.178:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.21.222:22223?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.21.222:22224?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.21.222:22224?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=fosae.starriverway-milo.sbs&type=ws&allowInsecure=0&sni=fosae.starriverway-milo.sbs#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
