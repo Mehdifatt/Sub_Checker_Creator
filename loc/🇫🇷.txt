@@ -2,16 +2,15 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.109:443?host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none&insecure=0&allowInsecure=0&type=ws&security=tls&path=%2Fodiyfws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.157:443?host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none&insecure=0&allowInsecure=0&type=ws&security=tls&path=%2Fodiyfws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.36:443?host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none&insecure=0&allowInsecure=0&type=ws&security=tls&path=%2Fodiyfws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.59:443?encryption=none&type=ws&security=tls&path=%2Fodiyfws&host=octopusss.net&sni=octopusss.net&fp=chrome&insecure=0&allowInsecure=0#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.59:443?host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none&insecure=0&allowInsecure=0&type=ws&security=tls&path=%2Fodiyfws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.72:443?host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none&insecure=0&allowInsecure=0&type=ws&security=tls&path=%2Fodiyfws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://0b8dfc50-9e2d-4b3c-85cd-870b478312a0@45.192.2.115:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=f34818a561dfd1fe#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://351c2f9d-4ee4-4316-bd23-dd1fe506bb4a@57.131.128.163:8443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?security=reality&encryption=none&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=9a4c7d2f8e1b6a3c#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.114.69:22222?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=gioub.moonleafbox-kilo.info&fp=chrome&type=ws&allowInsecure=0&sni=gioub.moonleafbox-kilo.info#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.114.69:22223?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.124.12:22222?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.124.12:22223?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.124.12:22224?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&host=octopusss.net&type=ws&sni=octopusss.net#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=/sea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=/sea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=/sea&security=tls&encryption=none&insecure=0&host=gioub.moonleafbox-kilo.info&fp=chrome&type=ws&allowInsecure=0&sni=gioub.moonleafbox-kilo.info#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
