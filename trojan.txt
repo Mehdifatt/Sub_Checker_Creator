@@ -2,13 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://KV63147582@89.39.70.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=game-firefly.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://IQ68037294@immune-earwig.rooster465.autos:443?fp=chrome#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://NQ26071394@3.255.155.50:443?fp=chrome&sni=tops-marlin.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://NQ26071394@34.242.69.173:443?fp=chrome&sni=fun-labrador.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://NQ26071394@34.249.41.208:443?fp=chrome&sni=correct-starfish.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AE%F0%9F%87%AA
+trojan://MiTiVPN@104.19.32.111:443?type=ws&security=tls&path=---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN%3Dsw&host=sw---MiTiVPN---MiTiVPN--o.aPp-cLoud.IR&sni=swo---MiTiVPN---MiTiVPN-ao.aPp-cLoud.IR&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://MiTiVPN@172.66.45.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN%3Dnl&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=j---MiTiVPN---MiTiVPN-o.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=u---MiTiVPN---MiTiVPNj.aPp-cLoud.IR#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@104.18.152.229:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://NQ26071394@89.39.70.143:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=thorough-falcon.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://PD07395842@optimum-bull.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://humanity@104.18.152.219:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Blindvpn%3A%3A%E2%9D%93
