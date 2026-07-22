@@ -3,5 +3,17 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#Blindvpn%3A%3A%E2%9D%93
+trojan://CF68213490@34.217.29.0:443?fp=chrome&sni=balanced-puma.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://CF68213490@44.251.239.102:443?fp=chrome&sni=polite-coyote.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://MITIVPN@104.16.72.50:443?path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN%3Dwinusa&security=tls&alpn=http%2F1.1&insecure=0&host=winusa-mitivpn-----mitivpn.app-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=win-mitivpn-----mitivpn.app-Cloud.ir#Blindvpn%3A%3A%E2%9D%93
+trojan://IQ68037294@cheerful-swan.rooster465.autos:443?fp=chrome#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://JA96378052@working-raccoon.rooster465.autos:443?allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://IQ68037294@giving-bird.rooster465.autos:443?allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://KV63147582@62.112.222.46:443?fp=chrome&sni=legible-possum.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://NQ26071394@44.243.31.46:443?fp=chrome&sni=sharing-porpoise.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://NQ26071394@63.178.193.196:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=quiet-condor.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://NQ26071394@89.39.70.85:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grateful-bedbug.rooster465.autos#Blindvpn%3A%3A%E2%9D%93
+trojan://NQ26071394@ready-lion.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Blindvpn%3A%3A%E2%9D%93
+trojan://OD90375861@3.67.171.41:443?type=tcp&security=tls&headerType=none&sni=busy-hermit.rooster465.autos&insecure=0&allowInsecure=0#Blindvpn%3A%3A%E2%9D%93
+trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1

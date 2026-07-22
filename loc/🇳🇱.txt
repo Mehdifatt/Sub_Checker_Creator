@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://52720aa1-a75b-4f72-9af4-d7237c197f3e@login.netraidly.ru:40443?security=reality&encryption=none&pbk=Sw4tAz5d-rLhaSFsEDDxlgwJbK4NMQUFDHF_oyRwUWE&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=cd5c#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://78ef1314-af41-824e-450d-30a64013a5af@x4g-production-8fad.up.railway.app:443?encryption=none&type=ws&host=x4g-production-8fad.up.railway.app&path=/ws/78ef1314-af41-824e-450d-30a64013a5af&security=tls&fp=ios&sni=x4g-production-8fad.up.railway.app&alpn=http/1.1#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://e3693df5-32cb-5839-03c2-46111414331b@x4g-production-fd48.up.railway.app:443?encryption=none&type=ws&host=x4g-production-fd48.up.railway.app&path=/ws/e3693df5-32cb-5839-03c2-46111414331b&security=tls&fp=ios&sni=x4g-production-fd48.up.railway.app&alpn=http/1.1#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://IQ68037294@cheerful-swan.rooster465.autos:443?fp=chrome#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://2d4db7ce-1a16-281d-437f-77cea0bac2fa@69.46.46.80:443?path=%2Fws%2F2d4db7ce-1a16-281d-437f-77cea0bac2fa&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-4104.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4104.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.210:448?security=reality&encryption=none&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&headerType=none&type=tcp&sni=www.samsung.com&sid=113241ad01e99a2d#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@31.77.131.97:8444?mode=gun&security=reality&encryption=none&pbk=DYhUefVTZg0ol7QLdgp6hqcZ_TjIt02uoZk8iQz4WHM&fp=qq&type=grpc&serviceName=auragrpc&sni=cloudflare.com&sid=d6b2e9f1a4c8d3f5#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
