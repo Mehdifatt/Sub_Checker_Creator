@@ -3,4 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?mode=gun&security=reality&encryption=none&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&type=grpc&serviceName=grpc&sni=speed.cloudflare.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://52720aa1-a75b-4f72-9af4-d7237c197f3e@login.netraidly.ru:40443?security=reality&encryption=none&pbk=Sw4tAz5d-rLhaSFsEDDxlgwJbK4NMQUFDHF_oyRwUWE&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=cd5c#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://78ef1314-af41-824e-450d-30a64013a5af@x4g-production-8fad.up.railway.app:443?encryption=none&type=ws&host=x4g-production-8fad.up.railway.app&path=/ws/78ef1314-af41-824e-450d-30a64013a5af&security=tls&fp=ios&sni=x4g-production-8fad.up.railway.app&alpn=http/1.1#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://e3693df5-32cb-5839-03c2-46111414331b@x4g-production-fd48.up.railway.app:443?encryption=none&type=ws&host=x4g-production-fd48.up.railway.app&path=/ws/e3693df5-32cb-5839-03c2-46111414331b&security=tls&fp=ios&sni=x4g-production-fd48.up.railway.app&alpn=http/1.1#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
