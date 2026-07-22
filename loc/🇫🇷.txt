@@ -2,12 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://IQ68037294@correct-pony.rooster465.autos:443?allowInsecure=1&sni=correct-pony.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://0b8dfc50-9e2d-4b3c-85cd-870b478312a0@45.192.2.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.net&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?security=reality&encryption=none&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=9a4c7d2f8e1b6a3c#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?encryption=none&fp=chrome&host=deicl.redstone-vex.sbs&path=%2Fsea&security=tls&sni=deicl.redstone-vex.sbs&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&type=ws&allowInsecure=0&sni=bab-6.site#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&host=octopusss.net&type=ws&sni=octopusss.net#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=/sea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=/sea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
