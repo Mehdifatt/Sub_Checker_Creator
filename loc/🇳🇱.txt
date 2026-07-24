@@ -2,7 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://4206a00d-e790-8566-ef63-c20f8eaeed36@69.46.46.6:443?path=%2Fws%2F4206a00d-e790-8566-ef63-c20f8eaeed36&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-4973.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4973.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://52720aa1-a75b-4f72-9af4-d7237c197f3e@77.233.214.31:40443?security=reality&alpn=networld_vpn-channel%2540.networld_vpn-channel%2540.networld_vpn-channel%2540.networld_vpn-channel%2540.networld_vpn-channel%2540.networld_vpn-channel%2540.networld_vpn-&encryption=none&pbk=Sw4tAz5d-rLhaSFsEDDxlgwJbK4NMQUFDHF_oyRwUWE&headerType=&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=cd5c#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://52720aa1-a75b-4f72-9af4-d7237c197f3e@login.netraidly.ru:40443?security=reality&encryption=none&pbk=Sw4tAz5d-rLhaSFsEDDxlgwJbK4NMQUFDHF_oyRwUWE&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=cd5c#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://7ff2bfab-a513-9348-bb77-23931a1e58b3@69.46.46.5:443?path=%2Fws%2F7ff2bfab-a513-9348-bb77-23931a1e58b3&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-7fd2.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-7fd2.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://7ff2bfab-a513-9348-bb77-23931a1e58b3@x4g-production-7fd2.up.railway.app:443?path=%2Fws%2F7ff2bfab-a513-9348-bb77-23931a1e58b3&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-7fd2.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-7fd2.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://8bba3194-4856-46d1-8319-075817d87eb1@147.45.50.132:443?security=reality&encryption=none&pbk=oGgupP3uX0TNyFwuxNYaFj-IQ8EPhCuKfJdaOHiMnV0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl16.sodahub.online&sid=c334408a1056aaf8#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=%2Fvless%2F&security=none&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
