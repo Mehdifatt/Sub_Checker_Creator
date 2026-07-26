@@ -2,7 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://0a46ce1e-fee9-4d56-b75d-2ad9adfe4a60@172.64.155.209:8443?path=%2F&security=tls&encryption=none&insecure=0&host=hitech.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=hitech.dearhossein-taktaz.ir#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://0a46ce1e-fee9-4d56-b75d-2ad9adfe4a60@104.18.155.141:8443?path=%2F&security=tls&encryption=none&insecure=0&host=hitech.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=hitech.dearhossein-taktaz.ir#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://0a46ce1e-fee9-4d56-b75d-2ad9adfe4a60@172.67.225.147:8443?path=%2F&security=tls&encryption=none&insecure=0&host=hitech.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=hitech.dearhossein-taktaz.ir#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=RWE5ORdQ2SzuFWX8DlaRP415wbhee9ynJkqC7yFPgQw&security=reality&sid=d13ddfca12760d03&sni=speedtest.net&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=%2Fsea&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=xqexv.greenwolf-ili.sbs&fp=chrome&type=ws&allowInsecure=0&sni=xqexv.greenwolf-ili.sbs#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?security=reality&encryption=none&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5.oncloudnineservicestreang.com&sid=273940fba6ad8250#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality&encryption=none&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=4.oncloudnineservicestreang.com&sid=04bc695105689674#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
