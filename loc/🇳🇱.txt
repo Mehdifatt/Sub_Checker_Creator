@@ -2,23 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:443#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://IQ68037294@193.169.239.162:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=distinct-ibex.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://IQ68037294@89.39.70.49:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=eager-louse.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.gossipglove.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.gossipglove.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://28926c34-865c-447e-8d42-a17240af743b@91.124.209.138:2086?path=%2F&security=none&encryption=none&host=cdn-cloudflare91.korvexe.ir&type=ws#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://28926c34-865c-447e-8d42-a17240af743b@91.124.209.138:2095?path=%2F&security=none&encryption=none&host=cdn-cloudflare91.korvexe.ir&type=ws#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://28926c34-865c-447e-8d42-a17240af743b@91panel-axiora-vpn.korvexe.ir:14368?path=%2F&security=tls&encryption=none&insecure=0&host=cdn-xui911.korvexe.ir&fp=chrome&type=ws&allowInsecure=0&sni=91panel-axiora-vpn.korvexe.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://28926c34-865c-447e-8d42-a17240af743b@91.124.209.138:8880?path=%2F&security=none&encryption=none&host=cdn-cloudflare91.korvexe.ir&type=ws#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://28926c34-865c-447e-8d42-a17240af743b@91panel-axiora-vpn.korvexe.ir:52225?path=%2F&security=tls&encryption=none&insecure=0&host=cdn-xui911.korvexe.ir&fp=chrome&type=ws&allowInsecure=0&sni=91panel-axiora-vpn.korvexe.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://28926c34-865c-447e-8d42-a17240af743b@91panel-axiora-vpn.korvexe.ir:57820?path=%2F&security=tls&encryption=none&insecure=0&host=cdn-xui911.korvexe.ir&fp=chrome&type=ws&allowInsecure=0&sni=91panel-axiora-vpn.korvexe.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://NQ26071394@89.39.70.85:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grateful-bedbug.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.205.216:444?encryption=none&security=reality&sni=web.max.ru&fp=chrome&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&sid=8321461729abcdef&type=grpc&authority=&serviceName=web.max.ru&mode=gun#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@31.77.131.97:8444?mode=gun&security=reality&encryption=none&pbk=DYhUefVTZg0ol7QLdgp6hqcZ_TjIt02uoZk8iQz4WHM&fp=qq&type=grpc&serviceName=auragrpc&sni=cloudflare.com&sid=d6b2e9f1a4c8d3f5#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
