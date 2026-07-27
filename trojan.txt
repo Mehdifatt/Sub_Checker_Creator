@@ -2,7 +2,16 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://IQ68037294@193.169.239.162:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=distinct-ibex.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://NQ26071394@35.181.65.111:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ready-kangaroo.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://XG59623478@89.39.70.159:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=upward-hedgehog.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://IQ68037294@193.169.239.162:443?fp=chrome&sni=distinct-ibex.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://IQ68037294@35.180.10.212:443?sni=firm-warthog.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://IQ68037294@89.39.70.49:443?sni=eager-louse.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://MiTiVPN@45.130.125.0:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fsw&security=tls&alpn=http%2F1.1&insecure=1&host=swss-mitivpn--MiTiVPN---MiTiVPN--o.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=swsjh--MiTiVPN---MiTiVPN-ao.aPp-cLoud.IR#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://MiTiVPN@66.81.247.155:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ffl&security=tls&alpn=http%2F1.1&insecure=1&host=ni--mitivpn-MiTiVPN---MiTiVPN-s-.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=ib-bbg--MiTiVPN---MiTiVPN-u.aPp-cLoud.IR#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://ON38567014@13.39.249.40:443?fp=chrome&sni=one-quail.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://PD07395842@13.39.127.43:443?fp=chrome&sni=united-bedbug.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://PD07395842@united-bedbug.rooster465.autos:443?fp=chrome#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://UZ15382649@15.188.75.92:443?sni=moral-dolphin.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://XG59623478@193.169.239.76:443?fp=chrome&sni=renewed-chigger.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#Blindvpn%3A%3A%E2%9D%93
