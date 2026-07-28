@@ -2,10 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.205.216:444?mode=gun&security=reality&encryption=none&authority=&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&fp=chrome&type=grpc&serviceName=web.max.ru&sni=web.max.ru&sid=8321461729abcdef#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.205.216:444?mode=gun&security=reality&encryption=none&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&fp=chrome&type=grpc&serviceName=web.max.ru&sni=web.max.ru&sid=8321461729abcdef#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://17e6cfe8-1ce6-4157-a454-e4c43783713b@31.56.222.208:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://3820aab5-ffaf-43b7-8741-af720c6690a4@31.76.252.48:443?encryption=none&security=tls&sni=31-76-252-48.sslip.io&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=31-76-252-48.sslip.io&path=%2Fyt#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://3820aab5-ffaf-43b7-8741-af720c6690a4@31.76.252.48:443?path=%2Fyt&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=31-76-252-48.sslip.io&fp=chrome&type=ws&allowInsecure=0&sni=31-76-252-48.sslip.io#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
