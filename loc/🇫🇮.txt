@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://5e243126-4a2a-84b6-782a-73b14797fb5f@89.47.55.3:8443?mode=gun&security=reality&encryption=none&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.google.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://45025b77-65a7-4b75-a1e5-7736832f4f92@fi.spicybot.shop:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fi.spicybot.shop#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://d8fc0b13-47c7-4c0c-95dc-ebc84c97afc3@r.telewebion.ir.varzesh3.com.de:443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&host=yahoo.com&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e915#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
