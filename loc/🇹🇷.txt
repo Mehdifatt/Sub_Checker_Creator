@@ -1,8 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#Blindvpn%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://9c32f85f-6e9c-429f-b7dc-3eeb8901259e@87.120.106.226:14610?security=&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://9c32f85f-6e9c-429f-b7dc-3eeb8901259e@87.120.106.226:14610?encryption=none&security=none&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://a6d7e54f-3600-4f9d-bac0-a421f4360d2e@tr2.fastcodz.ir:52077?encryption=none&type=grpc&security=reality&mode=gun&sni=yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=9TjYilelwbIgUs6du2chsTvUyv_TemHoAJuVbsdYRUY&sid=c1fcab160b4c8bed#Blindvpn%3A%3A%F0%9F%87%B9%F0%9F%87%B7
