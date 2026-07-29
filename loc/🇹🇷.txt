@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@91.124.63.229:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=rNBFVzV18kAj_ei4AqsgZywzmvD36WK9hcRdVnpHPAM&security=reality&sid=c0573c8280a0c019&sni=www.ya.ru&type=tcp#Blindvpn%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#Blindvpn%3A%3A%F0%9F%87%B9%F0%9F%87%B7
