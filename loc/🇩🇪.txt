@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=de.catxstar.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?security=reality&encryption=none&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=2.oncloudnineservicestreang.com&sid=d8d3dc6c3ca45dd4#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://957797d5-1710-4e4a-bf41-9f5b641503e3@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://d8b42cd5-a149-4356-9e61-000000000000@194.242.129.183:2550?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://d8b42cd5-a149-4356-9e61-000000000000@194.242.129.183:2550?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
