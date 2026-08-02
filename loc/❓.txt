@@ -2,26 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#Blindvpn%3A%3A%E2%9D%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#Blindvpn%3A%3A%E2%9D%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@Vpna.Poorifast.ir:1080#Blindvpn%3A%3A%E2%9D%93
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#Blindvpn%3A%3A%E2%9D%93
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=de.catxstar.com#Blindvpn%3A%3A%E2%9D%93
-vless://0481cdac-8ccc-4694-b4c8-74a1b01a16c9@104.16.174.106:2096?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=slips.stepson.ir&allowInsecure=0&sni=slips.stepson.ir#Blindvpn%3A%3A%E2%9D%93
-vless://0481cdac-8ccc-4694-b4c8-74a1b01a16c9@104.16.174.120:2096?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=slips.stepson.ir&allowInsecure=0&sni=slips.stepson.ir#Blindvpn%3A%3A%E2%9D%93
-vless://0481cdac-8ccc-4694-b4c8-74a1b01a16c9@104.16.174.134:2096?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=slips.stepson.ir&allowInsecure=0&sni=slips.stepson.ir#Blindvpn%3A%3A%E2%9D%93
-vless://0481cdac-8ccc-4694-b4c8-74a1b01a16c9@104.16.174.135:2096?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=slips.stepson.ir&allowInsecure=0&sni=slips.stepson.ir#Blindvpn%3A%3A%E2%9D%93
-vless://0481cdac-8ccc-4694-b4c8-74a1b01a16c9@104.16.174.151:2096?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=slips.stepson.ir&allowInsecure=0&sni=slips.stepson.ir#Blindvpn%3A%3A%E2%9D%93
-vless://0481cdac-8ccc-4694-b4c8-74a1b01a16c9@104.16.174.154:2096?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=slips.stepson.ir&allowInsecure=0&sni=slips.stepson.ir#Blindvpn%3A%3A%E2%9D%93
-vless://0481cdac-8ccc-4694-b4c8-74a1b01a16c9@104.16.174.64:2096?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=slips.stepson.ir&allowInsecure=0&sni=slips.stepson.ir#Blindvpn%3A%3A%E2%9D%93
-vless://0481cdac-8ccc-4694-b4c8-74a1b01a16c9@104.16.174.65:2096?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=slips.stepson.ir&allowInsecure=0&sni=slips.stepson.ir#Blindvpn%3A%3A%E2%9D%93
-vless://0481cdac-8ccc-4694-b4c8-74a1b01a16c9@104.16.174.75:2096?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=slips.stepson.ir&allowInsecure=0&sni=slips.stepson.ir#Blindvpn%3A%3A%E2%9D%93
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=%2F&security=none&encryption=none&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://17d29827-7cf1-4115-b40d-548e10ec355d@billing.netraidly.ru:40443?security=reality&encryption=none&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=aa3c#Blindvpn%3A%3A%E2%9D%93
-vless://17d29827-7cf1-4115-b40d-548e10ec355d@ua1.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=aa3c#Blindvpn%3A%3A%E2%9D%93
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@nl1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#Blindvpn%3A%3A%E2%9D%93
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&security=none&encryption=none&type=grpc#Blindvpn%3A%3A%E2%9D%93
-vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#Blindvpn%3A%3A%E2%9D%93
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#Blindvpn%3A%3A%E2%9D%93
-vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%E2%9D%93
-vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&serviceName=grpc&fp=chrome&security=tls#Blindvpn%3A%3A%E2%9D%93
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.146.50:8880?type=ws&host=vms.lifetime36.workers.dev&path=/?ed=2560#Blindvpn%3A%3A%E2%9D%93
