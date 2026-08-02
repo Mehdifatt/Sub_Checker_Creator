@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://f4bc9240-d5bf-40bf-8de4-69ec2dbe3420@157.22.133.9:444?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%BF
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#Blindvpn%3A%3A%F0%9F%87%A7%F0%9F%87%AA
