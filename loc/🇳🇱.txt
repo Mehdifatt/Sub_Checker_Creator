@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.144:443?pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sni=getsavesafe.net&security=reality&type=tcp&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&headerType=none&encryption=none#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?security=tls&encryption=none&headerType=none&fp=firefox&type=tcp&sni=ddc-chr.astralweb.tech#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://4c65365a-bd7d-42a3-8334-515323101465@89.125.61.37:16966?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@213.176.67.31:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node4.mxvpn.dev&sid=bbc68cec8bb8d2e3#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
