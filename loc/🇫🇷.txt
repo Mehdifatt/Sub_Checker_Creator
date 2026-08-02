@@ -2,8 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=%2Fall&security=tls&alpn=h2&encryption=none&insecure=0&host=ncrem.sunrocketbox-fla.sbs&type=ws&allowInsecure=0&sni=ncrem.sunrocketbox-fla.sbs#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&sni=deepl.com&encryption=none&type=tcp&headerType=none&security=reality&sid=aae8#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@172.64.155.209:2053?path=%2FJ5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.64.110:22222?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&host=octopusss.net&type=ws&sni=octopusss.net#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7

@@ -3,13 +3,9 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQm5WMzZ0enQ3TUtWNzVhRFpUYnpH@141.227.152.129:8388#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://1ee6dbe4-b7bd-47bd-b6e5-23deb076f95b@45.131.212.22:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?security=tls&encryption=none&headerType=none&fp=firefox&type=tcp&sni=ddc-chr.astralweb.tech#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@nl1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@213.176.67.31:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node4.mxvpn.dev&sid=bbc68cec8bb8d2e3#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.210:448?security=reality&encryption=none&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&headerType=none&type=tcp&sni=www.samsung.com&sid=113241ad01e99a2d#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://88652810-6723-4087-bc65-e7c65cb4fc90@95.85.228.84:31845?security=reality&encryption=none&pbk=QRfBKijY94gn30sQWyklYIr4UyEXpoqakbN7fY1R_DQ&headerType=&fp=firefox&spx=%2F8922284b8b00441&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=4a1f967b1da8#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://88652810-6723-4087-bc65-e7c65cb4fc90@95.85.228.84:31845?security=reality&encryption=none&pbk=QRfBKijY94gn30sQWyklYIr4UyEXpoqakbN7fY1R_DQ&headerType=none&fp=firefox&spx=%2F8922284b8b00441&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=4a1f967b1da8#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
