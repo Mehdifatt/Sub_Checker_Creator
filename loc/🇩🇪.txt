@@ -2,8 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=de.catxstar.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://48238958-a7bd-4d23-92da-25d2e92440fb@sub2.nkrmuna.ir:443?encryption=none&fp=chrome&pbk=HuZ8Buv1h_WT1iMRRtOyfd095lvamFzgVdT8chje7jg&security=reality&sid=c9&sni=yahoo.com&spx=%2FounnZtNt9vXomEs&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality&encryption=none&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=4.oncloudnineservicestreang.com&sid=04bc695105689674#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality&encryption=none&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=4.oncloudnineservicestreang.com&sid=04bc695105689674#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vmess://eyJhZGQiOiJzdWIyLm5rcm11bmEuaXIiLCJpZCI6IjQ4MjM4OTU4LWE3YmQtNGQyMy05MmRhLTI1ZDJlOTI0NDBmYiIsIm5ldCI6InRjcCIsInBvcnQiOjIwOTgsInBzIjoiQmxpbmR2cG46OvCfh6nwn4eqIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
