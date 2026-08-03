@@ -2,6 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@nl1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@213.176.67.31:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node4.mxvpn.dev&sid=bbc68cec8bb8d2e3#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@19.07-3.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=APXp2igsjxFmGkpb3L98I__FTySIY6saN6skP2y0ank&security=reality&sid=c6d439fd92614ab0&sni=19.07-3.yunus.guru&type=tcp#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?encryption=none&fp=&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc&security=reality&sid=52a6&sni=yahoo.com&type=tcp#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://69a74770-7152-4a27-bef0-2615ca16e1b1@nl4.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=D0AQp0cWaQR55Q-zPwp6__AxN9CoT9neZj0UzlNcLCk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=bd72#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
