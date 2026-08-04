@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://69a74770-7152-4a27-bef0-2615ca16e1b1@77.233.214.116:40443?security=reality&encryption=none&pbk=D0AQp0cWaQR55Q-zPwp6__AxN9CoT9neZj0UzlNcLCk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=bd72#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
