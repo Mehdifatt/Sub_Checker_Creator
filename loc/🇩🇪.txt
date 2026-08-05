@@ -4,4 +4,5 @@
 
 trojan://ND91608427@3.124.187.220:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=rapid-firefly.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://8787dd0a-095a-414e-804f-a7d16a1ae166@193.233.74.89:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de1.hys.braidx.tech#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality&encryption=none&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=4.oncloudnineservicestreang.com&sid=04bc695105689674#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://8787dd0a-095a-414e-804f-a7d16a1ae166@217.154.244.251:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de1.hys.braidx.tech#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
