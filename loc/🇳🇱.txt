@@ -2,4 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://16378da2-d73b-49c6-913a-bc54e556cf9a@marzban-node-production--96peb.up.railway.app:443?path=%2Fvless&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=marzban-node-production--96peb.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=marzban-node-production--96peb.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=%2F&security=none&encryption=none&type=ws#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.215:448?security=reality&encryption=none&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&headerType=none&type=tcp&sni=www.samsung.com&sid=113241ad01e99a2d#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@89.124.124.221:443?security=reality&encryption=none&pbk=APXp2igsjxFmGkpb3L98I__FTySIY6saN6skP2y0ank&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=19.07.yunus.guru&sid=c6d439fd92614ab0#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
