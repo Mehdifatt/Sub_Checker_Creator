@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://5e18094c-18b1-4198-b211-96b40518cecf@107.181.147.22:443?security=reality&encryption=none&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.techradar.com&sid=f6e197a0b9f2#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=grpc&serviceName=TunService&sni=download.nvidia.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
