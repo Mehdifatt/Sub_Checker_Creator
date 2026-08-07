@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://f128bc2c-8018-43a1-8ed7-66eabc8f157c@142.111.244.75:448?security=reality&encryption=none&pbk=r8ljXJO_4yLUonHdkPeWbD9A__XqoudwWAiXx9fbcj8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=39a997621a3598c9#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=%2F&security=none&encryption=none&type=ws#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AA
