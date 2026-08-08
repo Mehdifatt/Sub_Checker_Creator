@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://d92afe21-8e8b-42c7-98c2-8a33da64d28f@39.109.117.110:43646?path=%2Fd92afe21&security=&encryption=none&type=ws#Blindvpn%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://a2f6da81-64bd-4b86-b806-5658e161b7e4@103.227.225.198:32355?encryption=none&security=none&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%B9%F0%9F%87%BC
