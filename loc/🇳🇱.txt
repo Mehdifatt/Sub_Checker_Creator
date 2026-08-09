@@ -2,5 +2,16 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@nl2-akn.astralweb.tech:443?encryption=none&security=tls&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&insecure=1#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:443#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://69a74770-7152-4a27-bef0-2615ca16e1b1@77.233.214.116:40443?security=reality&encryption=none&pbk=D0AQp0cWaQR55Q-zPwp6__AxN9CoT9neZj0UzlNcLCk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=bd72#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://69a74770-7152-4a27-bef0-2615ca16e1b1@77.233.214.116:40443?security=reality&encryption=none&pbk=D0AQp0cWaQR55Q-zPwp6__AxN9CoT9neZj0UzlNcLCk&host=%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=bd72#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://69a74770-7152-4a27-bef0-2615ca16e1b1@nl4.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=D0AQp0cWaQR55Q-zPwp6__AxN9CoT9neZj0UzlNcLCk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=bd72#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://d067adf8-9adc-4854-990d-f779875a855e@cdn-b305c2ba.glomedia-cdn.com:443?security=reality&encryption=none&pbk=OevcHjcNd6P5915hkVd476stUNgpabD_XO9eWtArrls&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=f5f36cfd792b1f65#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://f7c25743-140c-4d32-a296-a53bc49682d8@direct-nl.bachidze.com:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1

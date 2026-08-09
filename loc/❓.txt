@@ -2,16 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#Blindvpn%3A%3A%E2%9D%93
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#Blindvpn%3A%3A%E2%9D%93
-vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?path=%2Fv1&security=&encryption=none&type=ws#Blindvpn%3A%3A%E2%9D%93
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.113:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#Blindvpn%3A%3A%E2%9D%93
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#Blindvpn%3A%3A%E2%9D%93
-vless://408e08b4-4e08-4819-9eb6-0e660ec87530@5.254.14.165:443?encryption=none&type=tcp&security=reality&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=abe4a59b9f2407e3&sni=cdn4-81.yahoo.com&fp=chrome&allowInsecure=1&flow=xtls-rprx-vision#Blindvpn%3A%3A%E2%9D%93
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Blindvpn%3A%3A%E2%9D%93
-vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&encryption=none&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&headerType=none&type=tcp&sni=deepl.com&sid=aae8#Blindvpn%3A%3A%E2%9D%93
-vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#Blindvpn%3A%3A%E2%9D%93
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@109.69.218.164:443?security=reality&encryption=none&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=zealous-vortex.cdn.cachefleet.com#Blindvpn%3A%3A%E2%9D%93
-vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#Blindvpn%3A%3A%E2%9D%93
-vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&serviceName=grpc&fp=chrome&security=tls#Blindvpn%3A%3A%E2%9D%93
-vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@216.227.169.104:443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=bd72&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&encryption=none#Blindvpn%3A%3A%E2%9D%93
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#Blindvpn%3A%3A%E2%9D%93
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.30:8880?encryption=none&host=vms.lifetime36.workers.dev&path=/&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
