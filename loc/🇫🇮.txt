@@ -3,4 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://22448df3-17f8-40a6-9199-babaca108b46@95.85.251.116:59631?mode=gun&security=reality&encryption=none&pbk=bymilcd_vnDoof7qAq4QpFTm-hMeFPZwXPTMFXdasSg&type=grpc&sni=google.com&sid=4b#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vmess://eyJhZGQiOiI2NS4xMDkuMjA4LjIzNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0YWU4MTQxMS05MzM3LTRjYWMtYTYxMi1mNWIxNjUwYzc2MjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODczIiwicHMiOiJCbGluZHZwbjo68J+Hq/Cfh64iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
+vless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@170.168.97.7:443?encryption=none&type=xhttp&security=reality&sni=cdn.steamstatic.com&fp=chrome&pbk=jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo&spx=/HesarWeb&mode=auto#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@170.168.99.4:993?security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
