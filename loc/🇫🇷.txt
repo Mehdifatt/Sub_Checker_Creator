@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://247396b2-12d9-4744-8203-9cd761a1117a@cl.ultrrasound.com:2096?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=frac1.musichubmel.ir&fp=firefox&type=ws&allowInsecure=0&sni=frac1.musichubmel.ir#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.23:443?encryption=none&security=reality&type=tcp&sni=sellflow.org&fp=edge&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
