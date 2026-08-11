@@ -2,4 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+trojan://MITIVPN@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FusAs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=usA-sa-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=ru.federal-usa.com&headerType=none&fp=randomized&type=tcp&allowInsecure=0&sni=ru.federal-usa.com#Blindvpn%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&type=tcp&headerType=&path=&host=ru.federal-usa.com&sni=ru.federal-usa.com&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#Blindvpn%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 trojan://ND91608427@13.36.175.151:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=classic-gator.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
