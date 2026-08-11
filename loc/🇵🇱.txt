@@ -2,10 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-hysteria2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443?sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41&security=tls&fp=chrome&fm=#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@82.26.91.87:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=faster.yandex-apicloud.ru#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://8033102198@144.31.171.233:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.fast-connect-service.site#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://8033102198@95.85.246.104:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl7.fast-connect-service.site&fp=firefox&alpn=http%2F1.1&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://8033102198@95.85.246.104:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl7.fast-connect-service.site#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://8033102198@95.85.253.5:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl4.fast-connect-service.site&fp=firefox&alpn=http%2F1.1&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.118.45:2053?type=ws&security=tls&sni=music1000.melobitmusic1.ir&path=%2F&host=music1000.melobitmusic1.ir#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@frdfd.apppas.ir:2026?encryption=none&security=reality&type=tcp&headerType=none&sni=updates.cdn-apple.com&fp=chrome&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.180.173:2053?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=music1000.melobitmusic1.ir#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
