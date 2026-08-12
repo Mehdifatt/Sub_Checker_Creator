@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-hysteria2://cd74c0a406664a5bc0bac098220a2468@ru1.sferavpn.pro:443?sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#Blindvpn%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://31c2a8e8-0ab2-4f3f-8767-11f3a35d4228@72.56.7.195:2200?path=%2Fv1&security=&encryption=none&host=rzd.ru&type=ws#Blindvpn%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://b3d66abd-ea82-4616-92f0-1dec8d1e4cfc@194.26.229.222:4100?path=%2Fv1&security=&encryption=none&type=ws#Blindvpn%3A%3A%F0%9F%87%B7%F0%9F%87%BA
