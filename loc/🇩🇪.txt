@@ -2,8 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://23bda1f5-da85-4de6-aacb-ce77acb88808@5.75.202.32:7190?security=reality&encryption=none&pbk=mPyGyFIPaIJskk9IhHv9rkv7amf77CYUV0KVeqDsPU8&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=7398e0c72f7d5c0e#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://22j0d00lev7mq0yv@ipaste.4ippi.ru:1935?sni=ipaste.4ippi.ru&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=816ys5fceofhpwft#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://8033102198@144.31.168.91:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de14.fast-connect-service.site#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://8033102198@159.195.40.19:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de7.fast-connect-service.site#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality&encryption=none&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=4.oncloudnineservicestreang.com&sid=04bc695105689674#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://d2042070-c247-4226-a3ac-15337923e00d@154.222.9.166:443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=dc8109baf0f607ea#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
