@@ -4,7 +4,7 @@
 
 trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://ND91608427@13.36.175.151:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=classic-gator.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://ND91608427@classic-gator.rooster465.autos:443?allowInsecure=1&sni=classic-gator.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://ND91608427@13.36.175.151:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=classic-gator.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://ND91608427@classic-gator.rooster465.autos:443?allowInsecure=1&sni=classic-gator.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
