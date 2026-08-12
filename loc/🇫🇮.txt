@@ -3,6 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@188.114.97.8:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=da2.jakkkat.ir&fp=chrome&type=ws&allowInsecure=0&sni=da2.jakkkat.ir#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.226.177:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node15.mxvpn.dev&sid=bbc68cec8bb8d2e3#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://8aeda8e3-dd32-4071-bcbb-f793e646eb13@fin1.panel11.ru:443?security=reality&encryption=none&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fin1.panel11.ru&sid=aaec521b22bbe6cb#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@132.243.223.88:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fin2.freeinternat.com&sid=ff776ff77be48b88#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://885bb65f-65a8-473b-a074-f6ccde529211@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE

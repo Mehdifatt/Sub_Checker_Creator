@@ -2,10 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://5865fb7c-59e0-0b23-9dfe-0c4e76cecb6d@69.46.46.16:443?path=%2Fws%2F5865fb7c-59e0-0b23-9dfe-0c4e76cecb6d&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-6e30.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-6e30.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://7ce71b9a-888a-78c7-b90a-0de3e1abad01@69.46.46.14:443?path=%2Fws%2F7ce71b9a-888a-78c7-b90a-0de3e1abad01&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-9867.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-9867.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&security=reality&sid=ed7b9bdfedb9b8e5&sni=gateway.icloud.com&type=tcp#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://8033102198@85.155.98.40:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl2.fast-connect-service.site#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://e83af88a-a884-48ba-b462-a1edccff15e7@50.7.197.2:8443?path=%2Fapi%2Fconnect&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=apkav-6.bosx.net#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://e9059f6c-40ab-18a8-e138-a1e6fb21eee4@69.46.46.13:443?path=%2Fws%2Fe9059f6c-40ab-18a8-e138-a1e6fb21eee4&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-3862.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-3862.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://fc35d61d-4e1e-8f64-6b50-eb609cf15de5@69.46.46.40:443?path=%2Fws%2Ffc35d61d-4e1e-8f64-6b50-eb609cf15de5&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-f46b.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=x4g-production-f46b.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
