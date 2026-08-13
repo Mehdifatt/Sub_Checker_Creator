@@ -2,17 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://AE62539071@dashing-bedbug.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://AE62539071@moved-bluegill.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://AE62539071@proper-marlin.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://AE62539071@sterling-macaw.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://AE62539071@teaching-gnu.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://AE62539071@up-dinosaur.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://176bc48c-460b-4260-abbd-68fd5ea85270@31.77.152.224:443?security=reality&encryption=none&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gm10.mcqueenconnection.ru&sid=a368b80ef68dd678#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://551955b3-46e9-5129-95c9-e7474c15ed6b@144.31.168.91:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de14.fast-connect-service.site#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://8033102198@144.31.168.91:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de14.fast-connect-service.site#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://8033102198@159.195.40.19:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de7.fast-connect-service.site#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.73.255:22222?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.73.255:22222?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.73.255:22224?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.73.255:22224?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://22j0d00lev7mq0yv@social.klipp.su:443?sni=social.klipp.su&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@45.145.56.163:443?security=reality&encryption=none&pbk=Vci2ab6lM0ezoLBj2LgE-ynvakjbWOqUUSZmk5vcNjE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de2.spectrum.vu&sid=44d44d1c625a13aa#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
