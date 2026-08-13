@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://MiTiVPN@199.232.78.150:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-g%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=s4z-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=qq&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%E2%9D%93
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://AE62539071@present-warthog.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://AE62539071@thorough-falcon.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://QV31589740@51.44.160.58:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=great-krill.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
