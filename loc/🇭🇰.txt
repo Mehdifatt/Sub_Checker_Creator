@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://cccdd3af-efa2-4952-9550-47c752dc6ec8@istanbul.sunburncar.com.tr:8443?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AD%F0%9F%87%B0
