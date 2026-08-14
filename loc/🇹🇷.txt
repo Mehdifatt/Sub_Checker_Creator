@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://5da21ae5-2d09-4c10-81f3-cc8de5c69415@tr3.soundfiy.ir:1824?security=reality&encryption=none&pbk=JIv_D-Lpo1cosiCUgu-qzGSJwOCGciyXSZ8ucNn6aBo&host=token.safebrowsing.apple&headerType=none&fp=firefox&type=tcp&sni=www.icloud.com&sid=8390ee7a5996648b#Blindvpn%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://c06ab4be-e7e4-4f53-a5bb-bb500b58f2a7@38.180.112.246:52315?path=%2F&security=&encryption=none&type=ws#Blindvpn%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52067?security=tls&obfs=salamander&alpn=h3&obfs-password=txwr28j1lntoy0sj&insecure=0&sni=assets.gateway-stream.com#Blindvpn%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://cccdd3af-efa2-4952-9550-47c752dc6ec8@istanbul.sunburncar.com.tr:8443?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%B9%F0%9F%87%B7
