@@ -2,7 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://22f11833-5050-4ae1-9ff3-24649d74fc65@tuun.ashahan.ir:2077?path=%2F&security=tls&encryption=none&insecure=0&host=world.ashahan.ir&fp=qq&type=httpupgrade&allowInsecure=0&sni=world.ashahan.ir#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://37a098ab-8fec-4352-8ee8-294ae5bca68f@193.233.126.82:9443?security=reality&encryption=none&pbk=Te5lrfzw_MytTzQJB92DhWw7fk1qTK3mhzz7Bz41gVc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=0240e83f65a25e#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://2f956d32-8a67-4bc9-8995-e1621ad20ddc@31.76.76.26:443?type=ws&encryption=none&path=%2F&security=none#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://9500cf8b-020a-4a70-906c-e14bb5375875@94.183.254.26:443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://cccf28eb-780a-4587-aca9-a95383308bd7@66.33.22.227:28489?security=reality&alpn=h2%2C%20http%2F1.1&encryption=none&pbk=7W5gD-vPKqMPa75MTKlyiciw_gfT4blOUFlyxleW7Ts&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=is1-ssl.mzstatic.com&sid=5a3ff5a13d#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
