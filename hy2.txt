@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-hysteria2://2a0099ded5baa93c55823af39229c5b1@185-22-155-81.liao.kdns.fr:50160/?sni=185-22-155-81.liao.kdns.fr#Blindvpn%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-hysteria2://b268a3a1-3826-44a3-9ffb-3ac2095300ca@89.169.47.112:443/?sni=game.hambot.ru#Blindvpn%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-hysteria2://cd74c0a406664a5bc0bac098220a2468@ee2.sferavpn.pro:443/?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ee2.sferavpn.pro#Blindvpn%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+hysteria2://d86efa900c2f4bb6bde662f1ef6413b8@assets.gateway-stream.com:52029?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=v8h63irhnay97090#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE

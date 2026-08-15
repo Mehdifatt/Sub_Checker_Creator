@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://b6c29ae7-4748-4049-b642-b695c0d2c776@159.194.226.13:8443?encryption=none&fp=&mode=stream-one&path=%2F&pbk=167UuK8Oaxr23FtoB2a2UbzMRrdRyoHv8JeiIbt3yH4&security=reality&sni=ya.ru&type=xhttp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@fin1.panel11.ru:443?security=reality&encryption=none&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fin1.panel11.ru&sid=aaec521b22bbe6cb#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+hysteria2://d86efa900c2f4bb6bde662f1ef6413b8@assets.gateway-stream.com:52029?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=v8h63irhnay97090#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@212.237.216.46:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=fastcdn.intercom-home.online&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
