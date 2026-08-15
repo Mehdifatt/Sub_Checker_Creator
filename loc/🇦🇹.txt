@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://daa34529-5219-4323-d26a-2c395b25a56d@185.126.236.181:2052?encryption=none&security=none&type=ws&host=www.icloud.com&path=%2F#Blindvpn%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://daa34529-5219-4323-d26a-2c395b25a56d@185.126.236.181:2052?path=%2F&security=none&encryption=none&host=www.icloud.com&type=ws#Blindvpn%3A%3A%F0%9F%87%A6%F0%9F%87%B9
