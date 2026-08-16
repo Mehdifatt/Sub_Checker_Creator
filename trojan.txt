@@ -2,13 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://FH72359861@3.120.138.119:443?sni=up-dinosaur.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://FH72359861@3.120.70.66:443?sni=renewed-porpoise.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://FH72359861@champion-panther.rooster465.autos:443?allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://FH72359861@helping-shark.rooster465.autos:443?allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://FH72359861@complete-narwhal.rooster465.autos:443?allowInsecure=1&sni=complete-narwhal.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://FH72359861@many-pangolin.rooster465.autos:443?allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://FH72359861@one-dove.rooster465.autos:443?allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://FH72359861@worthy-perch.rooster465.autos:443?allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://HC04361579@enough-lamb.rooster465.autos:443?sni=enough-lamb.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://HC04361579@star-shrimp.rooster465.autos:443?allowInsecure=1&sni=star-shrimp.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://FH72359861@63.176.171.181:443?allowInsecure=1&insecure=1&security=tls&sni=engaging-toucan.rooster465.autos&type=tcp&headerType=none#Blindvpn%3A%3A%E2%9D%93
+trojan://FH72359861@15.237.112.48:443?allowInsecure=1&sni=smiling-fowl.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://AE62539071@15.237.214.103:443?allowInsecure=1&sni=tough-hermit.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
