@@ -2,5 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://PQ05174892@13.212.174.21:443?allowInsecure=0&sni=fleet-pony.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://PQ05174892@54.169.228.116:443?allowInsecure=0&sni=amusing-grub.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://PQ05174892@13.212.91.165:443?allowInsecure=0&sni=composed-sheep.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://PQ05174892@stable-python.rooster465.autos:443?allowInsecure=0#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://PQ05174892@welcome-monitor.rooster465.autos:443?allowInsecure=0&sni=welcome-monitor.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://fVZMat1g9H@172.236.133.188:52?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.236.133.188#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
