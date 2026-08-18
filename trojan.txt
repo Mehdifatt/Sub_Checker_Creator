@@ -2,31 +2,17 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=t11.qifei.app#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://AE62539071@47.131.229.80:443?fp=chrome&sni=elegant-marten.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://AE62539071@54.169.117.191:443?fp=chrome&sni=excited-sole.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://AE62539071@13.158.135.118:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=literate-cow.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://AE62539071@193.169.239.160:443?type=tcp&security=tls&sni=thorough-falcon.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://AE62539071@54.170.38.205:443?sni=unbiased-garfish.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://AE62539071@adapted-whippet.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://AE62539071@adapted-martin.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://AE62539071@absolute-hare.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://AE62539071@elegant-marten.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://AE62539071@89.39.70.238:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=present-warthog.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://FH72359861@13.212.77.228:443?sni=probable-weasel.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://AE62539071@sacred-anemone.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://AE62539071@stirred-buck.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://FH72359861@47.129.7.255:443?sni=stable-racer.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://FH72359861@3.120.138.119:443?sni=up-dinosaur.rooster465.autos&fp=chrome&type=tcp&path=%2f#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://FH72359861@boss-sailfish.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://FH72359861@casual-basilisk.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://FH72359861@charming-ox.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://FH72359861@63.176.171.181:443?allowInsecure=1&insecure=1&security=tls&sni=engaging-toucan.rooster465.autos&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://FH72359861@63.176.171.181:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=engaging-toucan.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://FH72359861@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://FH72359861@summary-firefly.rooster465.autos:443?sni=summary-firefly.rooster465.autos&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://FH72359861@summary-lemming.rooster465.autos:443?sni=summary-lemming.rooster465.autos&path=%2f#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://FH72359861@stable-racer.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://PQ05174892@informed-alpaca.rooster465.autos:443?sni=informed-alpaca.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://FH72359861@exciting-turtle.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://AE62539071@47.131.225.150:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=sacred-anemone.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://AE62539071@47.128.150.245:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=stirred-buck.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://AE62539071@47.131.229.80:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=elegant-marten.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://AE62539071@54.169.241.164:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=rested-osprey.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://AE62539071@massive-terrapin.rooster465.autos:443#Blindvpn%3A%3A%E2%9D%93
+trojan://FH72359861@13.212.77.228:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=probable-weasel.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://AE62539071@rested-osprey.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@13.250.119.54:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=casual-basilisk.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@47.129.7.255:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=stable-racer.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@54.185.164.73:443?sni=outgoing-lynx.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://FH72359861@54.180.158.231:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=precise-locust.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://PQ05174892@13.113.98.210:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mighty-lemming.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://FH72359861@worthy-perch.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=87.121.218.169#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
