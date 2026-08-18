@@ -2,8 +2,13 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://FH72359861@3.120.138.119:443?sni=up-dinosaur.rooster465.autos&fp=chrome&type=tcp&path=%2f#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://FH72359861@63.176.171.181:443?allowInsecure=1&insecure=1&security=tls&sni=engaging-toucan.rooster465.autos&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://FH72359861@63.176.171.181:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=engaging-toucan.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://7412605e-18de-4b34-af4e-82e9f544cc24@95.85.231.231:42321?security=reality&encryption=none&pbk=C8lo017EXpVnG_TxCYibs_NBzbgoW-61IQH4qZhHGmw&headerType=none&type=tcp&sni=www.github.com&sid=3f080f861d7f#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://99d6bdee-1d04-455e-8ad9-43fc14b544b4@94.237.93.20:33651?security=&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality&encryption=none&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=4.oncloudnineservicestreang.com&sid=04bc695105689674#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://bf840e65-ae71-4d9d-afe8-bf77f032c63b@109.122.198.243:443?security=reality&encryption=none&pbk=2W02YfNDSkJAkRpu8t2fOwdcjx9DXr0X6IFp5eCrGDE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=info.lagzero.ru#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://FH72359861@summary-lemming.rooster465.autos:443?sni=summary-lemming.rooster465.autos&path=%2f#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://PQ05174892@informed-alpaca.rooster465.autos:443?sni=informed-alpaca.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://14f493a7-242a-4add-8413-cecc063b3ce3@130.185.123.32:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2053?security=reality&encryption=none&pbk=6RshLCSAs31qGRa_tWi63KClbh2Kzj9ooXpdaPJKbjs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=a6bbc4aecf5d961f#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://99d6bdee-1d04-455e-8ad9-43fc14b544b4@94.237.93.20:33651?encryption=none&security=none&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@64.188.112.82:443?security=reality&encryption=none&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nodefulcrum.mooo.com&sid=6547735997055a35#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA

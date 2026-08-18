@@ -2,7 +2,16 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#Blindvpn%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#Blindvpn%3A%3A%E2%9D%93
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.7.70:443?type=ws&security=tls&path=/&sni=de-new.ariyuz.org#Blindvpn%3A%3A%E2%9D%93
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#Blindvpn%3A%3A%E2%9D%93
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=%2F%3FTELEGRAM-TOOTFFARANGI%3Fed&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#Blindvpn%3A%3A%E2%9D%93
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?mode=gun&security=&encryption=none&type=grpc&serviceName=grpc#Blindvpn%3A%3A%E2%9D%93
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#Blindvpn%3A%3A%E2%9D%93
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@savesafe.info:443?mode=auto&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&fp=qq&type=xhttp&sni=savesafe.info&sid=812609fa663c57fb#Blindvpn%3A%3A%E2%9D%93
 vless://c0f16ee2-a909-4890-ab1c-96489230658a@admin.jikebet.com:443?path=%2Fvless&security=tls&encryption=none&insecure=0&host=admin.jikebet.com&type=ws&allowInsecure=0&sni=admin.jikebet.com#Blindvpn%3A%3A%E2%9D%93
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Blindvpn%3A%3A%E2%9D%93
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=lsjaoijji.global.ssl.fastly.neT.&path=%2F#Blindvpn%3A%3A%E2%9D%93
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%E2%9D%93
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&alpn=h2&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#Blindvpn%3A%3A%E2%9D%93
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&serviceName=grpc&fp=chrome&security=tls#Blindvpn%3A%3A%E2%9D%93
