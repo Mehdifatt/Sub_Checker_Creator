@@ -3,8 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://FH72359861@63.176.171.181:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=engaging-toucan.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://PQ05174892@alert-fish.rooster465.autos:443?allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://7412605e-18de-4b34-af4e-82e9f544cc24@95.85.231.231:42321?security=reality&encryption=none&pbk=C8lo017EXpVnG_TxCYibs_NBzbgoW-61IQH4qZhHGmw&headerType=none&type=tcp&sni=www.github.com&sid=3f080f861d7f#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://99d6bdee-1d04-455e-8ad9-43fc14b544b4@94.237.93.20:33651?security=&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality&encryption=none&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=4.oncloudnineservicestreang.com&sid=04bc695105689674#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://bf840e65-ae71-4d9d-afe8-bf77f032c63b@109.122.198.243:443?security=reality&encryption=none&pbk=2W02YfNDSkJAkRpu8t2fOwdcjx9DXr0X6IFp5eCrGDE&headerType=&type=tcp&flow=xtls-rprx-vision&sni=info.lagzero.ru#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=lsjaoijji.global.ssl.fastly.neT&path=%2F#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://bf840e65-ae71-4d9d-afe8-bf77f032c63b@109.122.198.243:443?security=reality&encryption=none&pbk=2W02YfNDSkJAkRpu8t2fOwdcjx9DXr0X6IFp5eCrGDE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=info.lagzero.ru#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
