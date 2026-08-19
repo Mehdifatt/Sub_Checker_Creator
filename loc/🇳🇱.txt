@@ -2,8 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://AE62539071@193.169.239.14:443?fp=chrome&sni=emerging-weevil.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://PQ05174892@actual-aardvark.rooster465.autos:443?fp=chrome#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://PQ05174892@powerful-squid.rooster465.autos:443?fp=chrome#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://31eedc18-975c-f36a-b4f1-7298708f9178@69.46.46.123:443?path=%2Fws%2F31eedc18-975c-f36a-b4f1-7298708f9178&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-f282.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-f282.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.94.59:13443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=nl-vk.tkbvpcompany.site#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://7792c309-4dde-49d9-9f71-bf29611caa52@nansjisiwkkwklowkwkakkwkwk.nenenet1.ir:15657?security=reality&encryption=none&pbk=4erSoBjjNllyViB1lGGtWmygMWohvSfvyoqSDXg7yBM&headerType=none&fp=chrome&type=tcp&sni=skyroom.online&sid=ccb1160f59ef407a#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://f82332b2-dc8c-4196-ac12-f276e37e278a@103.112.71.83:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=test.bridge.anti-zapret.com&security=reality&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
