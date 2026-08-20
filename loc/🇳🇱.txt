@@ -4,3 +4,4 @@
 
 trojan://AE62539071@89.39.70.238:443?security=tls&insecure=0&host=-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=present-warthog.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://PQ05174892@89.39.70.124:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=casual-bullfrog.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&sni=neth6.lckdwn.ru#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
