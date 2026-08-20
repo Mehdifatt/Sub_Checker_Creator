@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://2d96d4d6-a276-4ab5-9f20-8dc5cbf6e902@72.35.246.31:1244?security=reality&encryption=none&pbk=gHG_cbbi-OJKY2tBQTqz1QryfmmRZEQ7BQgymimukkQ&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=axisvpn.ru&sid=6ba85179e30d4fc2#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.servers.gracevpnbuy.com&sid=b91a73752053b039#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?sid=b91a73752053b039&flow=xtls-rprx-vision&fp=firefox&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&sni=de.servers.gracevpnbuy.com&type=tcp&headerType=none&encryption=none&security=reality#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.servers.gracevpnbuy.com&sid=b91a73752053b039#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE

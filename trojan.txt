@@ -2,10 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#Blindvpn%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://MiTiVPN@140.248.185.253:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#Blindvpn%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://AE62539071@202.78.163.89:443?fp=chrome&sni=tolerant-mosquito.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://PQ05174892@immune-earwig.rooster465.autos:443?fp=chrome#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?allowInsecure=1&fp=chrome#Blindvpn%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://AE62539071@whole-perch.rooster465.autos:443?allowInsecure=0&sni=whole-perch.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://AE62539071@54.249.33.71:443?allowInsecure=0&sni=outgoing-ladybird.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://EQ30679154@gentle-raptor.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://EQ30679154@many-cricket.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://EQ30679154@eager-louse.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://EQ30679154@engaging-toucan.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://EQ30679154@thorough-falcon.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://MiTiVPN@151.101.56.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fg-b%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=3-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&sni=google.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7

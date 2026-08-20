@@ -2,9 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&sni=neth6.lckdwn.ru#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://9e998501-eaae-4d7e-bbe5-6cecfaef8334@217.69.167.135:15392?mode=gun&security=reality&encryption=none&pbk=O8yFUnhj9NOtJ2eUVQTwrGk8HrkHq94QAO090azV428&fp=chrome&spx=%2F&type=grpc&serviceName=grpc&sni=google.com&sid=6a326909#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@167.104.217.250:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=nl-spec-1.atlanta-api.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@31.77.170.110:443?security=reality&encryption=none&pbk=TC8D2edifNXaro0S31ZiC9izi8tAmXJyxdOHptwNUTw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=edge-nl.mystatic-cdn.ru&sid=660c1badc77a422b#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://EQ30679154@eager-louse.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://EQ30679154@thorough-falcon.rooster465.autos:443#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
