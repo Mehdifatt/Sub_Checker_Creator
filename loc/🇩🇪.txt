@@ -4,12 +4,7 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://FH72359861@35.159.21.7:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=summary-lemming.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://PQ05174892@63.179.149.234:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=usable-dogfish.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.7.70:443?type=ws&security=tls&fp=chrome&sni=de-new.ariyuz.org#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://653aea5e-2157-4a1f-89bf-8b46fb677921@185.178.208.176:443?path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=stream.telemetryapi.uk&fp=chrome&type=ws&allowInsecure=0&sni=stream.telemetryapi.uk#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://9e27f64b-7ae9-461b-b4c4-99696276633b@de3.voronvpn.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandexcloud.net&fp=firefox&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://c6c03582-a4d2-4efe-9af1-83e730b11f9a@130.185.123.32:19896?security=&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://c6c03582-a4d2-4efe-9af1-83e730b11f9a@130.185.123.32:19896?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=lsjaoijji.global.ssl.fastly.neT.&fp=chrome&type=ws&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://d31aefb3-775b-4e87-a093-a4677addf10a@84.21.189.193:443?security=reality&encryption=none&pbk=3EwukQs0ows0H4l2atTgz_Mo5SV-v5p14D4zfA41tU4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=c010293d0bafac#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
