@@ -2,5 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://PQ05174892@51.44.167.144:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=immune-earwig.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://0772109c-a680-4896-b005-d86513194f96@node21.mxvpn.dev:443?type=tcp&security=reality&sni=node21.mxvpn.dev&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&fp=firefox&encryption=none&flow=xtls-rprx-vision#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://PQ05174892@35.180.10.212:443?type=tcp&security=tls&sni=firm-warthog.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://PQ05174892@51.44.167.144:443?type=tcp&security=tls&sni=immune-earwig.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@172.67.201.133:8443?path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Fx9i2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=france.io-com-de-dev.org&fp=chrome&type=ws&allowInsecure=0&sni=france.io-com-de-dev.org#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@gr2.levikogjgfdd.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=telegram.us&type=ws&allowInsecure=0&sni=finite-node.rtxconfigz.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@cf.levikogjgfdd.ir:2053?path=%2FJ5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
