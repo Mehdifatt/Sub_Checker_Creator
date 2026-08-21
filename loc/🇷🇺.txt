@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+trojan://654df5c6-73ac-3b11-8269-6b21fb8d9dad@rub01.nwncd.com:489?security=tls&insecure=0&type=grpc&serviceName=mygrpc&allowInsecure=0#Blindvpn%3A%3A%F0%9F%87%B7%F0%9F%87%BA

@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://AE62539071@89.39.70.238:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=present-warthog.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://AE62539071@89.39.70.9:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=whole-woodcock.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://AE62539071@89.39.70.238:443?security=tls&insecure=0&host=-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=present-warthog.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://PQ05174892@89.39.70.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=casual-bullfrog.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://d99c8ae6-3160-99cd-0e62-5fbee0c7144b@irhub-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=irhub-production.up.railway.app&path=/ws/d99c8ae6-3160-99cd-0e62-5fbee0c7144b&sni=irhub-production.up.railway.app&fp=chrome&alpn=http/1.1#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://PQ05174892@79.133.126.17:443?type=tcp&security=tls&sni=powerful-squid.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
