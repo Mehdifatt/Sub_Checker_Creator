@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://28a53b24-f7cc-c55d-75d6-86dfff4e3a4c@89.47.55.7:8443?mode=gun&security=reality&encryption=none&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&type=grpc&serviceName=TunService&sni=download.nvidia.com#Blindvpn%3A%3A%F0%9F%87%A8%F0%9F%87%B3
-vless://28a53b24-f7cc-c55d-75d6-86dfff4e3a4c@89.47.55.7:8443?sni=download.nvidia.com&security=reality&serviceName=TunService&type=grpc&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&mode=gun&encryption=none#Blindvpn%3A%3A%F0%9F%87%A8%F0%9F%87%B3

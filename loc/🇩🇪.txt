@@ -2,7 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://6a08e957-908a-4711-8e80-54e21c96c2ad@104.105.3.99:32855?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&sid=deb7a9e5a6e1d41a&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://6a08e957-908a-4711-8e80-54e21c96c2ad@104.105.3.99:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@178.162.253.64:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.servers.gracevpnbuy.com&sid=b91a73752053b039#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://0d58de0b-7bc5-4950-8f3c-786ae34a61d1@s1-tech.varlira.ir:2083?security=none&type=ws&headerType=&path=%2F%3Fed%3D2085&host=icloud.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://0d58de0b-7bc5-4950-8f3c-786ae34a61d1@s1-cd-api.denmexa.ir:2087?security=none&type=ws&headerType=&path=%2F%3Fed%3D2560&host=sinavip-cdn.pars-dev-group.xyz#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://2541787c-ecb7-497a-ad7f-c1a8a6456100@s-cdn-api.berluno.ir:2460?security=none&type=ws&headerType=&path=%2F%3Fed%3D2085&host=sinavip-cdn.pars-dev-group.xyz#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://2541787c-ecb7-497a-ad7f-c1a8a6456100@s1-cdn.harfuna.ir:2096?security=none&type=ws&headerType=&path=%2F%3Fed&host=sinavip-cdn.pars-dev-group.xyz#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://5d71edc2-7547-4b0e-9c94-aebc8c153d60@de3.prformula.cfd:443?security=reality&encryption=none&pbk=2UWlK1pgBgiFti_aRf1L8sbJALhr7LGyuq4Mf4pMQzM&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=de3.prformula.cfd#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
