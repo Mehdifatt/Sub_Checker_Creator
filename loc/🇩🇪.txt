@@ -2,5 +2,16 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVTROVUp1TWU0WGxaM05DUV8xS2lR@178.63.176.113:1080#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVTROVUp1TWU0WGxaM05DUV8xS2lR@netixu.mashhad1market.ir:1080#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://FH72359861@3.120.70.66:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=renewed-porpoise.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://FH72359861@3.64.117.92:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=epic-iguana.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://FH72359861@engaging-toucan.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://FH72359861@renewed-porpoise.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.79.73:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@node2.onepanel123.ru:2087/?type=ws&encryption=none&flow=&host=node2.onepanel123.ru&path=%2Fde-vless-ws&security=tls&sni=node2.onepanel123.ru&fp=chrome#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@node2.onepanel123.ru:2087?path=%2Fde-vless-ws&security=tls&encryption=none&insecure=0&host=node2.onepanel123.ru&fp=chrome&type=ws&allowInsecure=0&sni=node2.onepanel123.ru#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@derman.neobo-tooth.ru:2096?path=%2F&security=none&encryption=none&host=derman.neobo-tooth.ru&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=deproxy2.lckdwn.ru#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://XpnTeam-23@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://b80b392c-0cf4-42f9-ae54-9f862e3ba276@150.241.73.177:13443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
