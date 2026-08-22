@@ -2,7 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@64.188.77.159:8390#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://AE62539071@193.169.239.14:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=emerging-weevil.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://AE62539071@89.39.70.238:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=present-warthog.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://AE62539071@89.39.70.238:443?security=tls&insecure=0&host=-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=present-warthog.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://FH72359861@renewed-chigger.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@45.91.202.27:8444?alpn=http%2F1.1&encryption=none&fp=firefox&host=bridge.meshbeat.online&path=%2Fapi%2Fv1%2Fdevices%2Fc79c81b07c%2Ftelemetry&security=tls&sni=bridge.meshbeat.online&type=ws#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://8743d086-d267-0c51-f0dc-e097aa10bb81@x4gbot-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4gbot-production.up.railway.app&path=/ws/8743d086-d267-0c51-f0dc-e097aa10bb81&sni=x4gbot-production.up.railway.app&fp=ios&alpn=http/1.1#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://b56fe166-72e8-e722-8410-905d687ba028@69.46.46.123:443?path=%2Fws%2Fb56fe166-72e8-e722-8410-905d687ba028&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sr-production-4c9f.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=sr-production-4c9f.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
