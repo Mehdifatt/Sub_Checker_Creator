@@ -3,11 +3,9 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://PQ05174892@89.39.70.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=casual-bullfrog.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://PQ05174892@89.39.70.64:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=actual-aardvark.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://PQ05174892@powerful-squid.rooster465.autos:443?sni=powerful-squid.rooster465.autos&fp=chrome&type=tcp&path=%2f#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:443?security=none&encryption=none&type=ws#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://d8760638-587c-e47a-20fa-56c956a5f55b@69.46.46.123:443?path=%2Fws%2Fd8760638-587c-e47a-20fa-56c956a5f55b&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sr-production-cb35.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=sr-production-cb35.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1

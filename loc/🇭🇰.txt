@@ -3,4 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://FH72359861@91.199.84.120:443?type=tcp&security=tls&sni=dynamic-grubworm.rooster465.autos#Blindvpn%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://86ff5721-87f2-4682-9bc2-b1b34a8ca91f@128.1.12.97:443?security=reality&encryption=none&pbk=4vnK2LLhfy9-plqFrSE3Di9fqTXlajXtll7NoYZYQ28&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=05ac92984da91336#Blindvpn%3A%3A%F0%9F%87%AD%F0%9F%87%B0
