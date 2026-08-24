@@ -4,5 +4,4 @@
 
 vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@sw2.nihaovpn.ru:443?security=reality&encryption=none&pbk=74SXgBukkhFPB8lpegdqaqbOStHLaR3RT24DuvXMZnY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=3f5c0f7f7af1#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://22fff84b-dd89-489d-bc4c-794f664b92a2@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://2d96d4d6-a276-4ab5-9f20-8dc5cbf6e902@72.35.246.31:1244?security=reality&encryption=none&pbk=gHG_cbbi-OJKY2tBQTqz1QryfmmRZEQ7BQgymimukkQ&host=%2F%3FBIA_TELEGRAM%40Cnetvpn&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=axisvpn.ru&sid=6ba85179e30d4fc2#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://63650025-84ff-4272-cfd4-61e7b9ee8834@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
