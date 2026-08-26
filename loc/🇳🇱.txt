@@ -2,7 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://0bbe023b-0a73-4a1d-af0f-c3dd793cfa17@banko.cncoo.ir:443?encryption=none&security=tls&sni=banko.cncoo.ir&alpn=http/1.1&fp=chrome&type=ws&host=banko.cncoo.ir&path=/connect/yUdhkk0l8Fwb5sQ3bwI8FJcK&packetEncoding=xudp#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://34679f96-8948-263b-f9a6-67e165fd2ddc@x4gpanel-production-aba0.up.railway.app:443?path=%2Fws%2F34679f96-8948-263b-f9a6-67e165fd2ddc&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4gpanel-production-aba0.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4gpanel-production-aba0.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://a706a230-eca0-04da-ca19-42d8cd10129a@69.46.46.106:443?path=%2Fws%2Fa706a230-eca0-04da-ca19-42d8cd10129a&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ivory-horizon-976d-production.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=ivory-horizon-976d-production.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://d7e34f7f-0545-5a18-6901-0603cfde8614@69.46.46.103:443?path=%2Fws%2Fd7e34f7f-0545-5a18-6901-0603cfde8614&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=kar-production-4a48-hfgd.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=kar-production-4a48-hfgd.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMbzFxODdGcWdJR1VKN2sxTkZvRjF3@217.23.13.210:1080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1

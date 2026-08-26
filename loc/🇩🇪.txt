@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.226:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://7c2f6922-1b9a-4782-bd42-ccd76dee2a7f@23.235.42.251:80?path=%2F&security=&encryption=none&host=ggrm.global.ssl.fastly.net&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
