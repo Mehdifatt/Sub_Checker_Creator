@@ -2,7 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@188.114.98.0:443?security=tls&sni=www.calmlunch.com&allowinsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://238bc88c-6f47-4622-9d6f-cab2ed76f098@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=frenchji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@104.18.9.83:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
