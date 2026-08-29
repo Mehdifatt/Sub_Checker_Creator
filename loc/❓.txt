@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@5.255.126.104:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#Blindvpn%3A%3A%E2%9D%93
-vless://d9c13e62-b227-4bc7-9bc2-5af179c630d7@104.21.70.228:2096?path=%2FeyJqdW5rIjoiNU83bGx4TU5QNG9uIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed&security=tls&encryption=none&insecure=0&host=old-mouse-3fe4.alirezaid207.workers.dev&type=ws&allowInsecure=0&sni=olD-mOusE-3FE4.AlirezaID207.woRkerS.DeV#Blindvpn%3A%3A%E2%9D%93
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.146.50:8880?type=ws&host=vms.lifetime36.workers.dev&path=/?ed=2560#Blindvpn%3A%3A%E2%9D%93
+vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%E2%9D%93
