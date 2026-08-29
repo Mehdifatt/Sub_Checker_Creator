@@ -3,6 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://0346a35f-8e11-4b33-852d-00fa9c642878@18.177.61.231:30203?security=reality&encryption=none&pbk=dsJ2WwzENgTAgd8okJPXLpwzdsDjU67mBEnhUhgvvTk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=40150721499a92#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://3fd01721-c3e7-4205-9b2c-4eb1f8f8578d@18.178.233.232:16138?security=reality&encryption=none&pbk=WVECuhHY1uql8Rwwmo10t72L1s_l-03b23w0gY2PDkI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=6305d3c1a69dc2#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://70baf116-c56f-4bb8-bf48-d1f835814a89@52.195.209.55:39512?security=reality&encryption=none&pbk=JuWGiLt32IXY1GWi0BvhbPC4y2_aId6agnJLVzHVx30&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=549d3e0c2539d5#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?security=reality&encryption=none&pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=034885e346fd30#Blindvpn%3A%3A%F0%9F%87%AF%F0%9F%87%B5

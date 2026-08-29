@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&sni=kaz0001hy01.packet-drop-society.net#Blindvpn%3A%3A%F0%9F%87%B0%F0%9F%87%BF
+vless://5bdd048f-181a-4508-a5ea-b6ad8bd6953f@31.56.222.189:42292?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A8%F0%9F%87%BE
