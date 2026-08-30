@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://2c082e78-bd9d-4960-b9f3-cde0040cb4f3@173.230.155.55:50900?security=reality&encryption=none&pbk=vdE4t2bYhYun6fZ9Weu_f6MXtsmq8iJ7XQBUj62scR0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=12fa394e28d52011#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://aebeb940-51cb-429f-830d-c421351d18e3@104.24.19.99:443?path=%2FLUANVO&security=tls&encryption=none&insecure=0&host=novapanell.abdollahvand3.ir&fp=random&type=ws&allowInsecure=0&sni=novapanell.abdollahvand3.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@16.148.5.63:443?insecure=1&sni=google.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://640a1f84-3273-4e3e-8465-7633ab16a585@usa1.selqora.ir:50303?security=reality&encryption=none&pbk=XhfHr5VYPbNs6BrrsYc7Wd6-D2nJAO8QrixRuJarFkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=4fd1b3b30e82af52#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@172.235.62.90:443?security=reality&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=1a#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&sid=7551ed1b&sni=www.intel.com#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
