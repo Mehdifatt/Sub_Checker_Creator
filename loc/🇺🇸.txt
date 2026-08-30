@@ -2,10 +2,15 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://r49gssuondznyu2eex83@14.1.28.76:50740?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:38261?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.microsoft.com#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://2c082e78-bd9d-4960-b9f3-cde0040cb4f3@173.230.155.55:50900?security=reality&encryption=none&pbk=vdE4t2bYhYun6fZ9Weu_f6MXtsmq8iJ7XQBUj62scR0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=12fa394e28d52011#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://5bdd048f-181a-4508-a5ea-b6ad8bd6953f@31.56.222.189:25099?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://aebeb940-51cb-429f-830d-c421351d18e3@104.24.19.99:443?path=%2FLUANVO&security=tls&encryption=none&insecure=0&host=novapanell.abdollahvand3.ir&fp=random&type=ws&allowInsecure=0&sni=novapanell.abdollahvand3.ir#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://da249715-4a6f-4873-ac3d-260f2b6e0065@mn8.levikogjgfdd.ir:10974?security=reality&encryption=none&pbk=rQHsnXffkul9uYK50Efqzu-KBZ6ZwKNZts86r8u3iEw&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a727f329ba2a22#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://f78ecba6-f0dd-2a9b-f4ff-8c7cc610138e@69.46.46.26:443?path=%2Fws%2Ff78ecba6-f0dd-2a9b-f4ff-8c7cc610138e&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=willow-voyager-5a0a-production.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=willow-voyager-5a0a-production.up.railway.app#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&serviceName=grpc&fp=chrome&security=tls#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&path=/#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&sid=7551ed1b&sni=www.intel.com#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
