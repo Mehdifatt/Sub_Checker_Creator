@@ -2,5 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.129:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://70494202-c333-2bf6-b6aa-ffc8ae8b9886@69.46.46.190:443?path=%2Fws%2F70494202-c333-2bf6-b6aa-ffc8ae8b9886&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=maple-ember-3501-production.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=maple-ember-3501-production.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.175.73:62145#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://fc1ee51e-72ec-4af0-ab0f-540c9e22427b@31.76.79.118:2444?security=reality&encryption=none&pbk=JsSTmS0VKNaHF-_QKYS-_utnS-LJuPOBrWcMbVE2RDA&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0809f782a29a2030#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://fc1ee51e-72ec-4af0-ab0f-540c9e22427b@31.76.79.118:2444?security=reality&encryption=none&pbk=JsSTmS0VKNaHF-_QKYS-_utnS-LJuPOBrWcMbVE2RDA&host=%2F%3FBIA_TELEGRAM%40bored_vpn&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0809f782a29a2030#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
