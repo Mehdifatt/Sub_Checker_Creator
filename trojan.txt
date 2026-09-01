@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:46292?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.microsoft.com#Blindvpn%3A%3A%E2%9D%93
 trojan://humanity@188.114.98.0:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@178.172.227.178:500?alpn=h2%2Chttp%2F1.1&fp=chrome&sni=by01.botovod.space&type=grpc#Blindvpn%3A%3A%F0%9F%87%A7%F0%9F%87%BE
