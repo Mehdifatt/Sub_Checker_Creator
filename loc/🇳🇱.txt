@@ -2,4 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://da8f7273-fd3c-47fd-8938-b47b8eb0bb1e@web-production-5f54e.up.railway.app:443?path=%2Fws%2Fvless%2Fda8f7273-fd3c-47fd-8938-b47b8eb0bb1e%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=web-production-5f54e.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-5f54e.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://1f9480a7-ea9e-4c30-8df5-9b4ac4f869ea@89.124.115.125:443?security=reality&encryption=none&pbk=d4yc90PciJ40ZoEd_b1_nJEAbT2H8hUXqrFupAOobWA&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=ai.android&sid=05afd49302dd#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.123:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=n1.cloudgaming.one&sid=6d6f13013d3e1d0c#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://ada43f04-a970-461a-e098-b88e96e3c997@69.46.46.124:443?path=%2Fws%2Fada43f04-a970-461a-e098-b88e96e3c997&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=norl-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-production.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
