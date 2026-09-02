@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://1f9480a7-ea9e-4c30-8df5-9b4ac4f869ea@89.124.115.125:443?security=reality&encryption=none&pbk=d4yc90PciJ40ZoEd_b1_nJEAbT2H8hUXqrFupAOobWA&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=ai.android&sid=05afd49302dd#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@5.255.126.104:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=firefox&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://51231507-67c3-4141-ab08-a69eb121c716@45.82.13.150:8443?type=tcp&security=reality&fp=firefox&flow=xtls-rprx-vision&encryption=none&sid=1688&headerType=none&sni=tradingview.com&pbk=B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://fee2cdd8-55d1-4c5b-a67a-cfde8d45eed0@72.56.78.50:443?security=reality&encryption=none&pbk=huH_8n0Dfk4iolIkzrc-qET8ySHWgZAr-i6K6lr6xSs&type=grpc&sni=sun6-21.userapi.com&sid=375838bc17c0#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
