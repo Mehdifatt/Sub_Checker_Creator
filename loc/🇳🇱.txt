@@ -2,6 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://51231507-67c3-4141-ab08-a69eb121c716@45.82.13.150:8443?type=tcp&security=reality&fp=firefox&flow=xtls-rprx-vision&encryption=none&sid=1688&headerType=none&sni=tradingview.com&pbk=B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://03746754-100d-565e-11bf-def7f5522759@69.46.46.105:443?path=%2Fws%2F03746754-100d-565e-11bf-def7f5522759&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cobalt-delta-8e5d-production.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=cobalt-delta-8e5d-production.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://01d1dc02-26aa-4c83-e4a6-51f12b16d6f1@69.46.46.104:443?path=%2Fws%2F01d1dc02-26aa-4c83-e4a6-51f12b16d6f1&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ivory-ridge-479b-production.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=ivory-ridge-479b-production.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://2f600710-9f4e-4eab-8de1-89f60a878e55@chmstnd1.jarvesitw.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Q6vABOUn6Uxtp0uDsfDG-SRJFLBh_oOofD9reec4iSg&security=reality&sid=cf41f778&sni=app72.jarvestip.ru&type=tcp#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://eaae5be2-8a3b-4edb-a968-39366a478ab2@146.103.98.84:443?security=reality&encryption=none&pbk=3e_yPFFI_hf_CmzsfdElJHdI9HlVaULKWanfMYY5qB0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl-74.southnets.work&sid=65201ddbe0cef5#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://fee2cdd8-55d1-4c5b-a67a-cfde8d45eed0@72.56.78.50:443?security=reality&encryption=none&pbk=huH_8n0Dfk4iolIkzrc-qET8ySHWgZAr-i6K6lr6xSs&type=grpc&sni=sun6-21.userapi.com&sid=375838bc17c0#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
