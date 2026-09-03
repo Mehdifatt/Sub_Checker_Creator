@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://8873634b-e37e-4ac5-8663-4d7ea82f164b@channel-linevpnco-production-1e45.up.railway.app:443?path=%2Fvl-ws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=channel-linevpnco-production-1e45.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=channel-linevpnco-production-1e45.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://d7430ae7-320c-4658-808b-3006d0627d82@95.211.164.121:443?mode=gun&security=reality&encryption=none&authority=--v2rayNplus--v2rayNplus--v2rayNplus--&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&fp=edge&type=grpc&serviceName=gun&sni=devua.nubuntuhosting.host&sid=3fa234ea9feaa048#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://0baadb70-df8b-59fa-b0ee-0a756bcffe82@web-c5266a-610916-production.up.railway.app:443?path=%2Fws%2FVip&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=web-c5266a-610916-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-c5266a-610916-production.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://5627052f-7d3a-49c1-94fc-61257b01ec21@djjxd-production.up.railway.app:443?path=%2Fws%2F5627052f-7d3a-49c1-94fc-61257b01ec21&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=djjxd-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=djjxd-production.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
