@@ -2,7 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&alpn=http%2F1.1&type=ws&host=www.volumeroot.com&path=%2Fassignment#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://23578a2c-2493-41f0-89ef-d7d3a7b85252@95.85.226.217:8443?path=%2FNL3W&security=tls&encryption=none&host=nl3.pad-service.com&fp=firefox&type=ws&sni=nl3.pad-service.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://23578a2c-2493-41f0-89ef-d7d3a7b85252@95.85.226.217:8443?path=%2FNL3W&security=tls&encryption=none&insecure=0&host=nl3.pad-service.com&fp=firefox&type=ws&allowInsecure=0&sni=nl3.pad-service.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://eaae5be2-8a3b-4edb-a968-39366a478ab2@146.103.98.84:443?security=reality&encryption=none&pbk=3e_yPFFI_hf_CmzsfdElJHdI9HlVaULKWanfMYY5qB0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl-74.southnets.work&sid=65201ddbe0cef5#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://8873634b-e37e-4ac5-8663-4d7ea82f164b@channel-linevpnco-production-1e45.up.railway.app:443?path=%2Fvl-ws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=channel-linevpnco-production-1e45.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=channel-linevpnco-production-1e45.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://d7430ae7-320c-4658-808b-3006d0627d82@95.211.164.121:443?mode=gun&security=reality&encryption=none&authority=--v2rayNplus--v2rayNplus--v2rayNplus--&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&fp=edge&type=grpc&serviceName=gun&sni=devua.nubuntuhosting.host&sid=3fa234ea9feaa048#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1

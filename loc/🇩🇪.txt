@@ -2,4 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.185:12443?security=reality&encryption=none&pbk=-6SjfnZXAYm69euKQ3XNhq0nC7No7YE4qfdc2qx0Xwo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=special.aeternavpn.space&sid=a1b2c3d4#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://b8136e5f-8ece-4a06-99af-5a207c749bc4@185.204.170.130:1819?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=185.204.170.130&fp=chrome&type=xhttp&sni=185.204.170.130#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@95.85.230.35:443?security=reality&encryption=none&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.oblaco.bet#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vmess://eyJhZGQiOiIxODUuMjA0LjE3MC4xMzAiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiMTg1LjIwNC4xNzAuMTMwIiwiaWQiOiJiODEzNmU1Zi04ZWNlLTRhMDYtOTlhZi01YTIwN2M3NDliYzQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiQmxpbmR2cG46OvCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IjE4NS4yMDQuMTcwLjEzMCIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
