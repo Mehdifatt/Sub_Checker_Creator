@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@84.32.176.6:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=apiv13.betust.net&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&sid=ef5d4ad5&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@84.32.176.6:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apiv13.betust.net&sid=ef5d4ad5#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv13.betust.net:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apiv13.betust.net&sid=ef5d4ad5#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
