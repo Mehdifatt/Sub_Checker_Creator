@@ -2,9 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-hysteria2://bfmf6a05bp4fjwuh@giftcard.gateway-stream.com:52023?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@95.85.230.35:443?security=reality&encryption=none&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.oblaco.bet#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@88.216.190.205:443?security=reality&encryption=none&pbk=QMkh_UZF6wTVrYukjoZTbrRUziZxT-s0Oj8zVP_RuH0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apiv91.jarvesitw.ru&sid=b0ffeec3#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://d36f4d3c-07c0-4694-bde6-69643162f082@185.204.171.3:443?encryption=none&security=tls&sni=185.204.171.3&fp=chrome&alpn=h2%2Chttp%2F1.1&type=httpupgrade&host=185.204.171.3&path=%2F#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://d36f4d3c-07c0-4694-bde6-69643162f082@185.204.171.3:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=185.204.171.3&fp=chrome&type=httpupgrade&allowInsecure=0&sni=185.204.171.3#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vmess://eyJ2IjoiMiIsInBzIjoiQmxpbmR2cG46OvCfh6nwn4eqIiwiYWRkIjoiMTg1LjIwNC4xNzEuMyIsInBvcnQiOiIyMDk2IiwiaWQiOiJkMzZmNGQzYy0wN2MwLTQ2OTQtYmRlNi02OTY0MzE2MmYwODIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0
