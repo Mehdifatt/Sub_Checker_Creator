@@ -2,4 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://3f945d0c-0d5b-442e-aa10-7aced4c7ad9c@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=yaSharClass.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@a2.arshia-nova.ir:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://607f4f6c-2a71-43aa-e047-1ff5b5c23f67@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://87e26a6f-e243-4c8d-9bf6-362b0adee4f2@93.123.85.32:41809?security=none&encryption=none&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@95.85.230.35:443?security=reality&encryption=none&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.oblaco.bet#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
