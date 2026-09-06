@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://95b5d1d0-a878-4a52-bf2a-c8e323457b02@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://d7430ae7-320c-4658-808b-3006d0627d82@185.246.191.243:443?security=reality&encryption=none&pbk=n_-rh8EC8zmzkuu2AmCnKoh09omlYONdgS_F7CStITk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=endeavouros.ubuntuhosting.host&sid=3fa234ea9feaa048#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://d7430ae7-320c-4658-808b-3006d0627d82@185.246.191.243:443?security=reality&encryption=none&fm=https%3A%2F%2Ft.me%2FShadowFlux2&pbk=n_-rh8EC8zmzkuu2AmCnKoh09omlYONdgS_F7CStITk&host=BIA_TELEGRAM%3F%3D%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=endeavouros.ubuntuhosting.host&sid=3fa234ea9feaa048#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
