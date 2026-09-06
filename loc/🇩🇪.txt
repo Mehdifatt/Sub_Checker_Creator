@@ -1,0 +1,6 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://384e448a-880b-46ab-860d-91ece3f0f803@144.31.77.71:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&security=reality&sid=abcd1234&sni=de.yservice.help&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@fcs013.getdcz.me:443?path=%2F6d2fed050b30&security=tls&encryption=none&insecure=0&host=fcs013.getdcz.me&fp=chrome&type=ws&allowInsecure=0&sni=fcs013.getdcz.me#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
