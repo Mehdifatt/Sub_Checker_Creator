@@ -3,4 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?security=reality&encryption=none&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.unsplash.com&sid=7da2eae792187ab9#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@194.34.175.143:443?security=reality&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=localhost#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
