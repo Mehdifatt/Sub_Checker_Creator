@@ -2,4 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://b732329b-8c5a-ac60-0bfd-8bb353dd7a22@69.46.46.126:443?path=%2Fws%2Fb732329b-8c5a-ac60-0bfd-8bb353dd7a22&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=norl-productionopop.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-productionopop.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://ebd7ed22-3db4-41d6-af81-225c5efdee90@roundhouse.proxy.rlwy.net:35408?encryption=none&host=&path=%2F&security=none&type=ws#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
