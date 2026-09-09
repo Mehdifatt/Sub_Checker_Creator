@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://2da9c09a-842f-4aed-a099-8a07c0266efc@45.131.213.34:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de-2.srv.dvzh.net&sid=e4e77e76e6e49da7#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?path=%2F29c8fed7ca22&security=none&encryption=none&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@80.90.185.80:9892?security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
