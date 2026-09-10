@@ -2,5 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?path=%2Fproxyip%3Dbpb.yousef.isegaro.comfp%3Dchrome&security=tls&encryption=none&insecure=0&host=web-socket.tgdaosheng.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=web-socket.tgdaosheng.ggff.net#Blindvpn%3A%3A%E2%9D%93
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.30:8880?encryption=none&host=vms.lifetime36.workers.dev&path=/&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Blindvpn%3A%3A%E2%9D%93
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@130.12.102.62:443?security=reality&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&fp=chrome&type=tcp&sni=localhost#Blindvpn%3A%3A%E2%9D%93
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@2.26.178.129:443?security=reality&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=localhost#Blindvpn%3A%3A%E2%9D%93
+vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#Blindvpn%3A%3A%E2%9D%93
+vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=&encryption=none&fm=https%3A%2F%2Ft.me%2FShadowFlux2&type=grpc&serviceName=security.debian.org#Blindvpn%3A%3A%E2%9D%93
+vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?security=reality&encryption=none&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=150a627d15154cf2#Blindvpn%3A%3A%E2%9D%93
+vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?security=reality&encryption=none&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=150a627d15154cf2#Blindvpn%3A%3A%E2%9D%93
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.69.42:22224?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%E2%9D%93
