@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://4ca5286a-05f1-476f-a5ff-e522a2f41b95@38.147.172.2:18830?security=reality&encryption=none&pbk=8kiQCMpifYMlVORGI8KxqQixS7COb-Sa43Kkxs0kxUQ&host=aws.amazon.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#Blindvpn%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vless://b28936a7-c11a-4147-8806-b66efd1658a8@45.144.137.129:41923?security=reality&encryption=none&pbk=7YfjX8TsT3HL0ZzvovjEDOLCM142j3bFcorv-Gs-m2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com#Blindvpn%3A%3A%F0%9F%87%AD%F0%9F%87%B0
