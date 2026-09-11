@@ -2,6 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+trojan://BxceQaOe@100.42.228.109:443?allowInsecure=1&sni=t.me%2Fripaojiedian#Blindvpn%3A%3A%E2%9D%93
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#Blindvpn%3A%3A%E2%9D%93
+trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Blindvpn%3A%3A%E2%9D%93
+vless://%58pnTeam-11@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%E2%9D%93
+vless://%58pnTeam-12@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%E2%9D%93
+vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&sid=c226283c4de5b1ad&type=grpc&authority=&serviceName=grpc&mode=gun#Blindvpn%3A%3A%E2%9D%93
+vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=lizca2.footballfantasyforum.com#Blindvpn%3A%3A%E2%9D%93
+vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=&encryption=none&fm=https%3A%2F%2Ft.me%2FShadowFlux2&type=grpc&serviceName=security.debian.org#Blindvpn%3A%3A%E2%9D%93
 vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?path=%2Fproxyip%3Dbpb.yousef.isegaro.comfp%3Dchrome&security=tls&encryption=none&insecure=0&host=web-socket.tgdaosheng.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=web-socket.tgdaosheng.ggff.net#Blindvpn%3A%3A%E2%9D%93
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.146.50:8880?type=ws&host=vms.lifetime36.workers.dev&path=/?ed=2560#Blindvpn%3A%3A%E2%9D%93
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.30:8880?encryption=none&host=vms.lifetime36.workers.dev&path=/&security=none&type=ws#Blindvpn%3A%3A%E2%9D%93
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#Blindvpn%3A%3A%E2%9D%93
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.15.183:22223?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%E2%9D%93
