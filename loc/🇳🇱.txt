@@ -2,8 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://6b03ffdd-6646-410b-b575-6c05eafdaf60@165.231.99.52:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=vusr-6aa2cf2b.adhil.uk#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://eaae5be2-8a3b-4edb-a968-39366a478ab2@146.103.98.84:443?security=reality&encryption=none&pbk=3e_yPFFI_hf_CmzsfdElJHdI9HlVaULKWanfMYY5qB0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl-74.southnets.work&sid=65201ddbe0cef5#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
