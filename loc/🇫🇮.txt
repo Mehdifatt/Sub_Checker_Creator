@@ -2,8 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://3a22ca95-bd99-4c6b-a799-f8f73930ea05@144.31.90.65:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=00a61d55a07de885&sni=fl.convert-flow.net&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&authority=%2F%3F&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=grpc&serviceName=TunService&sni=download.intel.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://3b9e513e-30d9-4ca8-8340-8f33fc6710de@188.132.237.20:2095?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=xhttp&sni=download.intel.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:443?encryption=none&security=reality&sni=www.epson.com&fp=chrome&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&type=xhttp&path=%2F&mode=auto#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@89.47.55.9:8443?encryption=none&security=reality&sni=download.intel.com&fp=chrome&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&type=grpc&serviceName=TunService#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&authority=%2F%3F&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=grpc&serviceName=TunService&sni=download.intel.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=grpc&serviceName=TunService&sni=download.intel.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE

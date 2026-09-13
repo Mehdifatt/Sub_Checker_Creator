@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@1cla9rpq6riwktu0yftq.gorvexo.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=Bj9X3UJ2D5Q14wfBOwTz3s09SkFRVgMKTcn93s6kNHo&sid=8c0d541cdfe5e68d&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B4
+vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@212.147.234.0:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=Bj9X3UJ2D5Q14wfBOwTz3s09SkFRVgMKTcn93s6kNHo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=41d14939ae4d616f#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B4
