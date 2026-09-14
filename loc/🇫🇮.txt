@@ -2,7 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://3b9e513e-30d9-4ca8-8340-8f33fc6710de@188.132.237.20:2095?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://0e6de971-69e8-4536-b06d-8b6eae57021b@37.143.129.244:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5HArul2NDXfFUxijHj1xiPCfH-77zuuRxylT1vWIvUY&security=reality&sid=48fd192dc4e46bc0&sni=gateway.icloud.com&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@46.8.237.12:2096?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=play-fe.googleapis.com&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=uycneynsieuocxniseunciusecmsepiock.novexgroup.ir#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@uycneynsieuocxniseunciusecmsepiock.novexgroup.ir:2096?security=tls&alpn=http%2F1.1&encryption=none&host=play-fe.googleapis.com&headerType=none&fp=chrome&type=tcp&sni=uycneynsieuocxniseunciusecmsepiock.novexgroup.ir#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?mode=gun&security=reality&encryption=none&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&fp=chrome&type=grpc&serviceName=TunService&sni=www.hp.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=xhttp&sni=download.nvidia.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=xhttp&sni=download.intel.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&authority=%2F%3F&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=grpc&serviceName=TunService&sni=download.intel.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=grpc&serviceName=TunService&sni=download.intel.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.sony.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
