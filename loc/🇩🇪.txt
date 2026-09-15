@@ -2,7 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://8b84bbec-9a55-47c2-ac2e-03c41065e572@140.82.34.114:25585?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-3.moritech.net:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e4668a2b-66d6-4500-bcef-5ed52414e40a@140.82.34.114:25585?security=&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://f5267873-5379-409e-b67a-145ea54deb70@undef.network:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
