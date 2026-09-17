@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://588456a5-f724-46a7-a08b-5d336d9f8f56@194.76.155.80:40443?security=reality&encryption=none&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=e496c7fe1cefc9ff#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://588456a5-f724-46a7-a08b-5d336d9f8f56@carina.yokkastars.com:40443?security=reality&encryption=none&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=e496c7fe1cefc9ff#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.221:22223?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@130.49.77.6:8443?mode=gun&security=reality&encryption=none&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.philips.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://XpnTeam-1@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.171.138:22223?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.81.71:22223?encryption=none&security=none&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
