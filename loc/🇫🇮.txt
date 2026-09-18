@@ -2,8 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?path=%2F&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=xhttp&sni=www.epson.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.6:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&fp=chrome&type=xhttp&sni=www.hp.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@130.49.77.6:443?path=%2F&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=xhttp&sni=download.nvidia.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@130.49.77.6:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=xhttp&sni=download.nvidia.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@45.88.13.5:8443?mode=gun&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://d65a82af-a403-405e-8b7b-27a68b830511@freeman.cvbesty.ir:10210?mode=gun&security=reality&encryption=none&pbk=twRm8a1BBdz2Q5jTuNbXxA7ZdtDPAyQNEycDYkW9DFc&fp=chrome&type=grpc&sni=play-apps-features.googleusercontent.com&sid=13121b7150ad7fc6#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://cc3ec459-8d76-4066-ab4b-2614608f1afb@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
