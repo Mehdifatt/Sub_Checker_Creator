@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://279a8eef-898f-44ef-b4f5-67a494f4b542@77.233.213.106:40443?security=reality&encryption=none&pbk=vAG5o6TQvpZAlvDnlyhHEFZBuSgEV_ybQigD_mGKh1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=5b98#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://1f1268ea-a3e1-5efc-3674-90ece29e45d5@ahbpanel-production-1919.up.railway.app:443?path=%2Fws%2F1f1268ea-a3e1-5efc-3674-90ece29e45d5&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ahbpanel-production-1919.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ahbpanel-production-1919.up.railway.app#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://6a9f6c23-2b38-4720-9305-337f494f50a4@138.124.109.158:443?security=reality&encryption=none&pbk=cttKOS1BlF-u-mvX63PWNPJK6W_RXfx1wo8yjBEt1hI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a2eb8d694a5480ff#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://turboo-server@199.232.237.79:443?encryption=none&security=tls&sni=turboo-server-telegram.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=turboo-server-telegram.com&path=%2F#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
