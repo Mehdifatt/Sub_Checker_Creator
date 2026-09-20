@@ -3,5 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://0a419fe1-068e-422f-911a-4977fa944e08@88.99.161.169:11342?security=reality&encryption=none&pbk=W2swPTQYWu_rfjh2fnyzQ5zg6lK5wKv2Z-mBpVI6_Bg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=6f7b38bd9420c4b8#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://37cec958-22ac-4d99-aee2-48facd8d84d7@144.31.57.48:4143?mode=gun&security=reality&encryption=none&pbk=EB4Ay55d7wUDYVTfDNXg2sX2PxWqNqsyivR4fGcELDo&fp=firefox&type=grpc&serviceName=google.android.location.SyncService&sni=yandex.ru&sid=ad63#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@136.148.71.4:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de2.edge-9d7c.com&sid=9d84de9d9f7b85e9#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
