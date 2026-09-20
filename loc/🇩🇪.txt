@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://0a419fe1-068e-422f-911a-4977fa944e08@88.99.161.169:11342?security=reality&encryption=none&pbk=W2swPTQYWu_rfjh2fnyzQ5zg6lK5wKv2Z-mBpVI6_Bg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=6f7b38bd9420c4b8#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://0a419fe1-068e-422f-911a-4977fa944e08@88.99.161.169:11342?security=reality&encryption=none&pbk=W2swPTQYWu_rfjh2fnyzQ5zg6lK5wKv2Z-mBpVI6_Bg&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=6f7b38bd9420c4b8#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://60a361f9-3c45-4954-9e4c-92a85bda243d@31.184.244.162:2053?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=mzrVbIsEggpJfXR8M7yxki2vgv3sXWQdy1bGhXqatUY&fp=firefox&type=grpc&serviceName=grpc&sni=www.google.com&sid=4881f8244d1b9021#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
