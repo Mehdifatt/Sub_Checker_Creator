@@ -3,10 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@88.216.63.21:443?security=reality&encryption=none&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hhhorp.plus-hit.ru&sid=7c8e3d4a9b1f26d3#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://turboo-server@199.232.237.79:443?encryption=none&security=tls&sni=turboo-server-telegram.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=turboo-server-telegram.com&path=%2F#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
