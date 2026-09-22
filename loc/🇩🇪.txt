@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?alpn=http%2F1.1&encryption=none&host=hub-de-03.hanvpn.cc&path=%2Fde03-ws-8e47a&security=tls&sni=hub-de-03.hanvpn.cc&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.96.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-571299667-direct.mbghalibaf.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@144.31.214.172:9443?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&host=storage.yandexcloud.net&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=ad20d2bc#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://cc01f435-d561-4525-bf1f-7a9876d33207@2.26.53.224:5432?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
