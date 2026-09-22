@@ -4,4 +4,3 @@
 
 vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@151.101.56.6:443?encryption=none&type=ws&security=tls&path=%2F%3FTELEGRAM--KANAL--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray--%40mainv2ray&host=c12.com&sni=ssl.fastly.com&alpn=h2&fp=firefox&insecure=0&allowInsecure=0#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://e5d73666-1ac5-49fc-8e4d-5c8cad769588@148.135.185.21:8445?mode=gun&security=reality&encryption=none&pbk=_UazRMiBq9RqMaVrHeLsvUuoBkGFo9Gm-A4ivuZ6ZS8&fp=safari&type=grpc&serviceName=Google&sni=hetzner.com&sid=6ba85179e30d4fc2#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
