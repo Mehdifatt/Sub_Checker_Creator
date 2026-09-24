@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.170.37:22224?security=&encryption=none&headerType=&type=tcp#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://%58pnTeam-29@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://%58pnTeam-30@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
