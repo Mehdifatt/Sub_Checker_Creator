@@ -2,12 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-hysteria2://V2RayyNGvpn@168.222.43.35:443?security=tls&obfs=salamander&obfs-password=V2RayyNGvpn&insecure=0&pinSHA256=8b5ac8eb1c23f208cb6e92bd41407d32994b0668d3ba2b0cd56400dca8c0b843&sni=Play.google.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@193.202.10.2:40443?security=reality&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@45.95.96.236:443?security=reality&encryption=none&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&host=%2F%3F&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gesmankos.sadiepinki.com&sid=4fa44664f6a566d3#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@gesmankos.sadiepinki.com:443?headerType=none&type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&fp=firefox&sid=4fa44664f6a566d3&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@gesmankos.sadiepinki.com:443?security=reality&encryption=none&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sid=4fa44664f6a566d3#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@51.38.127.93:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@31.76.82.109:8443?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&host=storage.yandexcloud.net&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=d8d4ee24#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
