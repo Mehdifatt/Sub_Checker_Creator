@@ -2,9 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://bd7cee6f-251d-4a2a-bea2-fa2e47da66f9@centerbeam.proxy.rlwy.net:57693?encryption=none&host=&path=%2F&security=none&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://af24a0e4-f5a2-4b97-a678-992d45346147@108.186.180.148:30865?security=tls&obfs=salamander&obfs-password=d2e3c1b8a16952ae9cf06dfc05b3588a&insecure=1&pinSHA256=ed74aaf760b5380376ef151b9a5c25f9e177c9ddba479d33c6426b6bade29311&sni=www.bing.com#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
