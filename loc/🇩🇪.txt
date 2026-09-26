@@ -1,0 +1,7 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@64.188.126.56:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=64.188.126.56&fp=safari&pbk=jjbMUO41S9JE7ou_zbbDStzSYLzJVN_0O-j0f6b380E&sid=bf4e20af99d3042d&spx=%2F&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://56ba454e-f6c3-4965-ab7c-a752b9d075fa@netcraft.com:2053?allowInsecure=0&path=%2Fapi%2Fv1%2Fpayment%2Fverify%2F9mQ2rL8sKp4xN7&sni=camera.tgseenrobo.ir&alpn=h2&security=tls&encryption=none&type=ws&insecure=0&fp=firefox#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://ebeabf86-9b3d-4fdd-8fee-bfd65ca1ae36@199.232.78.159:80?encryption=none&security=none&type=ws&host=yaSharClass.global.ssl.fastly.net&path=%2F#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
