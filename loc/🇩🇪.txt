@@ -2,4 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?path=%2Ffd5ba98a3970&security=&encryption=none&type=ws#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@146.103.43.8:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@193.56.135.233:9543?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandexcloud.net&fp=safari&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=123abcde&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
