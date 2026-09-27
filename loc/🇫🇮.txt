@@ -3,3 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.2:8443?mode=gun&security=reality&encryption=none&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&fp=chrome&type=grpc&serviceName=TunService&sni=www.hp.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.3:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&fp=chrome&type=xhttp&sni=www.hp.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.3:8443?mode=gun&security=reality&encryption=none&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&fp=chrome&type=grpc&serviceName=TunService&sni=www.hp.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.3:8443?encryption=none&security=reality&sni=www.hp.com&fp=chrome&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&type=grpc&authority=%2F%3FDailyConfigs--DailyConfigs&serviceName=TunService&mode=gun#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.3:8443?encryption=none&type=grpc&security=reality&serviceName=TunService&authority=%2F%3FDailyConfigs--DailyConfigs&mode=gun&sni=www.hp.com&fp=chrome&insecure=1&allowInsecure=1&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%AE
