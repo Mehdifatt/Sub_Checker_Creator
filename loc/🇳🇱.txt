@@ -2,8 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://9e9fd625-e4d7-4944-ae7e-4145342fa5db@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=pan2e.global.ssl.fastly.net&path=%2F#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@192.209.62.152:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=kosta6.api3-max.ru#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://f9efda95-f3c2-4bc8-aa76-1d4f24b22865@192.209.62.60:34342?spx=%2F&fp=safari&sni=ai.android&encryption=none&pbk=HmwzxFFwRhjA1k4_wibGamDBx4d_38dQ7xzo9kGOwC8&sid=9f2b4d4c&security=reality&type=xhttp#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
