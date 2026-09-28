@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@185.171.202.106:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fra2.loozerp.wiki&sid=ff776ff77be48b88#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://9e3132b8-b595-444a-833a-2de44789f9d7@94.130.178.194:443?encryption=none&security=tls&sni=shephe.dpdns.org&fp=chrome&type=ws&host=shephe.dpdns.org&path=%2F#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://9e3132b8-b595-444a-833a-2de44789f9d7@94.130.178.194:443?path=%2F&security=tls&encryption=none&insecure=0&host=shephe.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=shephe.dpdns.org#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
