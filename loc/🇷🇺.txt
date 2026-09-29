@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fbsv6.guardora.pro&fp=random&type=ws&allowInsecure=0&sni=fbsv6.guardora.pro#Blindvpn%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://84a3061b-3573-4a3c-a631-f26c31209268@95.215.108.36:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ru-02.vacvps.com&fp=firefox&pbk=bDAry75taTMaPJII9vRrJuXAjQglTJxCOVWraQ5BozY&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%B7%F0%9F%87%BA

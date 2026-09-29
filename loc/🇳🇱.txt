@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://ca5ffe64-81e0-42f0-a136-03cc4f662a4f@94.249.225.106:443?security=reality&encryption=none&pbk=oFuK9Xldbcr064LYxzvc-wGEQpdTs5J3ybFuOXlW0SQ&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=thnet.krusofiya.fun&sid=8fffb104368e75d5#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443?path=%2F&security=none&encryption=none&host=neth8.lunariai.ru&type=ws#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://8340b1af-8d36-4b1b-b117-28528c273f72@86v99n-10.p.portshaper.com:8448?mode=gun&security=reality&encryption=none&pbk=ZgSVwP_wlM4-oG8E03W3cMqK_VrS8oHXF4wzyBkISWo&fp=firefox&type=grpc&serviceName=media.ingest.v2.ChunkUploadService&sni=86v99n-10.p.portshaper.com&sid=a1b2c3d4#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
