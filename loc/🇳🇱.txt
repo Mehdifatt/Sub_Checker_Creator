@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://0f4081e7-612b-425f-8def-eebf144aedba@2.27.249.133:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=vault.connectiux.com&sid=9e15546f267baa64#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&path=/XIXVPN?ed=2560#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://e912c78c-7b74-46d8-a4ff-6188f23689a7@ir.co.uk.ru.com.jnxu.ir:8880?security=reality&encryption=none&pbk=O5VmSvisGBWWth2N2eyeTR0b-lzDh_431HqaF5kypXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=8adb1ea795676432#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://487cc59a-7675-f16b-a222-b2ddddac8b0c@ahbpanel-production-52fb.up.railway.app:443?encryption=none&security=tls&type=ws&host=ahbpanel-production-52fb.up.railway.app&path=/ws/487cc59a-7675-f16b-a222-b2ddddac8b0c&sni=ahbpanel-production-52fb.up.railway.app&fp=chrome&alpn=http/1.1#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
