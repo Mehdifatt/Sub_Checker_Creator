@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@222.167.245.240:28015?security=tls&insecure=0&sni=api-test-udp-traffic.kaneki.cfd#Blindvpn%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@108.181.5.106:51285/?insecure=1&sni=www.bing.com#Blindvpn%3A%3A%E2%9D%93
+hysteria2://033dc6b532@77.232.139.128:11592?security=tls&obfs=salamander&obfs-password=eba1b4766d2a26d6c167e2d2e9efabf4&insecure=0&sni=srv-8718e6.frd21.ru#Blindvpn%3A%3A%F0%9F%87%BA%F0%9F%87%B8
