@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@de2.srv.vbuste.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de2.srv.vbuste.ru&fp=randomized&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://9a1b2785-6baf-455c-9f75-80157ee7f7c5@150.241.64.105:443?security=reality&encryption=none&pbk=PK5kinwngrsb3QKJwwpeMcL4Iqj4r-ck7EwZDl62Sng&headerType=none&fp=safari&spx=%2Fb96QExcv9dD3NQe&type=tcp&flow=xtls-rprx-vision&sni=conv.unit-digital.com&sid=7d286a1f#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://806fa224-44f7-4c1b-b7a3-05bfdfdfbf87@iiproxy888.iiproxy.com:8443?encryption=none&security=tls&sni=iiproxy888.iiproxy.com&alpn=h2%2C%20http%2F1.1&fp=chrome&type=ws&host=iiproxy888.iiproxy.com&path=%2F#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://6ead3f4c-023f-4322-b5c4-ac4e327d259d@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?security=reality&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA

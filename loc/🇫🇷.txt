@@ -3,4 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277&insecure=0&sni=srv-3fc7c9.21freedom.net#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://a45dbb94-2b77-4193-86d5-ddd173764c79@88.218.42.194:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=shop.appstop.link&fp=safari&pbk=x_vD8zQpGWnZPOVr5ku4-jKdf0n-CEN73a1DdgaHUGs&sid=92dd24b2286678d2&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://%58pnTeam-71@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://%58pnTeam-72@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vmess://eyJhZGQiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5mb3J0cmVzc2hvc3QuaXIuIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ3OTUyNmNkLTUwMTEtNDNjZi1hNzg4LTUwNGRhOTVlMDdjMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IkJsaW5kdnBuOjrwn4er8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
