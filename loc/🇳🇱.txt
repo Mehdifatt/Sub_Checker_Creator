@@ -3,4 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://6EEINO4XoG1Bl0PrG3Pvrg@130.17.20.207:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=h3&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&insecure=0&host=z.2233nm.fun&fp=chrome&type=ws&allowInsecure=0&sni=z.2233nm.fun#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://9e8bb5eb-8435-4909-875c-552c010ec6cc@roundhouse.proxy.rlwy.net:40235?encryption=none&host=&path=%2F&security=none&type=httpupgrade#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
