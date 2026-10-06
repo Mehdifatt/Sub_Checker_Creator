@@ -2,5 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://20ef7310-0b50-4943-98a6-3d0856b383b1@196.240.125.3:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=vusr-6ac431f4.adhil.uk#Blindvpn%3A%3A%E2%9D%93
+vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.246:8443?path=%2Fvpn-wss%2Ffluxor%2F59011%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fdghyt.com&type=ws&allowInsecure=0&sni=fdghyt.com#Blindvpn%3A%3A%E2%9D%93
+vless://6ead3f4c-023f-4322-b5c4-ac4e327d259d@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%E2%9D%93
+vless://6ead3f4c-023f-4322-b5c4-ac4e327d259d@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%E2%9D%93
 vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Blindvpn%3A%3A%E2%9D%93
-vmess://eyJhZGQiOiIzMS43Ny44Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQyZDg2MDFiLWMxNGItNDJjNi1iOGVhLTMzODg5YmNlMTUyYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjExMCIsInBzIjoiQmxpbmR2cG46OuKdkyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?security=reality&encryption=none&pbk=5B83otQ5ZQwtBFhR7xzsGJRXflkFKRJpQguYbE5JWGI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=c85d029f5e8eb393#Blindvpn%3A%3A%E2%9D%93
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@163.245.52.91:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=d3-ee1.cloud-cdn.xyz&fp=chrome&pbk=g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ&sid=ad6e08b22389abd2&type=tcp&headerType=none#Blindvpn%3A%3A%E2%9D%93
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#Blindvpn%3A%3A%E2%9D%93
