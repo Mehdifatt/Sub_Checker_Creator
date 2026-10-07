@@ -2,7 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@de.zhabulik.ru:443?security=tls&sni=de.zhabulik.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=P-r-oVr8MTTCILgRxk8YuB9OKVojYw3MkH_ERUXzX3s&sid=b76a6309&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@31.76.6.4:8443?security=reality&encryption=none&pbk=dhu6bLcaJC9Dp8YPsVWWjeoswiPWkaw_OmX0-n0jAF4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=olivepress.gazette.help&sid=f3bd8a54f8fd990f#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://db4fb2a7-a31d-46d8-b6d2-76eafe8cfe2a@fr2.vip-get.ru:443?encryption=none&security=tls&sni=fr2.vip-get.ru&fp=firefox&type=ws&path=%2Fapi%2Fdownload#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
