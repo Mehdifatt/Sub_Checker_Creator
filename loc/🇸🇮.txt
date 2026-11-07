@@ -1,0 +1,8 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.155:14443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-slo04.rkitman.ru&pbk=mGTe1s-luknrPURs4KI4fjdCXZAq03f_-b7by6Dr-CI&sid=e204defc87a8949e&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AE
+vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.160:14443?security=reality&encryption=none&pbk=fmZQYGYXw4xYtiuMFvH4Dgse1DBoGazt-vWM7LOdchY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-slo05.rkitman.ru&sid=e013fa99a81badcc#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AE
+vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.155:14443?security=reality&encryption=none&pbk=mGTe1s-luknrPURs4KI4fjdCXZAq03f_-b7by6Dr-CI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-slo04.rkitman.ru&sid=e204defc87a8949e#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AE
+vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.155:14443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=node-slo04.rkitman.ru&pbk=mGTe1s-luknrPURs4KI4fjdCXZAq03f_-b7by6Dr-CI&sid=e204defc87a8949e&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%B8%F0%9F%87%AE
