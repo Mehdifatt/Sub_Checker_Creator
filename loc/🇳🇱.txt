@@ -1,0 +1,9 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://0809eed6-5204-49b8-8312-b82a10024022@94.249.195.239:43000?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=U_dxFnbfesmgSwL-SlpvGYFbpY5vlJ1kb52knlCXkkI&sid=8cfe1563&spx=%2F&type=tcp&headerType=none#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://0809eed6-5204-49b8-8312-b82a10024022@94.249.195.239:43000?security=reality&encryption=none&pbk=U_dxFnbfesmgSwL-SlpvGYFbpY5vlJ1kb52knlCXkkI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=8cfe1563#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://68a67906-5b37-4779-a6cc-58a1655f18b4@zug-net.locallynet.org:6443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zug-net.locallynet.org#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://68a67906-5b37-4779-a6cc-58a1655f18b4@zug-net.locallynet.org:6443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=zug-net.locallynet.org#Blindvpn%3A%3A%F0%9F%87%B3%F0%9F%87%B1
