@@ -2,5 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.244:2053?sni=144.31.215.244&flow=xtls-rprx-vision&fp=safari&security=tls#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.223:2053?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=144.31.215.223#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-de5955.shopingggg.ir:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=service-41f6a2a01377#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=o685y.save-node.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@o685y.save-node.com:443?path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=o685y.save-node.com#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.244:2053?encryption=none&type=tcp&security=tls&headerType=none&sni=144.31.215.244&fp=safari&flow=xtls-rprx-vision#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?encryption=none&security=none&serviceName=service-41f6a2a01377&type=grpc#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=&encryption=none&type=grpc&serviceName=service-41f6a2a01377#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@144.31.140.125:8443?security=reality&encryption=none&pbk=wgyw3OxZw4HEzedNdY_eHdcVkrtT7GEeZSHfzcZ8iDo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=168c15efac9df5fd#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@144.31.140.125:8443?security=reality&type=tcp&packetEncoding=xudp&sni=twitch.tv&fp=chrome&flow=xtls-rprx-vision&sid=168c15efac9df5fd&pbk=wgyw3OxZw4HEzedNdY_eHdcVkrtT7GEeZSHfzcZ8iDo#Blindvpn%3A%3A%F0%9F%87%A9%F0%9F%87%AA
