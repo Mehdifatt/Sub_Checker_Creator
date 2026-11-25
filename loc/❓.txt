@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@48.102.204.67:8443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#Blindvpn%3A%3A%E2%9D%93
-vless://364D2D52-E61E-4E52-80EC-2BC6BDF15349@172.67.139.189:443?encryption=none&security=tls&sni=fr-free.fastestrelay.com&fp=chrome&type=ws&host=fr-free.fastestrelay.com&path=%2F700gvl#Blindvpn%3A%3A%E2%9D%93
-vless://55b3fd10-3658-40a2-8951-ec90932d1d30@chatgpt.com:443?encryption=none&type=ws&host=sinavm2.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&fp=chrome&sni=sinavm2.soft10.ir&alpn=http%2F1.1%2Ch2%2Ch3#Blindvpn%3A%3A%E2%9D%93
+trojan://lDU6Jpl4nSXA-x4sWmb1LQ@ipfast.kingmna.com:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2FTELEGRAM-%40N%55FiLTER-TELEGRAM-%40N%55FiLTER-TELEGRAM-%40N%55FiLTER-TELEGRAM-%40N%55FiLTER-TELEGRAM-%40N%55FiLTER-TELEGRAM-%40N%55FiLTER-TELEGRAM-%40N%55FiLTER-TELEGRAM-%40N%55FiLTER&security=tls&insecure=0&host=copy_az_channel_N%55FiLTER_7i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#Blindvpn%3A%3A%E2%9D%93
+vless://20b436fc-2c54-4248-b70d-14b8d6916d41@154.197.64.252:443?encryption=none&fp=chrome&host=worker3.harijo3330.workers.dev&path=/HGCmKaXbRNqpZqMv&security=tls&sni=worker3.harijo3330.workers.dev&type=ws#Blindvpn%3A%3A%E2%9D%93
